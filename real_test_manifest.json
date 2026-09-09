@@ -37,9 +37,7 @@
     "mappingStatusCounts": {
       "AUTO": 641,
       "NO_TARGET": 9
-    },
-    "autoMappedPositions": 641,
-    "uniqueAutoMappedLensFocals": 641
+    }
   },
   "entries": [
     {
@@ -2565,7 +2563,7 @@
     {
       "sourceSeries": "Angenieux Optimo Anamorphic",
       "sourceLensDir": "44-440mm_T4.5 100m",
-      "focalMm": 100.0,
+      "focalMm": 440.0,
       "capture": {
         "down": "Angenieux Optimo Anamorphic/44-440mm_T4.5 100m/DOWN/名称未設定-29.webp",
         "open": "Angenieux Optimo Anamorphic/44-440mm_T4.5 100m/OPEN/名称未設定-40.webp"
@@ -2579,7 +2577,7 @@
         "hexp": 1.0
       },
       "mappingStatus": "AUTO",
-      "mappingNote": "legacy folder uses single 'm'; interpreted as focal mm from explicit numeric token",
+      "mappingNote": "range exact",
       "lensScopeIndex": 99,
       "lensScopeMaker": "Angénieux",
       "lensScopeName": "Optimo Anamorphic 44-440 A2S",
@@ -3213,7 +3211,7 @@
     {
       "sourceSeries": "Angenieux Optimo Style",
       "sourceLensDir": "16-40mm_T2.8_21m",
-      "focalMm": 21.0,
+      "focalMm": 40.0,
       "capture": {
         "down": "Angenieux Optimo Style/16-40mm_T2.8_21m/DOWN/名称未設定-18.webp",
         "open": "Angenieux Optimo Style/16-40mm_T2.8_21m/OPEN/名称未設定-6.webp"
@@ -3227,7 +3225,7 @@
         "hexp": 1.0
       },
       "mappingStatus": "AUTO",
-      "mappingNote": "legacy folder uses single 'm'; interpreted as focal mm from explicit numeric token",
+      "mappingNote": "range exact",
       "lensScopeIndex": 84,
       "lensScopeMaker": "Angénieux",
       "lensScopeName": "Optimo Style 16-40 T2.8",

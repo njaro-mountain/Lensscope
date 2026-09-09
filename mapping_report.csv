@@ -1,651 +1,651 @@
-﻿sourceSeries,sourceLensDir,focalMm,mappingStatus,mappingNote,lensScopeIndex,lensScopeMaker,lensScopeName,legacyNameTypoSuspected,hasCalibrationCsv
-ARRI:ZEISS Master Anamorphic, 100mm T1.9,100.0,AUTO,series+focal family exact,42,ARRI / ZEISS,Master Anamorphic 2x,False,True
-ARRI:ZEISS Master Anamorphic, 135mm T1.9,135.0,AUTO,series+focal family exact,42,ARRI / ZEISS,Master Anamorphic 2x,False,True
-ARRI:ZEISS Master Anamorphic, 180mm T2.8,180.0,AUTO,series+focal family exact,42,ARRI / ZEISS,Master Anamorphic 2x,False,True
-ARRI:ZEISS Master Anamorphic,28mm_T1.9,28.0,AUTO,series+focal family exact,42,ARRI / ZEISS,Master Anamorphic 2x,False,True
-ARRI:ZEISS Master Anamorphic,35mm_T1.9,35.0,AUTO,series+focal family exact,42,ARRI / ZEISS,Master Anamorphic 2x,False,True
-ARRI:ZEISS Master Anamorphic,40mm_T1.9,40.0,AUTO,series+focal family exact,42,ARRI / ZEISS,Master Anamorphic 2x,False,True
-ARRI:ZEISS Master Anamorphic,50mm_T1.9,50.0,AUTO,series+focal family exact,42,ARRI / ZEISS,Master Anamorphic 2x,False,True
-ARRI:ZEISS Master Anamorphic,60mm_T1.9,60.0,AUTO,series+focal family exact,42,ARRI / ZEISS,Master Anamorphic 2x,False,True
-ARRI:ZEISS Master Anamorphic,75mm_T1.9,75.0,AUTO,series+focal family exact,42,ARRI / ZEISS,Master Anamorphic 2x,False,True
-ARRI:ZEISS Master Prime, 100mm T1.3,100.0,AUTO,series exact,7,ARRI / ZEISS,Master Prime,False,True
-ARRI:ZEISS Master Prime, 135mm T1.3,135.0,AUTO,series exact,7,ARRI / ZEISS,Master Prime,False,True
-ARRI:ZEISS Master Prime, 150mm T1.3,150.0,AUTO,series exact,7,ARRI / ZEISS,Master Prime,False,True
-ARRI:ZEISS Master Prime,12mm_T1.3,12.0,AUTO,series exact,7,ARRI / ZEISS,Master Prime,False,True
-ARRI:ZEISS Master Prime,14mm_T1.3,14.0,AUTO,series exact,7,ARRI / ZEISS,Master Prime,False,True
-ARRI:ZEISS Master Prime,16mm_T1.3,16.0,AUTO,series exact,7,ARRI / ZEISS,Master Prime,False,True
-ARRI:ZEISS Master Prime,18mm_T1.3,18.0,AUTO,series exact,7,ARRI / ZEISS,Master Prime,False,True
-ARRI:ZEISS Master Prime,21mm_T1.3,21.0,AUTO,series exact,7,ARRI / ZEISS,Master Prime,False,True
-ARRI:ZEISS Master Prime,25mm_T1.3,25.0,AUTO,series exact,7,ARRI / ZEISS,Master Prime,False,True
-ARRI:ZEISS Master Prime,27mm_T1.3,27.0,AUTO,series exact,7,ARRI / ZEISS,Master Prime,False,True
-ARRI:ZEISS Master Prime,32mm_T1.3,32.0,AUTO,series exact,7,ARRI / ZEISS,Master Prime,False,True
-ARRI:ZEISS Master Prime,35mm_T1.3,35.0,AUTO,series exact,7,ARRI / ZEISS,Master Prime,False,True
-ARRI:ZEISS Master Prime,40mm_T1.3,40.0,AUTO,series exact,7,ARRI / ZEISS,Master Prime,False,True
-ARRI:ZEISS Master Prime,50mm_T1.3,50.0,AUTO,series exact,7,ARRI / ZEISS,Master Prime,False,True
-ARRI:ZEISS Master Prime,65mm_T1.3,65.0,AUTO,series exact,7,ARRI / ZEISS,Master Prime,False,True
-ARRI:ZEISS Master Prime,75mm_T1.3,75.0,AUTO,series exact,7,ARRI / ZEISS,Master Prime,False,True
-ARRI:ZEISS Ultra Prime, 100mm T1.9,100.0,AUTO,series exact,8,ARRI / ZEISS,Ultra Prime,False,True
-ARRI:ZEISS Ultra Prime, 135mm T1.9,135.0,AUTO,series exact,8,ARRI / ZEISS,Ultra Prime,False,True
-ARRI:ZEISS Ultra Prime, 180mm T1.9,180.0,AUTO,series exact,8,ARRI / ZEISS,Ultra Prime,False,True
-ARRI:ZEISS Ultra Prime,14mm_T1.9,14.0,AUTO,series exact,8,ARRI / ZEISS,Ultra Prime,False,True
-ARRI:ZEISS Ultra Prime,16mm_T1.9,16.0,AUTO,series exact,8,ARRI / ZEISS,Ultra Prime,False,True
-ARRI:ZEISS Ultra Prime,20mm_T1.9,20.0,AUTO,series exact,8,ARRI / ZEISS,Ultra Prime,False,True
-ARRI:ZEISS Ultra Prime,24mm_T1.9,24.0,AUTO,series exact,8,ARRI / ZEISS,Ultra Prime,False,True
-ARRI:ZEISS Ultra Prime,28mm_T1.9,28.0,AUTO,series exact,8,ARRI / ZEISS,Ultra Prime,False,True
-ARRI:ZEISS Ultra Prime,32mm_T1.9,32.0,AUTO,series exact,8,ARRI / ZEISS,Ultra Prime,False,True
-ARRI:ZEISS Ultra Prime,40mm_T1.9,40.0,AUTO,series exact,8,ARRI / ZEISS,Ultra Prime,False,True
-ARRI:ZEISS Ultra Prime,50mm_T1.9,50.0,AUTO,series exact,8,ARRI / ZEISS,Ultra Prime,False,True
-ARRI:ZEISS Ultra Prime,65mm_T1.9,65.0,AUTO,series exact,8,ARRI / ZEISS,Ultra Prime,False,True
-ARRI:ZEISS Ultra Prime,85mm_T1.9,85.0,AUTO,series exact,8,ARRI / ZEISS,Ultra Prime,False,True
-Alura,18-80mm_T2.6_18mm,18.0,AUTO,range exact,72,ARRI / FUJINON,Alura Studio Zoom 18-80 T2.6,False,True
-Alura,18-80mm_T2.6_22mm,22.0,AUTO,range exact,72,ARRI / FUJINON,Alura Studio Zoom 18-80 T2.6,False,True
-Alura,18-80mm_T2.6_25mm,25.0,AUTO,range exact,72,ARRI / FUJINON,Alura Studio Zoom 18-80 T2.6,False,True
-Alura,18-80mm_T2.6_30mm,30.0,AUTO,range exact,72,ARRI / FUJINON,Alura Studio Zoom 18-80 T2.6,False,True
-Alura,18-80mm_T2.6_35mm,35.0,AUTO,range exact,72,ARRI / FUJINON,Alura Studio Zoom 18-80 T2.6,False,True
-Alura,18-80mm_T2.6_40mm,40.0,AUTO,range exact,72,ARRI / FUJINON,Alura Studio Zoom 18-80 T2.6,False,True
-Alura,18-80mm_T2.6_50mm,50.0,AUTO,range exact,72,ARRI / FUJINON,Alura Studio Zoom 18-80 T2.6,False,True
-Alura,18-80mm_T2.6_60mm,60.0,AUTO,range exact,72,ARRI / FUJINON,Alura Studio Zoom 18-80 T2.6,False,True
-Alura,18-80mm_T2.6_70mm,70.0,AUTO,range exact,72,ARRI / FUJINON,Alura Studio Zoom 18-80 T2.6,False,True
-Alura,18-80mm_T2.6_80mm,80.0,AUTO,range exact,72,ARRI / FUJINON,Alura Studio Zoom 18-80 T2.6,False,True
-Alura,45-250mm_T2.6 100mm,100.0,AUTO,range exact,73,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,False,True
-Alura,45-250mm_T2.6 120mm,120.0,AUTO,range exact,73,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,False,True
-Alura,45-250mm_T2.6 140mm,140.0,AUTO,range exact,73,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,False,True
-Alura,45-250mm_T2.6 160mm,160.0,AUTO,range exact,73,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,False,True
-Alura,45-250mm_T2.6 180mm,180.0,AUTO,range exact,73,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,False,True
-Alura,45-250mm_T2.6 200mm,200.0,AUTO,range exact,73,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,False,True
-Alura,45-250mm_T2.6 250mm,250.0,AUTO,range exact,73,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,False,True
-Alura,45-250mm_T2.6_45mm,45.0,AUTO,range exact,73,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,False,True
-Alura,45-250mm_T2.6_50mm,50.0,AUTO,range exact,73,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,False,True
-Alura,45-250mm_T2.6_60mm,60.0,AUTO,range exact,73,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,False,True
-Alura,45-250mm_T2.6_70mm,70.0,AUTO,range exact,73,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,False,True
-Alura,45-250mm_T2.6_80mm,80.0,AUTO,range exact,73,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,False,True
-Alura,45-250mm_T2.6_90mm,90.0,AUTO,range exact,73,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,False,True
-Alura LIGHT WEIGHT,15.5-45mm_T2.8_15.5mm,15.5,AUTO,range exact,74,ARRI / FUJINON,Alura Lightweight Zoom 15.5-45 T2.8,False,True
-Alura LIGHT WEIGHT,15.5-45mm_T2.8_18mm,18.0,AUTO,range exact,74,ARRI / FUJINON,Alura Lightweight Zoom 15.5-45 T2.8,False,True
-Alura LIGHT WEIGHT,15.5-45mm_T2.8_20mm,20.0,AUTO,range exact,74,ARRI / FUJINON,Alura Lightweight Zoom 15.5-45 T2.8,False,True
-Alura LIGHT WEIGHT,15.5-45mm_T2.8_22mm,22.0,AUTO,range exact,74,ARRI / FUJINON,Alura Lightweight Zoom 15.5-45 T2.8,False,True
-Alura LIGHT WEIGHT,15.5-45mm_T2.8_25mm,25.0,AUTO,range exact,74,ARRI / FUJINON,Alura Lightweight Zoom 15.5-45 T2.8,False,True
-Alura LIGHT WEIGHT,15.5-45mm_T2.8_28mm,28.0,AUTO,range exact,74,ARRI / FUJINON,Alura Lightweight Zoom 15.5-45 T2.8,False,True
-Alura LIGHT WEIGHT,15.5-45mm_T2.8_30mm,30.0,AUTO,range exact,74,ARRI / FUJINON,Alura Lightweight Zoom 15.5-45 T2.8,False,True
-Alura LIGHT WEIGHT,15.5-45mm_T2.8_32mm,32.0,AUTO,range exact,74,ARRI / FUJINON,Alura Lightweight Zoom 15.5-45 T2.8,False,True
-Alura LIGHT WEIGHT,15.5-45mm_T2.8_35mm,35.0,AUTO,range exact,74,ARRI / FUJINON,Alura Lightweight Zoom 15.5-45 T2.8,False,True
-Alura LIGHT WEIGHT,15.5-45mm_T2.8_40mm,40.0,AUTO,range exact,74,ARRI / FUJINON,Alura Lightweight Zoom 15.5-45 T2.8,False,True
-Alura LIGHT WEIGHT,15.5-45mm_T2.8_45mm,45.0,AUTO,range exact,74,ARRI / FUJINON,Alura Lightweight Zoom 15.5-45 T2.8,False,True
-Angenieux Optimo,17-80mm_T2.2_17mm,17.0,AUTO,range exact,115,Angénieux,Optimo 17-80 T2.2,False,True
-Angenieux Optimo,17-80mm_T2.2_20mm,20.0,AUTO,range exact,115,Angénieux,Optimo 17-80 T2.2,False,True
-Angenieux Optimo,17-80mm_T2.2_22mm,22.0,AUTO,range exact,115,Angénieux,Optimo 17-80 T2.2,False,True
-Angenieux Optimo,17-80mm_T2.2_25mm,25.0,AUTO,range exact,115,Angénieux,Optimo 17-80 T2.2,False,True
-Angenieux Optimo,17-80mm_T2.2_30mm,30.0,AUTO,range exact,115,Angénieux,Optimo 17-80 T2.2,False,True
-Angenieux Optimo,17-80mm_T2.2_35mm,35.0,AUTO,range exact,115,Angénieux,Optimo 17-80 T2.2,False,True
-Angenieux Optimo,17-80mm_T2.2_40mm,40.0,AUTO,range exact,115,Angénieux,Optimo 17-80 T2.2,False,True
-Angenieux Optimo,17-80mm_T2.2_50mm,50.0,AUTO,range exact,115,Angénieux,Optimo 17-80 T2.2,False,True
-Angenieux Optimo,17-80mm_T2.2_60mm,60.0,AUTO,range exact,115,Angénieux,Optimo 17-80 T2.2,False,True
-Angenieux Optimo,17-80mm_T2.2_80mm,80.0,AUTO,range exact,115,Angénieux,Optimo 17-80 T2.2,False,True
-Angenieux Optimo,24-290mm_T2.8 105mm,105.0,AUTO,range exact,116,Angénieux,Optimo 24-290 T2.8,False,True
-Angenieux Optimo,24-290mm_T2.8 120mm,120.0,AUTO,range exact,116,Angénieux,Optimo 24-290 T2.8,False,True
-Angenieux Optimo,24-290mm_T2.8 155mm,155.0,AUTO,range exact,116,Angénieux,Optimo 24-290 T2.8,False,True
-Angenieux Optimo,24-290mm_T2.8 215mm,215.0,AUTO,range exact,116,Angénieux,Optimo 24-290 T2.8,False,True
-Angenieux Optimo,24-290mm_T2.8 290mm,290.0,AUTO,range exact,116,Angénieux,Optimo 24-290 T2.8,False,True
-Angenieux Optimo,24-290mm_T2.8_24mm,24.0,AUTO,range exact,116,Angénieux,Optimo 24-290 T2.8,False,True
-Angenieux Optimo,24-290mm_T2.8_30mm,30.0,AUTO,range exact,116,Angénieux,Optimo 24-290 T2.8,False,True
-Angenieux Optimo,24-290mm_T2.8_40mm,40.0,AUTO,range exact,116,Angénieux,Optimo 24-290 T2.8,False,True
-Angenieux Optimo,24-290mm_T2.8_55mm,55.0,AUTO,range exact,116,Angénieux,Optimo 24-290 T2.8,False,True
-Angenieux Optimo,24-290mm_T2.8_75mm,75.0,AUTO,range exact,116,Angénieux,Optimo 24-290 T2.8,False,True
-Angenieux Optimo,45-120mm_T2.8 100mm,100.0,AUTO,range exact,117,Angénieux,Optimo 45-120 T2.8,False,True
-Angenieux Optimo,45-120mm_T2.8 110mm,110.0,AUTO,range exact,117,Angénieux,Optimo 45-120 T2.8,False,True
-Angenieux Optimo,45-120mm_T2.8 120mm,120.0,AUTO,range exact,117,Angénieux,Optimo 45-120 T2.8,False,True
-Angenieux Optimo,45-120mm_T2.8_45mm,45.0,AUTO,range exact,117,Angénieux,Optimo 45-120 T2.8,False,True
-Angenieux Optimo,45-120mm_T2.8_50mm,50.0,AUTO,range exact,117,Angénieux,Optimo 45-120 T2.8,False,True
-Angenieux Optimo,45-120mm_T2.8_55mm,55.0,AUTO,range exact,117,Angénieux,Optimo 45-120 T2.8,False,True
-Angenieux Optimo,45-120mm_T2.8_60mm,60.0,AUTO,range exact,117,Angénieux,Optimo 45-120 T2.8,False,True
-Angenieux Optimo,45-120mm_T2.8_65mm,65.0,AUTO,range exact,117,Angénieux,Optimo 45-120 T2.8,False,True
-Angenieux Optimo,45-120mm_T2.8_70mm,70.0,AUTO,range exact,117,Angénieux,Optimo 45-120 T2.8,False,True
-Angenieux Optimo,45-120mm_T2.8_75mm,75.0,AUTO,range exact,117,Angénieux,Optimo 45-120 T2.8,False,True
-Angenieux Optimo,45-120mm_T2.8_80mm,80.0,AUTO,range exact,117,Angénieux,Optimo 45-120 T2.8,False,True
-Angenieux Optimo,45-120mm_T2.8_85mm,85.0,AUTO,range exact,117,Angénieux,Optimo 45-120 T2.8,False,True
-Angenieux Optimo,45-120mm_T2.8_90mm,90.0,AUTO,range exact,117,Angénieux,Optimo 45-120 T2.8,False,True
-Angenieux Optimo Anamorphic,44-440mm_T4.5 100m,100.0,AUTO,legacy folder uses single 'm'; interpreted as focal mm from explicit numeric token,99,Angénieux,Optimo Anamorphic 44-440 A2S,True,True
-Angenieux Optimo Anamorphic,44-440mm_T4.5 120mm,120.0,AUTO,range exact,99,Angénieux,Optimo Anamorphic 44-440 A2S,False,True
-Angenieux Optimo Anamorphic,44-440mm_T4.5 150mm,150.0,AUTO,range exact,99,Angénieux,Optimo Anamorphic 44-440 A2S,False,True
-Angenieux Optimo Anamorphic,44-440mm_T4.5 200mm,200.0,AUTO,range exact,99,Angénieux,Optimo Anamorphic 44-440 A2S,False,True
-Angenieux Optimo Anamorphic,44-440mm_T4.5 250mm,250.0,AUTO,range exact,99,Angénieux,Optimo Anamorphic 44-440 A2S,False,True
-Angenieux Optimo Anamorphic,44-440mm_T4.5 350mm,350.0,AUTO,range exact,99,Angénieux,Optimo Anamorphic 44-440 A2S,False,True
-Angenieux Optimo Anamorphic,44-440mm_T4.5 440mm,440.0,AUTO,range exact,99,Angénieux,Optimo Anamorphic 44-440 A2S,False,True
-Angenieux Optimo Anamorphic,44-440mm_T4.5_44mm,44.0,AUTO,range exact,99,Angénieux,Optimo Anamorphic 44-440 A2S,False,True
-Angenieux Optimo Anamorphic,44-440mm_T4.5_50mm,50.0,AUTO,range exact,99,Angénieux,Optimo Anamorphic 44-440 A2S,False,True
-Angenieux Optimo Anamorphic,44-440mm_T4.5_60mm,60.0,AUTO,range exact,99,Angénieux,Optimo Anamorphic 44-440 A2S,False,True
-Angenieux Optimo Anamorphic,44-440mm_T4.5_75mm,75.0,AUTO,range exact,99,Angénieux,Optimo Anamorphic 44-440 A2S,False,True
-Angenieux Optimo Anamorphic,56-152mm_T4.5 100mm,100.0,AUTO,range exact,100,Angénieux,Optimo Anamorphic 56-152 A2S,False,True
-Angenieux Optimo Anamorphic,56-152mm_T4.5 110mm,110.0,AUTO,range exact,100,Angénieux,Optimo Anamorphic 56-152 A2S,False,True
-Angenieux Optimo Anamorphic,56-152mm_T4.5 120mm,120.0,AUTO,range exact,100,Angénieux,Optimo Anamorphic 56-152 A2S,False,True
-Angenieux Optimo Anamorphic,56-152mm_T4.5 130mm,130.0,AUTO,range exact,100,Angénieux,Optimo Anamorphic 56-152 A2S,False,True
-Angenieux Optimo Anamorphic,56-152mm_T4.5 140mm,140.0,AUTO,range exact,100,Angénieux,Optimo Anamorphic 56-152 A2S,False,True
-Angenieux Optimo Anamorphic,56-152mm_T4.5 152mm,152.0,AUTO,range exact,100,Angénieux,Optimo Anamorphic 56-152 A2S,False,True
-Angenieux Optimo Anamorphic,56-152mm_T4.5_56mm,56.0,AUTO,range exact,100,Angénieux,Optimo Anamorphic 56-152 A2S,False,True
-Angenieux Optimo Anamorphic,56-152mm_T4.5_60mm,60.0,AUTO,range exact,100,Angénieux,Optimo Anamorphic 56-152 A2S,False,True
-Angenieux Optimo Anamorphic,56-152mm_T4.5_64mm,64.0,AUTO,range exact,100,Angénieux,Optimo Anamorphic 56-152 A2S,False,True
-Angenieux Optimo Anamorphic,56-152mm_T4.5_70mm,70.0,AUTO,range exact,100,Angénieux,Optimo Anamorphic 56-152 A2S,False,True
-Angenieux Optimo Anamorphic,56-152mm_T4.5_80mm,80.0,AUTO,range exact,100,Angénieux,Optimo Anamorphic 56-152 A2S,False,True
-Angenieux Optimo Anamorphic,56-152mm_T4.5_90mm,90.0,AUTO,range exact,100,Angénieux,Optimo Anamorphic 56-152 A2S,False,True
-Angenieux Optimo Style,16-40mm_T2.8_16mm,16.0,AUTO,range exact,84,Angénieux,Optimo Style 16-40 T2.8,False,True
-Angenieux Optimo Style,16-40mm_T2.8_17mm,17.0,AUTO,range exact,84,Angénieux,Optimo Style 16-40 T2.8,False,True
-Angenieux Optimo Style,16-40mm_T2.8_18mm,18.0,AUTO,range exact,84,Angénieux,Optimo Style 16-40 T2.8,False,True
-Angenieux Optimo Style,16-40mm_T2.8_20mm,20.0,AUTO,range exact,84,Angénieux,Optimo Style 16-40 T2.8,False,True
-Angenieux Optimo Style,16-40mm_T2.8_21m,21.0,AUTO,legacy folder uses single 'm'; interpreted as focal mm from explicit numeric token,84,Angénieux,Optimo Style 16-40 T2.8,True,True
-Angenieux Optimo Style,16-40mm_T2.8_23mm,23.0,AUTO,range exact,84,Angénieux,Optimo Style 16-40 T2.8,False,True
-Angenieux Optimo Style,16-40mm_T2.8_25mm,25.0,AUTO,range exact,84,Angénieux,Optimo Style 16-40 T2.8,False,True
-Angenieux Optimo Style,16-40mm_T2.8_27mm,27.0,AUTO,range exact,84,Angénieux,Optimo Style 16-40 T2.8,False,True
-Angenieux Optimo Style,16-40mm_T2.8_30mm,30.0,AUTO,range exact,84,Angénieux,Optimo Style 16-40 T2.8,False,True
-Angenieux Optimo Style,16-40mm_T2.8_33mm,33.0,AUTO,range exact,84,Angénieux,Optimo Style 16-40 T2.8,False,True
-Angenieux Optimo Style,16-40mm_T2.8_40mm,40.0,AUTO,range exact,84,Angénieux,Optimo Style 16-40 T2.8,False,True
-Angenieux Optimo Style,25-250mm_T3.5 100mm,100.0,AUTO,range exact,87,Angénieux,Optimo Style 25-250 T3.5,False,True
-Angenieux Optimo Style,25-250mm_T3.5 125mm,125.0,AUTO,range exact,87,Angénieux,Optimo Style 25-250 T3.5,False,True
-Angenieux Optimo Style,25-250mm_T3.5 150mm,150.0,AUTO,range exact,87,Angénieux,Optimo Style 25-250 T3.5,False,True
-Angenieux Optimo Style,25-250mm_T3.5 200mm,200.0,AUTO,range exact,87,Angénieux,Optimo Style 25-250 T3.5,False,True
-Angenieux Optimo Style,25-250mm_T3.5 250mm,250.0,AUTO,range exact,87,Angénieux,Optimo Style 25-250 T3.5,False,True
-Angenieux Optimo Style,25-250mm_T3.5_25mm,25.0,AUTO,range exact,87,Angénieux,Optimo Style 25-250 T3.5,False,True
-Angenieux Optimo Style,25-250mm_T3.5_30mm,30.0,AUTO,range exact,87,Angénieux,Optimo Style 25-250 T3.5,False,True
-Angenieux Optimo Style,25-250mm_T3.5_35mm,35.0,AUTO,range exact,87,Angénieux,Optimo Style 25-250 T3.5,False,True
-Angenieux Optimo Style,25-250mm_T3.5_40mm,40.0,AUTO,range exact,87,Angénieux,Optimo Style 25-250 T3.5,False,True
-Angenieux Optimo Style,25-250mm_T3.5_50mm,50.0,AUTO,range exact,87,Angénieux,Optimo Style 25-250 T3.5,False,True
-Angenieux Optimo Style,25-250mm_T3.5_60mm,60.0,AUTO,range exact,87,Angénieux,Optimo Style 25-250 T3.5,False,True
-Angenieux Optimo Style,25-250mm_T3.5_75mm,75.0,AUTO,range exact,87,Angénieux,Optimo Style 25-250 T3.5,False,True
-Angenieux Optimo Style,25-250mm_T3.5_85mm,85.0,AUTO,range exact,87,Angénieux,Optimo Style 25-250 T3.5,False,True
-Angenieux Optimo Style,30-76mm_T2.8_30mm,30.0,AUTO,range exact,85,Angénieux,Optimo Style 30-76 T2.8,False,True
-Angenieux Optimo Style,30-76mm_T2.8_32mm,32.0,AUTO,range exact,85,Angénieux,Optimo Style 30-76 T2.8,False,True
-Angenieux Optimo Style,30-76mm_T2.8_35mm,35.0,AUTO,range exact,85,Angénieux,Optimo Style 30-76 T2.8,False,True
-Angenieux Optimo Style,30-76mm_T2.8_40mm,40.0,AUTO,range exact,85,Angénieux,Optimo Style 30-76 T2.8,False,True
-Angenieux Optimo Style,30-76mm_T2.8_45mm,45.0,AUTO,range exact,85,Angénieux,Optimo Style 30-76 T2.8,False,True
-Angenieux Optimo Style,30-76mm_T2.8_50mm,50.0,AUTO,range exact,85,Angénieux,Optimo Style 30-76 T2.8,False,True
-Angenieux Optimo Style,30-76mm_T2.8_55mm,55.0,AUTO,range exact,85,Angénieux,Optimo Style 30-76 T2.8,False,True
-Angenieux Optimo Style,30-76mm_T2.8_60mm,60.0,AUTO,range exact,85,Angénieux,Optimo Style 30-76 T2.8,False,True
-Angenieux Optimo Style,30-76mm_T2.8_65mm,65.0,AUTO,range exact,85,Angénieux,Optimo Style 30-76 T2.8,False,True
-Angenieux Optimo Style,30-76mm_T2.8_70mm,70.0,AUTO,range exact,85,Angénieux,Optimo Style 30-76 T2.8,False,True
-Angenieux Optimo Style,30-76mm_T2.8_76mm,76.0,AUTO,range exact,85,Angénieux,Optimo Style 30-76 T2.8,False,True
-Angenieux Optimo Style,48-130mm_T3 110mm,110.0,AUTO,range exact,86,Angénieux,Optimo Style 48-130 T3,False,True
-Angenieux Optimo Style,48-130mm_T3 120mm,120.0,AUTO,range exact,86,Angénieux,Optimo Style 48-130 T3,False,True
-Angenieux Optimo Style,48-130mm_T3 130mm,130.0,AUTO,range exact,86,Angénieux,Optimo Style 48-130 T3,False,True
-Angenieux Optimo Style,48-130mm_T3_48mm,48.0,AUTO,range exact,86,Angénieux,Optimo Style 48-130 T3,False,True
-Angenieux Optimo Style,48-130mm_T3_55mm,55.0,AUTO,range exact,86,Angénieux,Optimo Style 48-130 T3,False,True
-Angenieux Optimo Style,48-130mm_T3_60mm,60.0,AUTO,range exact,86,Angénieux,Optimo Style 48-130 T3,False,True
-Angenieux Optimo Style,48-130mm_T3_65mm,65.0,AUTO,range exact,86,Angénieux,Optimo Style 48-130 T3,False,True
-Angenieux Optimo Style,48-130mm_T3_70mm,70.0,AUTO,range exact,86,Angénieux,Optimo Style 48-130 T3,False,True
-Angenieux Optimo Style,48-130mm_T3_75mm,75.0,AUTO,range exact,86,Angénieux,Optimo Style 48-130 T3,False,True
-Angenieux Optimo Style,48-130mm_T3_80mm,80.0,AUTO,range exact,86,Angénieux,Optimo Style 48-130 T3,False,True
-Angenieux Optimo Style,48-130mm_T3_85mm,85.0,AUTO,range exact,86,Angénieux,Optimo Style 48-130 T3,False,True
-Angenieux Optimo Style,48-130mm_T3_90mm,90.0,AUTO,range exact,86,Angénieux,Optimo Style 48-130 T3,False,True
-Angenieux Optimo Style,48-130mm_T3_95mm,95.0,AUTO,range exact,86,Angénieux,Optimo Style 48-130 T3,False,True
-Angenieux Optimo Ultra _U35,26-320mm_T3.1 100mm,100.0,AUTO,U35 26-320 range matches LensScope U35 family,19,Angénieux,Optimo Ultra 12x U35,False,True
-Angenieux Optimo Ultra _U35,26-320mm_T3.1 120mm,120.0,AUTO,U35 26-320 range matches LensScope U35 family,19,Angénieux,Optimo Ultra 12x U35,False,True
-Angenieux Optimo Ultra _U35,26-320mm_T3.1 150mm,150.0,AUTO,U35 26-320 range matches LensScope U35 family,19,Angénieux,Optimo Ultra 12x U35,False,True
-Angenieux Optimo Ultra _U35,26-320mm_T3.1 200mm,200.0,AUTO,U35 26-320 range matches LensScope U35 family,19,Angénieux,Optimo Ultra 12x U35,False,True
-Angenieux Optimo Ultra _U35,26-320mm_T3.1 250mm,250.0,AUTO,U35 26-320 range matches LensScope U35 family,19,Angénieux,Optimo Ultra 12x U35,False,True
-Angenieux Optimo Ultra _U35,26-320mm_T3.1 320mm,320.0,AUTO,U35 26-320 range matches LensScope U35 family,19,Angénieux,Optimo Ultra 12x U35,False,True
-Angenieux Optimo Ultra _U35,26-320mm_T3.1_26mm,26.0,AUTO,U35 26-320 range matches LensScope U35 family,19,Angénieux,Optimo Ultra 12x U35,False,True
-Angenieux Optimo Ultra _U35,26-320mm_T3.1_30mm,30.0,AUTO,U35 26-320 range matches LensScope U35 family,19,Angénieux,Optimo Ultra 12x U35,False,True
-Angenieux Optimo Ultra _U35,26-320mm_T3.1_35mm,35.0,AUTO,U35 26-320 range matches LensScope U35 family,19,Angénieux,Optimo Ultra 12x U35,False,True
-Angenieux Optimo Ultra _U35,26-320mm_T3.1_40mm,40.0,AUTO,U35 26-320 range matches LensScope U35 family,19,Angénieux,Optimo Ultra 12x U35,False,True
-Angenieux Optimo Ultra _U35,26-320mm_T3.1_50mm,50.0,AUTO,U35 26-320 range matches LensScope U35 family,19,Angénieux,Optimo Ultra 12x U35,False,True
-Angenieux Optimo Ultra _U35,26-320mm_T3.1_60mm,60.0,AUTO,U35 26-320 range matches LensScope U35 family,19,Angénieux,Optimo Ultra 12x U35,False,True
-Angenieux Optimo Ultra _U35,26-320mm_T3.1_75mm,75.0,AUTO,U35 26-320 range matches LensScope U35 family,19,Angénieux,Optimo Ultra 12x U35,False,True
-Angenieux Type EZ-1_S35,30-90mm_T2.0_30mm,30.0,AUTO,series/range exact,91,Angénieux,Type EZ-1 S35 30-90 T2,False,True
-Angenieux Type EZ-1_S35,30-90mm_T2.0_35mm,35.0,AUTO,series/range exact,91,Angénieux,Type EZ-1 S35 30-90 T2,False,True
-Angenieux Type EZ-1_S35,30-90mm_T2.0_40mm,40.0,AUTO,series/range exact,91,Angénieux,Type EZ-1 S35 30-90 T2,False,True
-Angenieux Type EZ-1_S35,30-90mm_T2.0_50mm,50.0,AUTO,series/range exact,91,Angénieux,Type EZ-1 S35 30-90 T2,False,True
-Angenieux Type EZ-1_S35,30-90mm_T2.0_65mm,65.0,AUTO,series/range exact,91,Angénieux,Type EZ-1 S35 30-90 T2,False,True
-Angenieux Type EZ-1_S35,30-90mm_T2.0_75mm,75.0,AUTO,series/range exact,91,Angénieux,Type EZ-1 S35 30-90 T2,False,True
-Angenieux Type EZ-1_S35,30-90mm_T2.0_90mm,90.0,AUTO,series/range exact,91,Angénieux,Type EZ-1 S35 30-90 T2,False,True
-Angenieux Type EZ-2_S35,15-40mm_T2.0_15mm,15.0,AUTO,series/range exact,93,Angénieux,Type EZ-2 S35 15-40 T2,False,True
-Angenieux Type EZ-2_S35,15-40mm_T2.0_17mm,17.0,AUTO,series/range exact,93,Angénieux,Type EZ-2 S35 15-40 T2,False,True
-Angenieux Type EZ-2_S35,15-40mm_T2.0_20mm,20.0,AUTO,series/range exact,93,Angénieux,Type EZ-2 S35 15-40 T2,False,True
-Angenieux Type EZ-2_S35,15-40mm_T2.0_25mm,25.0,AUTO,series/range exact,93,Angénieux,Type EZ-2 S35 15-40 T2,False,True
-Angenieux Type EZ-2_S35,15-40mm_T2.0_30mm,30.0,AUTO,series/range exact,93,Angénieux,Type EZ-2 S35 15-40 T2,False,True
-Angenieux Type EZ-2_S35,15-40mm_T2.0_35mm,35.0,AUTO,series/range exact,93,Angénieux,Type EZ-2 S35 15-40 T2,False,True
-Angenieux Type EZ-2_S35,15-40mm_T2.0_40mm,40.0,AUTO,series/range exact,93,Angénieux,Type EZ-2 S35 15-40 T2,False,True
-Canon CINE-SERVO,CN10×25_T2.95 120mm,120.0,AUTO,model/range exact,78,Canon,CINE-SERVO CN10x25 25-250 T2.95-3.95,False,True
-Canon CINE-SERVO,CN10×25_T2.95_25mm,25.0,AUTO,model/range exact,78,Canon,CINE-SERVO CN10x25 25-250 T2.95-3.95,False,True
-Canon CINE-SERVO,CN10×25_T2.95_35mm,35.0,AUTO,model/range exact,78,Canon,CINE-SERVO CN10x25 25-250 T2.95-3.95,False,True
-Canon CINE-SERVO,CN10×25_T2.95_50mm,50.0,AUTO,model/range exact,78,Canon,CINE-SERVO CN10x25 25-250 T2.95-3.95,False,True
-Canon CINE-SERVO,CN10×25_T2.95_85mm,85.0,AUTO,model/range exact,78,Canon,CINE-SERVO CN10x25 25-250 T2.95-3.95,False,True
-Canon CINE-SERVO,CN10×25_T3.95 250mm,250.0,AUTO,model/range exact,78,Canon,CINE-SERVO CN10x25 25-250 T2.95-3.95,False,True
-Canon CINE-SERVO,CN20×50_T5 100mm,100.0,AUTO,model/range exact,110,Canon,CINE-SERVO CN20x50 50-1000 T5.0-8.9,False,True
-Canon CINE-SERVO,CN20×50_T5 200mm,200.0,AUTO,model/range exact,110,Canon,CINE-SERVO CN20x50 50-1000 T5.0-8.9,False,True
-Canon CINE-SERVO,CN20×50_T5 500mm,500.0,AUTO,model/range exact,110,Canon,CINE-SERVO CN20x50 50-1000 T5.0-8.9,False,True
-Canon CINE-SERVO,CN20×50_T5_50mm,50.0,AUTO,model/range exact,110,Canon,CINE-SERVO CN20x50 50-1000 T5.0-8.9,False,True
-Canon CINE-SERVO,CN20×50_T5_75mm,75.0,AUTO,model/range exact,110,Canon,CINE-SERVO CN20x50 50-1000 T5.0-8.9,False,True
-Canon CINE-SERVO,CN20×50_T8 1000mm,1000.0,AUTO,model/range exact,110,Canon,CINE-SERVO CN20x50 50-1000 T5.0-8.9,False,True
-Canon CINE-SERVO,CN7×17_T2.95_17mm,17.0,AUTO,model/range exact,77,Canon,CINE-SERVO CN7x17 17-120 T2.95-3.9,False,True
-Canon CINE-SERVO,CN7×17_T2.95_25mm,25.0,AUTO,model/range exact,77,Canon,CINE-SERVO CN7x17 17-120 T2.95-3.9,False,True
-Canon CINE-SERVO,CN7×17_T2.95_35mm,35.0,AUTO,model/range exact,77,Canon,CINE-SERVO CN7x17 17-120 T2.95-3.9,False,True
-Canon CINE-SERVO,CN7×17_T2.95_50mm,50.0,AUTO,model/range exact,77,Canon,CINE-SERVO CN7x17 17-120 T2.95-3.9,False,True
-Canon CINE-SERVO,CN7×17_T2.95_90mm,90.0,AUTO,model/range exact,77,Canon,CINE-SERVO CN7x17 17-120 T2.95-3.9,False,True
-Canon CINE-SERVO,CN7×17_T3.9 120mm,120.0,AUTO,model/range exact,77,Canon,CINE-SERVO CN7x17 17-120 T2.95-3.9,False,True
-Canon CN-E,14.5-60_T2.6_14.5mm,14.5,AUTO,range exact,37,Canon,CN-E 14.5-60 T2.6,False,True
-Canon CN-E,14.5-60_T2.6_16mm,16.0,AUTO,range exact,37,Canon,CN-E 14.5-60 T2.6,False,True
-Canon CN-E,14.5-60_T2.6_18mm,18.0,AUTO,range exact,37,Canon,CN-E 14.5-60 T2.6,False,True
-Canon CN-E,14.5-60_T2.6_20mm,20.0,AUTO,range exact,37,Canon,CN-E 14.5-60 T2.6,False,True
-Canon CN-E,14.5-60_T2.6_22mm,22.0,AUTO,range exact,37,Canon,CN-E 14.5-60 T2.6,False,True
-Canon CN-E,14.5-60_T2.6_25mm,25.0,AUTO,range exact,37,Canon,CN-E 14.5-60 T2.6,False,True
-Canon CN-E,14.5-60_T2.6_28mm,28.0,AUTO,range exact,37,Canon,CN-E 14.5-60 T2.6,False,True
-Canon CN-E,14.5-60_T2.6_30mm,30.0,AUTO,range exact,37,Canon,CN-E 14.5-60 T2.6,False,True
-Canon CN-E,14.5-60_T2.6_32mm,32.0,AUTO,range exact,37,Canon,CN-E 14.5-60 T2.6,False,True
-Canon CN-E,14.5-60_T2.6_35mm,35.0,AUTO,range exact,37,Canon,CN-E 14.5-60 T2.6,False,True
-Canon CN-E,14.5-60_T2.6_40mm,40.0,AUTO,range exact,37,Canon,CN-E 14.5-60 T2.6,False,True
-Canon CN-E,14.5-60_T2.6_45mm,45.0,AUTO,range exact,37,Canon,CN-E 14.5-60 T2.6,False,True
-Canon CN-E,14.5-60_T2.6_50mm,50.0,AUTO,range exact,37,Canon,CN-E 14.5-60 T2.6,False,True
-Canon CN-E,14.5-60_T2.6_55mm,55.0,AUTO,range exact,37,Canon,CN-E 14.5-60 T2.6,False,True
-Canon CN-E,14.5-60_T2.6_60mm,60.0,AUTO,range exact,37,Canon,CN-E 14.5-60 T2.6,False,True
-Canon CN-E,15.5-47_T2.8_15.5mm,15.5,AUTO,range exact,35,Canon,CN-E 15.5-47 T2.8,False,True
-Canon CN-E,15.5-47_T2.8_17mm,17.0,AUTO,range exact,35,Canon,CN-E 15.5-47 T2.8,False,True
-Canon CN-E,15.5-47_T2.8_18mm,18.0,AUTO,range exact,35,Canon,CN-E 15.5-47 T2.8,False,True
-Canon CN-E,15.5-47_T2.8_19mm,19.0,AUTO,range exact,35,Canon,CN-E 15.5-47 T2.8,False,True
-Canon CN-E,15.5-47_T2.8_20mm,20.0,AUTO,range exact,35,Canon,CN-E 15.5-47 T2.8,False,True
-Canon CN-E,15.5-47_T2.8_22mm,22.0,AUTO,range exact,35,Canon,CN-E 15.5-47 T2.8,False,True
-Canon CN-E,15.5-47_T2.8_24mm,24.0,AUTO,range exact,35,Canon,CN-E 15.5-47 T2.8,False,True
-Canon CN-E,15.5-47_T2.8_26mm,26.0,AUTO,range exact,35,Canon,CN-E 15.5-47 T2.8,False,True
-Canon CN-E,15.5-47_T2.8_28mm,28.0,AUTO,range exact,35,Canon,CN-E 15.5-47 T2.8,False,True
-Canon CN-E,15.5-47_T2.8_30mm,30.0,AUTO,range exact,35,Canon,CN-E 15.5-47 T2.8,False,True
-Canon CN-E,15.5-47_T2.8_32mm,32.0,AUTO,range exact,35,Canon,CN-E 15.5-47 T2.8,False,True
-Canon CN-E,15.5-47_T2.8_35mm,35.0,AUTO,range exact,35,Canon,CN-E 15.5-47 T2.8,False,True
-Canon CN-E,15.5-47_T2.8_40mm,40.0,AUTO,range exact,35,Canon,CN-E 15.5-47 T2.8,False,True
-Canon CN-E,15.5-47_T2.8_47mm,47.0,AUTO,range exact,35,Canon,CN-E 15.5-47 T2.8,False,True
-Canon CN-E,30-105_T2.8 105mm,105.0,AUTO,range exact,36,Canon,CN-E 30-105 T2.8,False,True
-Canon CN-E,30-105_T2.8_30mm,30.0,AUTO,range exact,36,Canon,CN-E 30-105 T2.8,False,True
-Canon CN-E,30-105_T2.8_32mm,32.0,AUTO,range exact,36,Canon,CN-E 30-105 T2.8,False,True
-Canon CN-E,30-105_T2.8_35mm,35.0,AUTO,range exact,36,Canon,CN-E 30-105 T2.8,False,True
-Canon CN-E,30-105_T2.8_40mm,40.0,AUTO,range exact,36,Canon,CN-E 30-105 T2.8,False,True
-Canon CN-E,30-105_T2.8_45mm,45.0,AUTO,range exact,36,Canon,CN-E 30-105 T2.8,False,True
-Canon CN-E,30-105_T2.8_50mm,50.0,AUTO,range exact,36,Canon,CN-E 30-105 T2.8,False,True
-Canon CN-E,30-105_T2.8_55mm,55.0,AUTO,range exact,36,Canon,CN-E 30-105 T2.8,False,True
-Canon CN-E,30-105_T2.8_60mm,60.0,AUTO,range exact,36,Canon,CN-E 30-105 T2.8,False,True
-Canon CN-E,30-105_T2.8_65mm,65.0,AUTO,range exact,36,Canon,CN-E 30-105 T2.8,False,True
-Canon CN-E,30-105_T2.8_75mm,75.0,AUTO,range exact,36,Canon,CN-E 30-105 T2.8,False,True
-Canon CN-E,30-105_T2.8_85mm,85.0,AUTO,range exact,36,Canon,CN-E 30-105 T2.8,False,True
-Canon CN-E,30-105_T2.8_95mm,95.0,AUTO,range exact,36,Canon,CN-E 30-105 T2.8,False,True
-Canon CN-E,30-300_T2.95 100mm,100.0,AUTO,range exact,38,Canon,CN-E 30-300 T2.95-3.7,False,True
-Canon CN-E,30-300_T2.95 110mm,110.0,AUTO,range exact,38,Canon,CN-E 30-300 T2.95-3.7,False,True
-Canon CN-E,30-300_T2.95 120mm,120.0,AUTO,range exact,38,Canon,CN-E 30-300 T2.95-3.7,False,True
-Canon CN-E,30-300_T2.95 135mm,135.0,AUTO,range exact,38,Canon,CN-E 30-300 T2.95-3.7,False,True
-Canon CN-E,30-300_T2.95 150mm,150.0,AUTO,range exact,38,Canon,CN-E 30-300 T2.95-3.7,False,True
-Canon CN-E,30-300_T2.95 180mm,180.0,AUTO,range exact,38,Canon,CN-E 30-300 T2.95-3.7,False,True
-Canon CN-E,30-300_T2.95 200mm,200.0,AUTO,range exact,38,Canon,CN-E 30-300 T2.95-3.7,False,True
-Canon CN-E,30-300_T2.95 240mm,240.0,AUTO,range exact,38,Canon,CN-E 30-300 T2.95-3.7,False,True
-Canon CN-E,30-300_T2.95 300mm,300.0,AUTO,range exact,38,Canon,CN-E 30-300 T2.95-3.7,False,True
-Canon CN-E,30-300_T2.95_30mm,30.0,AUTO,range exact,38,Canon,CN-E 30-300 T2.95-3.7,False,True
-Canon CN-E,30-300_T2.95_32mm,32.0,AUTO,range exact,38,Canon,CN-E 30-300 T2.95-3.7,False,True
-Canon CN-E,30-300_T2.95_35mm,35.0,AUTO,range exact,38,Canon,CN-E 30-300 T2.95-3.7,False,True
-Canon CN-E,30-300_T2.95_40mm,40.0,AUTO,range exact,38,Canon,CN-E 30-300 T2.95-3.7,False,True
-Canon CN-E,30-300_T2.95_45mm,45.0,AUTO,range exact,38,Canon,CN-E 30-300 T2.95-3.7,False,True
-Canon CN-E,30-300_T2.95_50mm,50.0,AUTO,range exact,38,Canon,CN-E 30-300 T2.95-3.7,False,True
-Canon CN-E,30-300_T2.95_55mm,55.0,AUTO,range exact,38,Canon,CN-E 30-300 T2.95-3.7,False,True
-Canon CN-E,30-300_T2.95_60mm,60.0,AUTO,range exact,38,Canon,CN-E 30-300 T2.95-3.7,False,True
-Canon CN-E,30-300_T2.95_65mm,65.0,AUTO,range exact,38,Canon,CN-E 30-300 T2.95-3.7,False,True
-Canon CN-E,30-300_T2.95_75mm,75.0,AUTO,range exact,38,Canon,CN-E 30-300 T2.95-3.7,False,True
-Canon CN-E,30-300_T2.95_85mm,85.0,AUTO,range exact,38,Canon,CN-E 30-300 T2.95-3.7,False,True
-Celere,18.5mm_T1.5,18.5,AUTO,Celere source series -> LensScope Celere HS; focal set consistent,104,HANSE INNO TECH,Celere HS,False,True
-Celere,25mm_T1.5,25.0,AUTO,Celere source series -> LensScope Celere HS; focal set consistent,104,HANSE INNO TECH,Celere HS,False,True
-Celere,36mm_T1.5,36.0,AUTO,Celere source series -> LensScope Celere HS; focal set consistent,104,HANSE INNO TECH,Celere HS,False,True
-Celere,50mm_T1.5,50.0,AUTO,Celere source series -> LensScope Celere HS; focal set consistent,104,HANSE INNO TECH,Celere HS,False,True
-Celere,85mm_T1.5,85.0,AUTO,Celere source series -> LensScope Celere HS; focal set consistent,104,HANSE INNO TECH,Celere HS,False,True
-Cooke Anamorphic:i, 100mm_T2.3,100.0,AUTO,source focal set matches Cooke S35 Anamorphic/i; not FF Plus,39,Cooke,S35 Anamorphic/i 2x,False,True
-Cooke Anamorphic:i,25mm_T2.3,25.0,AUTO,source focal set matches Cooke S35 Anamorphic/i; not FF Plus,39,Cooke,S35 Anamorphic/i 2x,False,True
-Cooke Anamorphic:i,32mm_T2.3,32.0,AUTO,source focal set matches Cooke S35 Anamorphic/i; not FF Plus,39,Cooke,S35 Anamorphic/i 2x,False,True
-Cooke Anamorphic:i,40mm_T2.3,40.0,AUTO,source focal set matches Cooke S35 Anamorphic/i; not FF Plus,39,Cooke,S35 Anamorphic/i 2x,False,True
-Cooke Anamorphic:i,50mm_T2.3,50.0,AUTO,source focal set matches Cooke S35 Anamorphic/i; not FF Plus,39,Cooke,S35 Anamorphic/i 2x,False,True
-Cooke Anamorphic:i,75mm_T2.3,75.0,AUTO,source focal set matches Cooke S35 Anamorphic/i; not FF Plus,39,Cooke,S35 Anamorphic/i 2x,False,True
-Cooke_Panchro, 100mm_T2.6,100.0,AUTO,User-confirmed legacy capture corresponds to S35 Panchro,4,Cooke,PANCHRO/i Classic S35,False,True
-Cooke_Panchro, 135mm_T2.8,135.0,AUTO,User-confirmed legacy capture corresponds to S35 Panchro,4,Cooke,PANCHRO/i Classic S35,False,True
-Cooke_Panchro, 152mm_T3,152.0,AUTO,User-confirmed legacy capture corresponds to S35 Panchro,4,Cooke,PANCHRO/i Classic S35,False,True
-Cooke_Panchro,18mm_T2.2,18.0,AUTO,User-confirmed legacy capture corresponds to S35 Panchro,4,Cooke,PANCHRO/i Classic S35,False,True
-Cooke_Panchro,21mm_T2.2,21.0,AUTO,User-confirmed legacy capture corresponds to S35 Panchro,4,Cooke,PANCHRO/i Classic S35,False,True
-Cooke_Panchro,25mm_T2.2,25.0,AUTO,User-confirmed legacy capture corresponds to S35 Panchro,4,Cooke,PANCHRO/i Classic S35,False,True
-Cooke_Panchro,27mm_T2.2,27.0,AUTO,User-confirmed legacy capture corresponds to S35 Panchro,4,Cooke,PANCHRO/i Classic S35,False,True
-Cooke_Panchro,32mm_T2.2,32.0,AUTO,User-confirmed legacy capture corresponds to S35 Panchro,4,Cooke,PANCHRO/i Classic S35,False,True
-Cooke_Panchro,40mm_T2.2,40.0,AUTO,User-confirmed legacy capture corresponds to S35 Panchro,4,Cooke,PANCHRO/i Classic S35,False,True
-Cooke_Panchro,50mm_T2.2,50.0,AUTO,User-confirmed legacy capture corresponds to S35 Panchro,4,Cooke,PANCHRO/i Classic S35,False,True
-Cooke_Panchro,65mm_Macro_T2.4,65.0,AUTO,User-confirmed legacy capture corresponds to S35 Panchro,4,Cooke,PANCHRO/i Classic S35,False,True
-Cooke_Panchro,75mm_T2.2,75.0,AUTO,User-confirmed legacy capture corresponds to S35 Panchro,4,Cooke,PANCHRO/i Classic S35,False,True
-Cooke_S4, 100mm T2,100.0,AUTO,series/focal set exact,5,Cooke,S4/i,False,True
-Cooke_S4, 135mm T2,135.0,AUTO,series/focal set exact,5,Cooke,S4/i,False,True
-Cooke_S4, 150mm T2,150.0,AUTO,series/focal set exact,5,Cooke,S4/i,False,True
-Cooke_S4, 180mm T2,180.0,AUTO,series/focal set exact,5,Cooke,S4/i,False,True
-Cooke_S4,12mm_T2,12.0,AUTO,series/focal set exact,5,Cooke,S4/i,False,True
-Cooke_S4,14mm_T2,14.0,AUTO,series/focal set exact,5,Cooke,S4/i,False,True
-Cooke_S4,16mm_T2,16.0,AUTO,series/focal set exact,5,Cooke,S4/i,False,True
-Cooke_S4,18mm_T2,18.0,AUTO,series/focal set exact,5,Cooke,S4/i,False,True
-Cooke_S4,21mm_T2,21.0,AUTO,series/focal set exact,5,Cooke,S4/i,False,True
-Cooke_S4,25mm_T2,25.0,AUTO,series/focal set exact,5,Cooke,S4/i,False,True
-Cooke_S4,32mm_T2,32.0,AUTO,series/focal set exact,5,Cooke,S4/i,False,True
-Cooke_S4,35mm_T2,35.0,AUTO,series/focal set exact,5,Cooke,S4/i,False,True
-Cooke_S4,40mm_T2,40.0,AUTO,series/focal set exact,5,Cooke,S4/i,False,True
-Cooke_S4,50mm_T2,50.0,AUTO,series/focal set exact,5,Cooke,S4/i,False,True
-Cooke_S4,65mm_T2,65.0,AUTO,series/focal set exact,5,Cooke,S4/i,False,True
-Cooke_S4,75mm_T2,75.0,AUTO,series/focal set exact,5,Cooke,S4/i,False,True
-Cooke_Varo-Panchro,20-60mm_T3.1_20mm,20.0,AUTO,range exact,112,Cooke,Varo-Panchro 20-60 T3.1,False,True
-Cooke_Varo-Panchro,20-60mm_T3.1_25mm,25.0,AUTO,range exact,112,Cooke,Varo-Panchro 20-60 T3.1,False,True
-Cooke_Varo-Panchro,20-60mm_T3.1_30mm,30.0,AUTO,range exact,112,Cooke,Varo-Panchro 20-60 T3.1,False,True
-Cooke_Varo-Panchro,20-60mm_T3.1_40mm,40.0,AUTO,range exact,112,Cooke,Varo-Panchro 20-60 T3.1,False,True
-Cooke_Varo-Panchro,20-60mm_T3.1_50mm,50.0,AUTO,range exact,112,Cooke,Varo-Panchro 20-60 T3.1,False,True
-Cooke_Varo-Panchro,20-60mm_T3.1_60mm,60.0,AUTO,range exact,112,Cooke,Varo-Panchro 20-60 T3.1,False,True
-Cooke_Wide Angle Varotal,14-70mm_T3.1_14mm,14.0,AUTO,range exact,111,Cooke,Wide-Angle Varotal 14-70 T3.1,False,True
-Cooke_Wide Angle Varotal,14-70mm_T3.1_17mm,17.0,AUTO,range exact,111,Cooke,Wide-Angle Varotal 14-70 T3.1,False,True
-Cooke_Wide Angle Varotal,14-70mm_T3.1_20mm,20.0,AUTO,range exact,111,Cooke,Wide-Angle Varotal 14-70 T3.1,False,True
-Cooke_Wide Angle Varotal,14-70mm_T3.1_25mm,25.0,AUTO,range exact,111,Cooke,Wide-Angle Varotal 14-70 T3.1,False,True
-Cooke_Wide Angle Varotal,14-70mm_T3.1_32mm,32.0,AUTO,range exact,111,Cooke,Wide-Angle Varotal 14-70 T3.1,False,True
-Cooke_Wide Angle Varotal,14-70mm_T3.1_40mm,40.0,AUTO,range exact,111,Cooke,Wide-Angle Varotal 14-70 T3.1,False,True
-Cooke_Wide Angle Varotal,14-70mm_T3.1_50mm,50.0,AUTO,range exact,111,Cooke,Wide-Angle Varotal 14-70 T3.1,False,True
-Cooke_Wide Angle Varotal,14-70mm_T3.1_60mm,60.0,AUTO,range exact,111,Cooke,Wide-Angle Varotal 14-70 T3.1,False,True
-Cooke_Wide Angle Varotal,14-70mm_T3.1_70mm,70.0,AUTO,range exact,111,Cooke,Wide-Angle Varotal 14-70 T3.1,False,True
-DZOFILM_PAVO_x2_Anamorphic, 100mm_T2.4,100.0,AUTO,series/focal set exact,47,DZOFILM,PAVO Anamorphic 2x,False,True
-DZOFILM_PAVO_x2_Anamorphic, 135mm_T2.5,135.0,AUTO,series/focal set exact,47,DZOFILM,PAVO Anamorphic 2x,False,True
-DZOFILM_PAVO_x2_Anamorphic, 180mm_T2.8,180.0,AUTO,series/focal set exact,47,DZOFILM,PAVO Anamorphic 2x,False,True
-DZOFILM_PAVO_x2_Anamorphic,28mm_T2.1,28.0,AUTO,series/focal set exact,47,DZOFILM,PAVO Anamorphic 2x,False,True
-DZOFILM_PAVO_x2_Anamorphic,32mm_T2.1,32.0,AUTO,series/focal set exact,47,DZOFILM,PAVO Anamorphic 2x,False,True
-DZOFILM_PAVO_x2_Anamorphic,40mm_T2.1,40.0,AUTO,series/focal set exact,47,DZOFILM,PAVO Anamorphic 2x,False,True
-DZOFILM_PAVO_x2_Anamorphic,55mm_T2.1,55.0,AUTO,series/focal set exact,47,DZOFILM,PAVO Anamorphic 2x,False,True
-DZOFILM_PAVO_x2_Anamorphic,65mm_T2.8,65.0,AUTO,series/focal set exact,47,DZOFILM,PAVO Anamorphic 2x,False,True
-DZOFILM_PAVO_x2_Anamorphic,75mm_T2.1,75.0,AUTO,series/focal set exact,47,DZOFILM,PAVO Anamorphic 2x,False,True
-FUJINON_Duvo,14-100mm_T2.9 100mm,100.0,AUTO,range exact,76,FUJINON,Duvo HZK 14-100,False,True
-FUJINON_Duvo,14-100mm_T2.9_14mm,14.0,AUTO,range exact,76,FUJINON,Duvo HZK 14-100,False,True
-FUJINON_Duvo,14-100mm_T2.9_24mm,24.0,AUTO,range exact,76,FUJINON,Duvo HZK 14-100,False,True
-FUJINON_Duvo,14-100mm_T2.9_35mm,35.0,AUTO,range exact,76,FUJINON,Duvo HZK 14-100,False,True
-FUJINON_Duvo,14-100mm_T2.9_50mm,50.0,AUTO,range exact,76,FUJINON,Duvo HZK 14-100,False,True
-FUJINON_Duvo,14-100mm_T2.9_75mm,75.0,AUTO,range exact,76,FUJINON,Duvo HZK 14-100,False,True
-FUJINON_Duvo,24-300mm_T2.9 100mm,100.0,AUTO,range exact,67,FUJINON,Duvo HZK 24-300,False,True
-FUJINON_Duvo,24-300mm_T2.9 135mm,135.0,AUTO,range exact,67,FUJINON,Duvo HZK 24-300,False,True
-FUJINON_Duvo,24-300mm_T2.9 200mm,200.0,AUTO,range exact,67,FUJINON,Duvo HZK 24-300,False,True
-FUJINON_Duvo,24-300mm_T2.9 300mm,300.0,AUTO,range exact,67,FUJINON,Duvo HZK 24-300,False,True
-FUJINON_Duvo,24-300mm_T2.9_24mm,24.0,AUTO,range exact,67,FUJINON,Duvo HZK 24-300,False,True
-FUJINON_Duvo,24-300mm_T2.9_35mm,35.0,AUTO,range exact,67,FUJINON,Duvo HZK 24-300,False,True
-FUJINON_Duvo,24-300mm_T2.9_50mm,50.0,AUTO,range exact,67,FUJINON,Duvo HZK 24-300,False,True
-FUJINON_Duvo,24-300mm_T2.9_75mm,75.0,AUTO,range exact,67,FUJINON,Duvo HZK 24-300,False,True
-FUJINON_HK,18-85mm_T2_18mm,18.0,AUTO,range exact,97,FUJINON,HK Premier 18-85 T2,False,True
-FUJINON_HK,18-85mm_T2_20mm,20.0,AUTO,range exact,97,FUJINON,HK Premier 18-85 T2,False,True
-FUJINON_HK,18-85mm_T2_22mm,22.0,AUTO,range exact,97,FUJINON,HK Premier 18-85 T2,False,True
-FUJINON_HK,18-85mm_T2_25mm,25.0,AUTO,range exact,97,FUJINON,HK Premier 18-85 T2,False,True
-FUJINON_HK,18-85mm_T2_30mm,30.0,AUTO,range exact,97,FUJINON,HK Premier 18-85 T2,False,True
-FUJINON_HK,18-85mm_T2_35mm,35.0,AUTO,range exact,97,FUJINON,HK Premier 18-85 T2,False,True
-FUJINON_HK,18-85mm_T2_40mm,40.0,AUTO,range exact,97,FUJINON,HK Premier 18-85 T2,False,True
-FUJINON_HK,18-85mm_T2_45mm,45.0,AUTO,range exact,97,FUJINON,HK Premier 18-85 T2,False,True
-FUJINON_HK,18-85mm_T2_50mm,50.0,AUTO,range exact,97,FUJINON,HK Premier 18-85 T2,False,True
-FUJINON_HK,18-85mm_T2_55mm,55.0,AUTO,range exact,97,FUJINON,HK Premier 18-85 T2,False,True
-FUJINON_HK,18-85mm_T2_60mm,60.0,AUTO,range exact,97,FUJINON,HK Premier 18-85 T2,False,True
-FUJINON_HK,18-85mm_T2_65mm,65.0,AUTO,range exact,97,FUJINON,HK Premier 18-85 T2,False,True
-FUJINON_HK,18-85mm_T2_70mm,70.0,AUTO,range exact,97,FUJINON,HK Premier 18-85 T2,False,True
-FUJINON_HK,18-85mm_T2_75mm,75.0,AUTO,range exact,97,FUJINON,HK Premier 18-85 T2,False,True
-FUJINON_HK,18-85mm_T2_80mm,80.0,AUTO,range exact,97,FUJINON,HK Premier 18-85 T2,False,True
-FUJINON_HK,18-85mm_T2_85mm,85.0,AUTO,range exact,97,FUJINON,HK Premier 18-85 T2,False,True
-FUJINON_HK,75-400mm_T2.8 100mm,100.0,AUTO,range exact,98,FUJINON,HK Premier 75-400 T2.8-3.8,False,True
-FUJINON_HK,75-400mm_T2.8 120mm,120.0,AUTO,range exact,98,FUJINON,HK Premier 75-400 T2.8-3.8,False,True
-FUJINON_HK,75-400mm_T2.8 140mm,140.0,AUTO,range exact,98,FUJINON,HK Premier 75-400 T2.8-3.8,False,True
-FUJINON_HK,75-400mm_T2.8 160mm,160.0,AUTO,range exact,98,FUJINON,HK Premier 75-400 T2.8-3.8,False,True
-FUJINON_HK,75-400mm_T2.8 180mm,180.0,AUTO,range exact,98,FUJINON,HK Premier 75-400 T2.8-3.8,False,True
-FUJINON_HK,75-400mm_T2.8 200mm,200.0,AUTO,range exact,98,FUJINON,HK Premier 75-400 T2.8-3.8,False,True
-FUJINON_HK,75-400mm_T2.8 225mm,225.0,AUTO,range exact,98,FUJINON,HK Premier 75-400 T2.8-3.8,False,True
-FUJINON_HK,75-400mm_T2.8 250mm,250.0,AUTO,range exact,98,FUJINON,HK Premier 75-400 T2.8-3.8,False,True
-FUJINON_HK,75-400mm_T2.8 275mm,275.0,AUTO,range exact,98,FUJINON,HK Premier 75-400 T2.8-3.8,False,True
-FUJINON_HK,75-400mm_T2.8 300mm,300.0,AUTO,range exact,98,FUJINON,HK Premier 75-400 T2.8-3.8,False,True
-FUJINON_HK,75-400mm_T2.8 325mm,325.0,AUTO,range exact,98,FUJINON,HK Premier 75-400 T2.8-3.8,False,True
-FUJINON_HK,75-400mm_T2.8 350mm,350.0,AUTO,range exact,98,FUJINON,HK Premier 75-400 T2.8-3.8,False,True
-FUJINON_HK,75-400mm_T2.8_75mm,75.0,AUTO,range exact,98,FUJINON,HK Premier 75-400 T2.8-3.8,False,True
-FUJINON_HK,75-400mm_T2.8_85mm,85.0,AUTO,range exact,98,FUJINON,HK Premier 75-400 T2.8-3.8,False,True
-FUJINON_HK,75-400mm_T3.8 400mm,400.0,AUTO,range exact,98,FUJINON,HK Premier 75-400 T2.8-3.8,False,True
-FUJINON_XK,XK 20-120mm_T3.5 100mm,100.0,AUTO,range exact,66,FUJINON,XK 20-120 T3.5,False,True
-FUJINON_XK,XK 20-120mm_T3.5 120mm,120.0,AUTO,range exact,66,FUJINON,XK 20-120 T3.5,False,True
-FUJINON_XK,XK 20-120mm_T3.5_20mm,20.0,AUTO,range exact,66,FUJINON,XK 20-120 T3.5,False,True
-FUJINON_XK,XK 20-120mm_T3.5_28mm,28.0,AUTO,range exact,66,FUJINON,XK 20-120 T3.5,False,True
-FUJINON_XK,XK 20-120mm_T3.5_35mm,35.0,AUTO,range exact,66,FUJINON,XK 20-120 T3.5,False,True
-FUJINON_XK,XK 20-120mm_T3.5_40mm,40.0,AUTO,range exact,66,FUJINON,XK 20-120 T3.5,False,True
-FUJINON_XK,XK 20-120mm_T3.5_50mm,50.0,AUTO,range exact,66,FUJINON,XK 20-120 T3.5,False,True
-FUJINON_XK,XK 20-120mm_T3.5_65mm,65.0,AUTO,range exact,66,FUJINON,XK 20-120 T3.5,False,True
-FUJINON_XK,XK 20-120mm_T3.5_75mm,75.0,AUTO,range exact,66,FUJINON,XK 20-120 T3.5,False,True
-FUJINON_ZK,14-35mm_T2.9_14mm,14.0,AUTO,range exact,63,FUJINON,ZK 14-35 T2.9,False,True
-FUJINON_ZK,14-35mm_T2.9_16mm,16.0,AUTO,range exact,63,FUJINON,ZK 14-35 T2.9,False,True
-FUJINON_ZK,14-35mm_T2.9_18mm,18.0,AUTO,range exact,63,FUJINON,ZK 14-35 T2.9,False,True
-FUJINON_ZK,14-35mm_T2.9_20mm,20.0,AUTO,range exact,63,FUJINON,ZK 14-35 T2.9,False,True
-FUJINON_ZK,14-35mm_T2.9_22mm,22.0,AUTO,range exact,63,FUJINON,ZK 14-35 T2.9,False,True
-FUJINON_ZK,14-35mm_T2.9_24mm,24.0,AUTO,range exact,63,FUJINON,ZK 14-35 T2.9,False,True
-FUJINON_ZK,14-35mm_T2.9_26mm,26.0,AUTO,range exact,63,FUJINON,ZK 14-35 T2.9,False,True
-FUJINON_ZK,14-35mm_T2.9_28mm,28.0,AUTO,range exact,63,FUJINON,ZK 14-35 T2.9,False,True
-FUJINON_ZK,14-35mm_T2.9_30mm,30.0,AUTO,range exact,63,FUJINON,ZK 14-35 T2.9,False,True
-FUJINON_ZK,14-35mm_T2.9_32mm,32.0,AUTO,range exact,63,FUJINON,ZK 14-35 T2.9,False,True
-FUJINON_ZK,14-35mm_T2.9_35mm,35.0,AUTO,range exact,63,FUJINON,ZK 14-35 T2.9,False,True
-FUJINON_ZK,19-90mm_T2.9_19mm,19.0,AUTO,range exact,64,FUJINON,ZK 19-90 T2.9,False,True
-FUJINON_ZK,19-90mm_T2.9_22mm,22.0,AUTO,range exact,64,FUJINON,ZK 19-90 T2.9,False,True
-FUJINON_ZK,19-90mm_T2.9_25mm,25.0,AUTO,range exact,64,FUJINON,ZK 19-90 T2.9,False,True
-FUJINON_ZK,19-90mm_T2.9_30mm,30.0,AUTO,range exact,64,FUJINON,ZK 19-90 T2.9,False,True
-FUJINON_ZK,19-90mm_T2.9_35mm,35.0,AUTO,range exact,64,FUJINON,ZK 19-90 T2.9,False,True
-FUJINON_ZK,19-90mm_T2.9_40mm,40.0,AUTO,range exact,64,FUJINON,ZK 19-90 T2.9,False,True
-FUJINON_ZK,19-90mm_T2.9_50mm,50.0,AUTO,range exact,64,FUJINON,ZK 19-90 T2.9,False,True
-FUJINON_ZK,19-90mm_T2.9_60mm,60.0,AUTO,range exact,64,FUJINON,ZK 19-90 T2.9,False,True
-FUJINON_ZK,19-90mm_T2.9_70mm,70.0,AUTO,range exact,64,FUJINON,ZK 19-90 T2.9,False,True
-FUJINON_ZK,19-90mm_T2.9_80mm,80.0,AUTO,range exact,64,FUJINON,ZK 19-90 T2.9,False,True
-FUJINON_ZK,19-90mm_T2.9_90mm,90.0,AUTO,range exact,64,FUJINON,ZK 19-90 T2.9,False,True
-FUJINON_ZK,85-300mm_T2.9 100mm,100.0,AUTO,range exact,65,FUJINON,ZK 85-300 T2.9-4.0,False,True
-FUJINON_ZK,85-300mm_T2.9 120mm,120.0,AUTO,range exact,65,FUJINON,ZK 85-300 T2.9-4.0,False,True
-FUJINON_ZK,85-300mm_T2.9 140mm,140.0,AUTO,range exact,65,FUJINON,ZK 85-300 T2.9-4.0,False,True
-FUJINON_ZK,85-300mm_T2.9 160mm,160.0,AUTO,range exact,65,FUJINON,ZK 85-300 T2.9-4.0,False,True
-FUJINON_ZK,85-300mm_T2.9 180mm,180.0,AUTO,range exact,65,FUJINON,ZK 85-300 T2.9-4.0,False,True
-FUJINON_ZK,85-300mm_T2.9 220mm,220.0,AUTO,range exact,65,FUJINON,ZK 85-300 T2.9-4.0,False,True
-FUJINON_ZK,85-300mm_T2.9 260mm,260.0,AUTO,range exact,65,FUJINON,ZK 85-300 T2.9-4.0,False,True
-FUJINON_ZK,85-300mm_T2.9 300mm,300.0,AUTO,range exact,65,FUJINON,ZK 85-300 T2.9-4.0,False,True
-FUJINON_ZK,85-300mm_T2.9_85mm,85.0,AUTO,range exact,65,FUJINON,ZK 85-300 T2.9-4.0,False,True
-KOWA_PROMINAR,25-125mm_T4.5 100mm,100.0,NO_TARGET,KOWA PROMINAR 25-125 capture library exists but no corresponding V110 lens family,,,,False,True
-KOWA_PROMINAR,25-125mm_T4.5 125mm,125.0,NO_TARGET,KOWA PROMINAR 25-125 capture library exists but no corresponding V110 lens family,,,,False,True
-KOWA_PROMINAR,25-125mm_T4.5_25mm,25.0,NO_TARGET,KOWA PROMINAR 25-125 capture library exists but no corresponding V110 lens family,,,,False,True
-KOWA_PROMINAR,25-125mm_T4.5_30mm,30.0,NO_TARGET,KOWA PROMINAR 25-125 capture library exists but no corresponding V110 lens family,,,,False,True
-KOWA_PROMINAR,25-125mm_T4.5_35mm,35.0,NO_TARGET,KOWA PROMINAR 25-125 capture library exists but no corresponding V110 lens family,,,,False,True
-KOWA_PROMINAR,25-125mm_T4.5_40mm,40.0,NO_TARGET,KOWA PROMINAR 25-125 capture library exists but no corresponding V110 lens family,,,,False,True
-KOWA_PROMINAR,25-125mm_T4.5_50mm,50.0,NO_TARGET,KOWA PROMINAR 25-125 capture library exists but no corresponding V110 lens family,,,,False,True
-KOWA_PROMINAR,25-125mm_T4.5_60mm,60.0,NO_TARGET,KOWA PROMINAR 25-125 capture library exists but no corresponding V110 lens family,,,,False,True
-KOWA_PROMINAR,25-125mm_T4.5_75mm,75.0,NO_TARGET,KOWA PROMINAR 25-125 capture library exists but no corresponding V110 lens family,,,,False,True
-LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_28mm,28.0,AUTO,range exact,28,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,False,True
-LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_30mm,30.0,AUTO,range exact,28,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,False,True
-LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_32mm,32.0,AUTO,range exact,28,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,False,True
-LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_35mm,35.0,AUTO,range exact,28,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,False,True
-LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_37mm,37.0,AUTO,range exact,28,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,False,True
-LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_40mm,40.0,AUTO,range exact,28,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,False,True
-LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_43mm,43.0,AUTO,range exact,28,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,False,True
-LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_45mm,45.0,AUTO,range exact,28,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,False,True
-LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_48mm,48.0,AUTO,range exact,28,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,False,True
-LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_50mm,50.0,AUTO,range exact,28,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,False,True
-LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_52mm,52.0,AUTO,range exact,28,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,False,True
-LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_55mm,55.0,AUTO,range exact,28,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,False,True
-LAOWA_Nanomorph_x1.5, 50-100mm_T2.9 100mm,100.0,AUTO,range exact,29,LAOWA,Nanomorph 1.5x S35 Zoom 50-100,False,True
-LAOWA_Nanomorph_x1.5, 50-100mm_T2.9_50mm,50.0,AUTO,range exact,29,LAOWA,Nanomorph 1.5x S35 Zoom 50-100,False,True
-LAOWA_Nanomorph_x1.5, 50-100mm_T2.9_55mm,55.0,AUTO,range exact,29,LAOWA,Nanomorph 1.5x S35 Zoom 50-100,False,True
-LAOWA_Nanomorph_x1.5, 50-100mm_T2.9_60mm,60.0,AUTO,range exact,29,LAOWA,Nanomorph 1.5x S35 Zoom 50-100,False,True
-LAOWA_Nanomorph_x1.5, 50-100mm_T2.9_65mm,65.0,AUTO,range exact,29,LAOWA,Nanomorph 1.5x S35 Zoom 50-100,False,True
-LAOWA_Nanomorph_x1.5, 50-100mm_T2.9_70mm,70.0,AUTO,range exact,29,LAOWA,Nanomorph 1.5x S35 Zoom 50-100,False,True
-LAOWA_Nanomorph_x1.5, 50-100mm_T2.9_75mm,75.0,AUTO,range exact,29,LAOWA,Nanomorph 1.5x S35 Zoom 50-100,False,True
-LAOWA_Nanomorph_x1.5, 50-100mm_T2.9_80mm,80.0,AUTO,range exact,29,LAOWA,Nanomorph 1.5x S35 Zoom 50-100,False,True
-LAOWA_Nanomorph_x1.5, 50-100mm_T2.9_85mm,85.0,AUTO,range exact,29,LAOWA,Nanomorph 1.5x S35 Zoom 50-100,False,True
-LAOWA_Nanomorph_x1.5, 50-100mm_T2.9_90mm,90.0,AUTO,range exact,29,LAOWA,Nanomorph 1.5x S35 Zoom 50-100,False,True
-LAOWA_Nanomorph_x1.5,27mm_T2.8,27.0,AUTO,prime Nanomorph source focal,27,LAOWA,Nanomorph 1.5x S35 Prime,False,True
-LAOWA_Nanomorph_x1.5,35mm_T2.4,35.0,AUTO,prime Nanomorph source focal,27,LAOWA,Nanomorph 1.5x S35 Prime,False,True
-LAOWA_Nanomorph_x1.5,50mm_T2.4,50.0,AUTO,prime Nanomorph source focal,27,LAOWA,Nanomorph 1.5x S35 Prime,False,True
-LAOWA_Nanomorph_x1.5,65mm_T2.4,65.0,AUTO,prime Nanomorph source focal,27,LAOWA,Nanomorph 1.5x S35 Prime,False,True
-LAOWA_Nanomorph_x1.5,80mm_T2.4,80.0,AUTO,prime Nanomorph source focal,27,LAOWA,Nanomorph 1.5x S35 Prime,False,True
-LOMO_ZOOM,20-120mm_T3.3 100mm,100.0,AUTO,series/range exact,118,LOMO,LOMO ZOOM 20-120mm T3.3,False,True
-LOMO_ZOOM,20-120mm_T3.3 120mm,120.0,AUTO,series/range exact,118,LOMO,LOMO ZOOM 20-120mm T3.3,False,True
-LOMO_ZOOM,20-120mm_T3.3_20mm,20.0,AUTO,series/range exact,118,LOMO,LOMO ZOOM 20-120mm T3.3,False,True
-LOMO_ZOOM,20-120mm_T3.3_25mm,25.0,AUTO,series/range exact,118,LOMO,LOMO ZOOM 20-120mm T3.3,False,True
-LOMO_ZOOM,20-120mm_T3.3_30mm,30.0,AUTO,series/range exact,118,LOMO,LOMO ZOOM 20-120mm T3.3,False,True
-LOMO_ZOOM,20-120mm_T3.3_35mm,35.0,AUTO,series/range exact,118,LOMO,LOMO ZOOM 20-120mm T3.3,False,True
-LOMO_ZOOM,20-120mm_T3.3_40mm,40.0,AUTO,series/range exact,118,LOMO,LOMO ZOOM 20-120mm T3.3,False,True
-LOMO_ZOOM,20-120mm_T3.3_45mm,45.0,AUTO,series/range exact,118,LOMO,LOMO ZOOM 20-120mm T3.3,False,True
-LOMO_ZOOM,20-120mm_T3.3_50mm,50.0,AUTO,series/range exact,118,LOMO,LOMO ZOOM 20-120mm T3.3,False,True
-LOMO_ZOOM,20-120mm_T3.3_60mm,60.0,AUTO,series/range exact,118,LOMO,LOMO ZOOM 20-120mm T3.3,False,True
-LOMO_ZOOM,20-120mm_T3.3_70mm,70.0,AUTO,series/range exact,118,LOMO,LOMO ZOOM 20-120mm T3.3,False,True
-Leica Summicron-C, 100mm_T2,100.0,AUTO,legacy Leica naming -> LensScope Leitz SUMMICRON-C,41,Leitz,SUMMICRON-C,False,True
-Leica Summicron-C, 135mm_T2,135.0,AUTO,legacy Leica naming -> LensScope Leitz SUMMICRON-C,41,Leitz,SUMMICRON-C,False,True
-Leica Summicron-C,15mm_T2,15.0,AUTO,legacy Leica naming -> LensScope Leitz SUMMICRON-C,41,Leitz,SUMMICRON-C,False,True
-Leica Summicron-C,18mm_T2,18.0,AUTO,legacy Leica naming -> LensScope Leitz SUMMICRON-C,41,Leitz,SUMMICRON-C,False,True
-Leica Summicron-C,21mm_T2,21.0,AUTO,legacy Leica naming -> LensScope Leitz SUMMICRON-C,41,Leitz,SUMMICRON-C,False,True
-Leica Summicron-C,25mm_T2,25.0,AUTO,legacy Leica naming -> LensScope Leitz SUMMICRON-C,41,Leitz,SUMMICRON-C,False,True
-Leica Summicron-C,29mm_T2,29.0,AUTO,legacy Leica naming -> LensScope Leitz SUMMICRON-C,41,Leitz,SUMMICRON-C,False,True
-Leica Summicron-C,35mm_T2,35.0,AUTO,legacy Leica naming -> LensScope Leitz SUMMICRON-C,41,Leitz,SUMMICRON-C,False,True
-Leica Summicron-C,40mm_T2,40.0,AUTO,legacy Leica naming -> LensScope Leitz SUMMICRON-C,41,Leitz,SUMMICRON-C,False,True
-Leica Summicron-C,50mm_T2,50.0,AUTO,legacy Leica naming -> LensScope Leitz SUMMICRON-C,41,Leitz,SUMMICRON-C,False,True
-Leica Summicron-C,75mm_T2,75.0,AUTO,legacy Leica naming -> LensScope Leitz SUMMICRON-C,41,Leitz,SUMMICRON-C,False,True
-Leica Summilux-C, 100mm T1.4,100.0,AUTO,legacy Leica naming -> LensScope Leitz SUMMILUX-C,40,Leitz,SUMMILUX-C,False,True
-Leica Summilux-C,16mm_T1.4,16.0,AUTO,legacy Leica naming -> LensScope Leitz SUMMILUX-C,40,Leitz,SUMMILUX-C,False,True
-Leica Summilux-C,18mm_T1.4,18.0,AUTO,legacy Leica naming -> LensScope Leitz SUMMILUX-C,40,Leitz,SUMMILUX-C,False,True
-Leica Summilux-C,21mm_T1.4,21.0,AUTO,legacy Leica naming -> LensScope Leitz SUMMILUX-C,40,Leitz,SUMMILUX-C,False,True
-Leica Summilux-C,25mm_T1.4,25.0,AUTO,legacy Leica naming -> LensScope Leitz SUMMILUX-C,40,Leitz,SUMMILUX-C,False,True
-Leica Summilux-C,29mm_T1.4,29.0,AUTO,legacy Leica naming -> LensScope Leitz SUMMILUX-C,40,Leitz,SUMMILUX-C,False,True
-Leica Summilux-C,35mm_T1.4,35.0,AUTO,legacy Leica naming -> LensScope Leitz SUMMILUX-C,40,Leitz,SUMMILUX-C,False,True
-Leica Summilux-C,40mm_T1.4,40.0,AUTO,legacy Leica naming -> LensScope Leitz SUMMILUX-C,40,Leitz,SUMMILUX-C,False,True
-Leica Summilux-C,50mm_T1.4,50.0,AUTO,legacy Leica naming -> LensScope Leitz SUMMILUX-C,40,Leitz,SUMMILUX-C,False,True
-Leica Summilux-C,65mm_T1.4,65.0,AUTO,legacy Leica naming -> LensScope Leitz SUMMILUX-C,40,Leitz,SUMMILUX-C,False,True
-Leica Summilux-C,75mm_T1.4,75.0,AUTO,legacy Leica naming -> LensScope Leitz SUMMILUX-C,40,Leitz,SUMMILUX-C,False,True
-Leica THALIA, 100mm T2.2,100.0,AUTO,series exact; LensScope current maker spelling Leitz,10,Leitz,THALIA,False,True
-Leica THALIA, 120mm T2.6,120.0,AUTO,series exact; LensScope current maker spelling Leitz,10,Leitz,THALIA,False,True
-Leica THALIA, 180mm T3.6,180.0,AUTO,series exact; LensScope current maker spelling Leitz,10,Leitz,THALIA,False,True
-Leica THALIA,24mm T3.6,24.0,AUTO,series exact; LensScope current maker spelling Leitz,10,Leitz,THALIA,False,True
-Leica THALIA,30mm T2.9,30.0,AUTO,series exact; LensScope current maker spelling Leitz,10,Leitz,THALIA,False,True
-Leica THALIA,35mm T2.6,35.0,AUTO,series exact; LensScope current maker spelling Leitz,10,Leitz,THALIA,False,True
-Leica THALIA,45mm T2.9,45.0,AUTO,series exact; LensScope current maker spelling Leitz,10,Leitz,THALIA,False,True
-Leica THALIA,70mm T2.6,70.0,AUTO,series exact; LensScope current maker spelling Leitz,10,Leitz,THALIA,False,True
-Leica VARIO-APO-ELMARIT R,70-180mm_T3 100mm,100.0,AUTO,range/model exact; LensScope entry identifies Duclos conversion,114,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,False,True
-Leica VARIO-APO-ELMARIT R,70-180mm_T3 105mm,105.0,AUTO,range/model exact; LensScope entry identifies Duclos conversion,114,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,False,True
-Leica VARIO-APO-ELMARIT R,70-180mm_T3 110mm,110.0,AUTO,range/model exact; LensScope entry identifies Duclos conversion,114,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,False,True
-Leica VARIO-APO-ELMARIT R,70-180mm_T3 120mm,120.0,AUTO,range/model exact; LensScope entry identifies Duclos conversion,114,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,False,True
-Leica VARIO-APO-ELMARIT R,70-180mm_T3 135mm,135.0,AUTO,range/model exact; LensScope entry identifies Duclos conversion,114,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,False,True
-Leica VARIO-APO-ELMARIT R,70-180mm_T3 150mm,150.0,AUTO,range/model exact; LensScope entry identifies Duclos conversion,114,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,False,True
-Leica VARIO-APO-ELMARIT R,70-180mm_T3 165mm,165.0,AUTO,range/model exact; LensScope entry identifies Duclos conversion,114,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,False,True
-Leica VARIO-APO-ELMARIT R,70-180mm_T3 180mm,180.0,AUTO,range/model exact; LensScope entry identifies Duclos conversion,114,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,False,True
-Leica VARIO-APO-ELMARIT R,70-180mm_T3_70mm,70.0,AUTO,range/model exact; LensScope entry identifies Duclos conversion,114,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,False,True
-Leica VARIO-APO-ELMARIT R,70-180mm_T3_75mm,75.0,AUTO,range/model exact; LensScope entry identifies Duclos conversion,114,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,False,True
-Leica VARIO-APO-ELMARIT R,70-180mm_T3_80mm,80.0,AUTO,range/model exact; LensScope entry identifies Duclos conversion,114,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,False,True
-Leica VARIO-APO-ELMARIT R,70-180mm_T3_85mm,85.0,AUTO,range/model exact; LensScope entry identifies Duclos conversion,114,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,False,True
-Leica VARIO-APO-ELMARIT R,70-180mm_T3_90mm,90.0,AUTO,range/model exact; LensScope entry identifies Duclos conversion,114,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,False,True
-Leica VARIO-APO-ELMARIT R,70-180mm_T3_95mm,95.0,AUTO,range/model exact; LensScope entry identifies Duclos conversion,114,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,False,True
-SERVICE VISION, 100mm_T2.2,100.0,AUTO,User-confirmed generic SERVICE VISION folder corresponds to this lens set,82,SERVICE VISION,Scorpiolens Anamorphic FFA 2x,False,True
-SERVICE VISION,35mm_T2.2,35.0,AUTO,User-confirmed generic SERVICE VISION folder corresponds to this lens set,82,SERVICE VISION,Scorpiolens Anamorphic FFA 2x,False,True
-SERVICE VISION,40mm_T2.2,40.0,AUTO,User-confirmed generic SERVICE VISION folder corresponds to this lens set,82,SERVICE VISION,Scorpiolens Anamorphic FFA 2x,False,True
-SERVICE VISION,50mm_T2.2,50.0,AUTO,User-confirmed generic SERVICE VISION folder corresponds to this lens set,82,SERVICE VISION,Scorpiolens Anamorphic FFA 2x,False,True
-SERVICE VISION,75mm_T2.2,75.0,AUTO,User-confirmed generic SERVICE VISION folder corresponds to this lens set,82,SERVICE VISION,Scorpiolens Anamorphic FFA 2x,False,True
-SERVICE VISION Scorpiozoom ,138-405 T4.3_138mm,138.0,AUTO,model/range exact,83,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,False,True
-SERVICE VISION Scorpiozoom ,138-405 T4.3_160mm,160.0,AUTO,model/range exact,83,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,False,True
-SERVICE VISION Scorpiozoom ,138-405 T4.3_180mm,180.0,AUTO,model/range exact,83,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,False,True
-SERVICE VISION Scorpiozoom ,138-405 T4.3_200mm,200.0,AUTO,model/range exact,83,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,False,True
-SERVICE VISION Scorpiozoom ,138-405 T4.3_220mm,220.0,AUTO,model/range exact,83,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,False,True
-SERVICE VISION Scorpiozoom ,138-405 T4.3_240mm,240.0,AUTO,model/range exact,83,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,False,True
-SERVICE VISION Scorpiozoom ,138-405 T4.3_260mm,260.0,AUTO,model/range exact,83,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,False,True
-SERVICE VISION Scorpiozoom ,138-405 T4.3_280mm,280.0,AUTO,model/range exact,83,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,False,True
-SERVICE VISION Scorpiozoom ,138-405 T4.3_300mm,300.0,AUTO,model/range exact,83,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,False,True
-SERVICE VISION Scorpiozoom ,138-405 T4.3_320mm,320.0,AUTO,model/range exact,83,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,False,True
-SERVICE VISION Scorpiozoom ,138-405 T4.3_340mm,340.0,AUTO,model/range exact,83,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,False,True
-SERVICE VISION Scorpiozoom ,138-405 T4.3_360mm,360.0,AUTO,model/range exact,83,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,False,True
-SERVICE VISION Scorpiozoom ,138-405 T4.3_380mm,380.0,AUTO,model/range exact,83,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,False,True
-SERVICE VISION Scorpiozoom ,138-405 T4.3_405mm,405.0,AUTO,model/range exact,83,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,False,True
-SIGMA FF High Speed Prime, 135mm T2,135.0,AUTO,series exact; do not map to V35,21,SIGMA,FF High Speed Prime,False,True
-SIGMA FF High Speed Prime,14mm T2,14.0,AUTO,series exact; do not map to V35,21,SIGMA,FF High Speed Prime,False,True
-SIGMA FF High Speed Prime,20mm T1.5,20.0,AUTO,series exact; do not map to V35,21,SIGMA,FF High Speed Prime,False,True
-SIGMA FF High Speed Prime,24mm T1.5,24.0,AUTO,series exact; do not map to V35,21,SIGMA,FF High Speed Prime,False,True
-SIGMA FF High Speed Prime,28mm T1.5,28.0,AUTO,series exact; do not map to V35,21,SIGMA,FF High Speed Prime,False,True
-SIGMA FF High Speed Prime,35mm T1.5,35.0,AUTO,series exact; do not map to V35,21,SIGMA,FF High Speed Prime,False,True
-SIGMA FF High Speed Prime,40mm T1.5,40.0,AUTO,series exact; do not map to V35,21,SIGMA,FF High Speed Prime,False,True
-SIGMA FF High Speed Prime,50mm T1.5,50.0,AUTO,series exact; do not map to V35,21,SIGMA,FF High Speed Prime,False,True
-SIGMA FF High Speed Prime,85mm T1.5,85.0,AUTO,series exact; do not map to V35,21,SIGMA,FF High Speed Prime,False,True
-SIGMA High Speed Zoom,18-35mm_T2_18mm,18.0,AUTO,range exact,89,SIGMA,High Speed Zoom 18-35 T2,False,True
-SIGMA High Speed Zoom,18-35mm_T2_19mm,19.0,AUTO,range exact,89,SIGMA,High Speed Zoom 18-35 T2,False,True
-SIGMA High Speed Zoom,18-35mm_T2_20mm,20.0,AUTO,range exact,89,SIGMA,High Speed Zoom 18-35 T2,False,True
-SIGMA High Speed Zoom,18-35mm_T2_21mm,21.0,AUTO,range exact,89,SIGMA,High Speed Zoom 18-35 T2,False,True
-SIGMA High Speed Zoom,18-35mm_T2_22mm,22.0,AUTO,range exact,89,SIGMA,High Speed Zoom 18-35 T2,False,True
-SIGMA High Speed Zoom,18-35mm_T2_23mm,23.0,AUTO,range exact,89,SIGMA,High Speed Zoom 18-35 T2,False,True
-SIGMA High Speed Zoom,18-35mm_T2_24mm,24.0,AUTO,range exact,89,SIGMA,High Speed Zoom 18-35 T2,False,True
-SIGMA High Speed Zoom,18-35mm_T2_25mm,25.0,AUTO,range exact,89,SIGMA,High Speed Zoom 18-35 T2,False,True
-SIGMA High Speed Zoom,18-35mm_T2_26mm,26.0,AUTO,range exact,89,SIGMA,High Speed Zoom 18-35 T2,False,True
-SIGMA High Speed Zoom,18-35mm_T2_27mm,27.0,AUTO,range exact,89,SIGMA,High Speed Zoom 18-35 T2,False,True
-SIGMA High Speed Zoom,18-35mm_T2_28mm,28.0,AUTO,range exact,89,SIGMA,High Speed Zoom 18-35 T2,False,True
-SIGMA High Speed Zoom,18-35mm_T2_29mm,29.0,AUTO,range exact,89,SIGMA,High Speed Zoom 18-35 T2,False,True
-SIGMA High Speed Zoom,18-35mm_T2_30mm,30.0,AUTO,range exact,89,SIGMA,High Speed Zoom 18-35 T2,False,True
-SIGMA High Speed Zoom,18-35mm_T2_31mm,31.0,AUTO,range exact,89,SIGMA,High Speed Zoom 18-35 T2,False,True
-SIGMA High Speed Zoom,18-35mm_T2_32mm,32.0,AUTO,range exact,89,SIGMA,High Speed Zoom 18-35 T2,False,True
-SIGMA High Speed Zoom,18-35mm_T2_35mm,35.0,AUTO,range exact,89,SIGMA,High Speed Zoom 18-35 T2,False,True
-SIGMA High Speed Zoom,50-100mm_T2 100mm,100.0,AUTO,range exact,90,SIGMA,High Speed Zoom 50-100 T2,False,True
-SIGMA High Speed Zoom,50-100mm_T2_50mm,50.0,AUTO,range exact,90,SIGMA,High Speed Zoom 50-100 T2,False,True
-SIGMA High Speed Zoom,50-100mm_T2_54mm,54.0,AUTO,range exact,90,SIGMA,High Speed Zoom 50-100 T2,False,True
-SIGMA High Speed Zoom,50-100mm_T2_56mm,56.0,AUTO,range exact,90,SIGMA,High Speed Zoom 50-100 T2,False,True
-SIGMA High Speed Zoom,50-100mm_T2_58mm,58.0,AUTO,range exact,90,SIGMA,High Speed Zoom 50-100 T2,False,True
-SIGMA High Speed Zoom,50-100mm_T2_60mm,60.0,AUTO,range exact,90,SIGMA,High Speed Zoom 50-100 T2,False,True
-SIGMA High Speed Zoom,50-100mm_T2_62mm,62.0,AUTO,range exact,90,SIGMA,High Speed Zoom 50-100 T2,False,True
-SIGMA High Speed Zoom,50-100mm_T2_64mm,64.0,AUTO,range exact,90,SIGMA,High Speed Zoom 50-100 T2,False,True
-SIGMA High Speed Zoom,50-100mm_T2_66mm,66.0,AUTO,range exact,90,SIGMA,High Speed Zoom 50-100 T2,False,True
-SIGMA High Speed Zoom,50-100mm_T2_68mm,68.0,AUTO,range exact,90,SIGMA,High Speed Zoom 50-100 T2,False,True
-SIGMA High Speed Zoom,50-100mm_T2_70mm,70.0,AUTO,range exact,90,SIGMA,High Speed Zoom 50-100 T2,False,True
-SIGMA High Speed Zoom,50-100mm_T2_72mm,72.0,AUTO,range exact,90,SIGMA,High Speed Zoom 50-100 T2,False,True
-SIGMA High Speed Zoom,50-100mm_T2_75mm,75.0,AUTO,range exact,90,SIGMA,High Speed Zoom 50-100 T2,False,True
-SIGMA High Speed Zoom,50-100mm_T2_80mm,80.0,AUTO,range exact,90,SIGMA,High Speed Zoom 50-100 T2,False,True
-SIGMA High Speed Zoom,50-100mm_T2_85mm,85.0,AUTO,range exact,90,SIGMA,High Speed Zoom 50-100 T2,False,True
-SIGMA High Speed Zoom,50-100mm_T2_90mm,90.0,AUTO,range exact,90,SIGMA,High Speed Zoom 50-100 T2,False,True
-Tokina CINEMA ATX,11-16mm_T3_11mm,11.0,AUTO,11-16 range exact,105,Tokina,Cinema AT-X 11-16 T3,False,True
-Tokina CINEMA ATX,11-16mm_T3_12mm,12.0,AUTO,11-16 range exact,105,Tokina,Cinema AT-X 11-16 T3,False,True
-Tokina CINEMA ATX,11-16mm_T3_13mm,13.0,AUTO,11-16 range exact,105,Tokina,Cinema AT-X 11-16 T3,False,True
-Tokina CINEMA ATX,11-16mm_T3_14mm,14.0,AUTO,11-16 range exact,105,Tokina,Cinema AT-X 11-16 T3,False,True
-Tokina CINEMA ATX,11-16mm_T3_15mm,15.0,AUTO,11-16 range exact,105,Tokina,Cinema AT-X 11-16 T3,False,True
-Tokina CINEMA ATX,11-16mm_T3_16mm,16.0,AUTO,11-16 range exact,105,Tokina,Cinema AT-X 11-16 T3,False,True
-Tokina VISTA,18mm T1.5,18.0,AUTO,legacy source series -> standard VISTA Prime; not VISTA ONE/P,13,Tokina,VISTA Prime,False,True
-Tokina VISTA,25mm T1.5,25.0,AUTO,legacy source series -> standard VISTA Prime; not VISTA ONE/P,13,Tokina,VISTA Prime,False,True
-Tokina VISTA,35mm T1.5,35.0,AUTO,legacy source series -> standard VISTA Prime; not VISTA ONE/P,13,Tokina,VISTA Prime,False,True
-Tokina VISTA,50mm T1.5,50.0,AUTO,legacy source series -> standard VISTA Prime; not VISTA ONE/P,13,Tokina,VISTA Prime,False,True
-Tokina VISTA,85mm T1.5,85.0,AUTO,legacy source series -> standard VISTA Prime; not VISTA ONE/P,13,Tokina,VISTA Prime,False,True
-ZEISS CZ.2,15-30mm_T2.9_15mm,15.0,AUTO,range exact,69,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,False,True
-ZEISS CZ.2,15-30mm_T2.9_16mm,16.0,AUTO,range exact,69,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,False,True
-ZEISS CZ.2,15-30mm_T2.9_17mm,17.0,AUTO,range exact,69,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,False,True
-ZEISS CZ.2,15-30mm_T2.9_18mm,18.0,AUTO,range exact,69,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,False,True
-ZEISS CZ.2,15-30mm_T2.9_19mm,19.0,AUTO,range exact,69,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,False,True
-ZEISS CZ.2,15-30mm_T2.9_20mm,20.0,AUTO,range exact,69,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,False,True
-ZEISS CZ.2,15-30mm_T2.9_21mm,21.0,AUTO,range exact,69,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,False,True
-ZEISS CZ.2,15-30mm_T2.9_22mm,22.0,AUTO,range exact,69,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,False,True
-ZEISS CZ.2,15-30mm_T2.9_23mm,23.0,AUTO,range exact,69,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,False,True
-ZEISS CZ.2,15-30mm_T2.9_24mm,24.0,AUTO,range exact,69,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,False,True
-ZEISS CZ.2,15-30mm_T2.9_25mm,25.0,AUTO,range exact,69,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,False,True
-ZEISS CZ.2,15-30mm_T2.9_26mm,26.0,AUTO,range exact,69,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,False,True
-ZEISS CZ.2,15-30mm_T2.9_27mm,27.0,AUTO,range exact,69,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,False,True
-ZEISS CZ.2,15-30mm_T2.9_28mm,28.0,AUTO,range exact,69,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,False,True
-ZEISS CZ.2,15-30mm_T2.9_30mm,30.0,AUTO,range exact,69,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,False,True
-ZEISS CZ.2,28-80mm_T2.9_28mm,28.0,AUTO,range exact,70,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,False,True
-ZEISS CZ.2,28-80mm_T2.9_30mm,30.0,AUTO,range exact,70,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,False,True
-ZEISS CZ.2,28-80mm_T2.9_35mm,35.0,AUTO,range exact,70,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,False,True
-ZEISS CZ.2,28-80mm_T2.9_40mm,40.0,AUTO,range exact,70,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,False,True
-ZEISS CZ.2,28-80mm_T2.9_45mm,45.0,AUTO,range exact,70,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,False,True
-ZEISS CZ.2,28-80mm_T2.9_50mm,50.0,AUTO,range exact,70,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,False,True
-ZEISS CZ.2,28-80mm_T2.9_55mm,55.0,AUTO,range exact,70,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,False,True
-ZEISS CZ.2,28-80mm_T2.9_60mm,60.0,AUTO,range exact,70,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,False,True
-ZEISS CZ.2,28-80mm_T2.9_65mm,65.0,AUTO,range exact,70,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,False,True
-ZEISS CZ.2,28-80mm_T2.9_70mm,70.0,AUTO,range exact,70,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,False,True
-ZEISS CZ.2,28-80mm_T2.9_75mm,75.0,AUTO,range exact,70,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,False,True
-ZEISS CZ.2,28-80mm_T2.9_80mm,80.0,AUTO,range exact,70,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,False,True
-ZEISS CZ.2,70-200mm_T2.9 100mm,100.0,AUTO,range exact,71,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,False,True
-ZEISS CZ.2,70-200mm_T2.9 110mm,110.0,AUTO,range exact,71,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,False,True
-ZEISS CZ.2,70-200mm_T2.9 120mm,120.0,AUTO,range exact,71,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,False,True
-ZEISS CZ.2,70-200mm_T2.9 130mm,130.0,AUTO,range exact,71,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,False,True
-ZEISS CZ.2,70-200mm_T2.9 140mm,140.0,AUTO,range exact,71,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,False,True
-ZEISS CZ.2,70-200mm_T2.9 150mm,150.0,AUTO,range exact,71,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,False,True
-ZEISS CZ.2,70-200mm_T2.9 160mm,160.0,AUTO,range exact,71,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,False,True
-ZEISS CZ.2,70-200mm_T2.9 170mm,170.0,AUTO,range exact,71,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,False,True
-ZEISS CZ.2,70-200mm_T2.9 180mm,180.0,AUTO,range exact,71,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,False,True
-ZEISS CZ.2,70-200mm_T2.9 190mm,190.0,AUTO,range exact,71,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,False,True
-ZEISS CZ.2,70-200mm_T2.9 200mm,200.0,AUTO,range exact,71,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,False,True
-ZEISS CZ.2,70-200mm_T2.9_70mm,70.0,AUTO,range exact,71,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,False,True
-ZEISS CZ.2,70-200mm_T2.9_80mm,80.0,AUTO,range exact,71,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,False,True
-ZEISS CZ.2,70-200mm_T2.9_90mm,90.0,AUTO,range exact,71,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,False,True
-ZEISS Compact Prime CP.2, 100mm T2.1,100.0,AUTO,series exact,25,ZEISS,Compact Prime CP.2,False,True
-ZEISS Compact Prime CP.2, 135mm T2.1,135.0,AUTO,series exact,25,ZEISS,Compact Prime CP.2,False,True
-ZEISS Compact Prime CP.2,15mm_T2.9,15.0,AUTO,series exact,25,ZEISS,Compact Prime CP.2,False,True
-ZEISS Compact Prime CP.2,18mm_T3.6,18.0,AUTO,series exact,25,ZEISS,Compact Prime CP.2,False,True
-ZEISS Compact Prime CP.2,21mm_T2.9,21.0,AUTO,series exact,25,ZEISS,Compact Prime CP.2,False,True
-ZEISS Compact Prime CP.2,25mm_T2.1,25.0,AUTO,series exact,25,ZEISS,Compact Prime CP.2,False,True
-ZEISS Compact Prime CP.2,28mm T2.1,28.0,AUTO,series exact,25,ZEISS,Compact Prime CP.2,False,True
-ZEISS Compact Prime CP.2,35mm T1.5,35.0,AUTO,series exact,25,ZEISS,Compact Prime CP.2,False,True
-ZEISS Compact Prime CP.2,50mm T1.5,50.0,AUTO,series exact,25,ZEISS,Compact Prime CP.2,False,True
-ZEISS Compact Prime CP.2,85mm T1.5,85.0,AUTO,series exact,25,ZEISS,Compact Prime CP.2,False,True
-ZEISS SUPER SPEED(ファースト),18mm_T1.3,18.0,AUTO,Legacy first-generation empirical capture intentionally reused for MKII REAL TEST; provenance retained,122,ZEISS,Super Speed MKII,False,True
-ZEISS SUPER SPEED(ファースト),25mm_T1.3,25.0,AUTO,Legacy first-generation empirical capture intentionally reused for MKII REAL TEST; provenance retained,122,ZEISS,Super Speed MKII,False,True
-ZEISS SUPER SPEED(ファースト),35mm_T1.3,35.0,AUTO,Legacy first-generation empirical capture intentionally reused for MKII REAL TEST; provenance retained,122,ZEISS,Super Speed MKII,False,True
-ZEISS SUPER SPEED(ファースト),50mm_T1.3,50.0,AUTO,Legacy first-generation empirical capture intentionally reused for MKII REAL TEST; provenance retained,122,ZEISS,Super Speed MKII,False,True
-ZEISS SUPER SPEED(ファースト),65mm T1.3,65.0,AUTO,Legacy first-generation empirical capture intentionally reused for MKII REAL TEST; provenance retained,122,ZEISS,Super Speed MKII,False,True
-ZEISS SUPER SPEED(ファースト),85mm_T1.3,85.0,AUTO,Legacy first-generation empirical capture intentionally reused for MKII REAL TEST; provenance retained,122,ZEISS,Super Speed MKII,False,True
+﻿source_series,source_lens_dir,focal_mm,open,down,unclassified,csv,status,lensscope_maker,lensscope_name,note,legacy_typo_suspected
+ARRI:ZEISS Master Anamorphic, 100mm T1.9,100.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Anamorphic 2x,series+focal family exact,False
+ARRI:ZEISS Master Anamorphic, 135mm T1.9,135.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Anamorphic 2x,series+focal family exact,False
+ARRI:ZEISS Master Anamorphic, 180mm T2.8,180.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Anamorphic 2x,series+focal family exact,False
+ARRI:ZEISS Master Anamorphic,28mm_T1.9,28.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Anamorphic 2x,series+focal family exact,False
+ARRI:ZEISS Master Anamorphic,35mm_T1.9,35.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Anamorphic 2x,series+focal family exact,False
+ARRI:ZEISS Master Anamorphic,40mm_T1.9,40.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Anamorphic 2x,series+focal family exact,False
+ARRI:ZEISS Master Anamorphic,50mm_T1.9,50.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Anamorphic 2x,series+focal family exact,False
+ARRI:ZEISS Master Anamorphic,60mm_T1.9,60.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Anamorphic 2x,series+focal family exact,False
+ARRI:ZEISS Master Anamorphic,75mm_T1.9,75.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Anamorphic 2x,series+focal family exact,False
+ARRI:ZEISS Master Prime, 100mm T1.3,100.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Prime,series exact,False
+ARRI:ZEISS Master Prime, 135mm T1.3,135.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Prime,series exact,False
+ARRI:ZEISS Master Prime, 150mm T1.3,150.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Prime,series exact,False
+ARRI:ZEISS Master Prime,12mm_T1.3,12.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Prime,series exact,False
+ARRI:ZEISS Master Prime,14mm_T1.3,14.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Prime,series exact,False
+ARRI:ZEISS Master Prime,16mm_T1.3,16.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Prime,series exact,False
+ARRI:ZEISS Master Prime,18mm_T1.3,18.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Prime,series exact,False
+ARRI:ZEISS Master Prime,21mm_T1.3,21.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Prime,series exact,False
+ARRI:ZEISS Master Prime,25mm_T1.3,25.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Prime,series exact,False
+ARRI:ZEISS Master Prime,27mm_T1.3,27.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Prime,series exact,False
+ARRI:ZEISS Master Prime,32mm_T1.3,32.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Prime,series exact,False
+ARRI:ZEISS Master Prime,35mm_T1.3,35.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Prime,series exact,False
+ARRI:ZEISS Master Prime,40mm_T1.3,40.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Prime,series exact,False
+ARRI:ZEISS Master Prime,50mm_T1.3,50.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Prime,series exact,False
+ARRI:ZEISS Master Prime,65mm_T1.3,65.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Prime,series exact,False
+ARRI:ZEISS Master Prime,75mm_T1.3,75.0,True,True,False,True,AUTO,ARRI / ZEISS,Master Prime,series exact,False
+ARRI:ZEISS Ultra Prime, 100mm T1.9,100.0,True,True,False,True,AUTO,ARRI / ZEISS,Ultra Prime,series exact,False
+ARRI:ZEISS Ultra Prime, 135mm T1.9,135.0,True,True,False,True,AUTO,ARRI / ZEISS,Ultra Prime,series exact,False
+ARRI:ZEISS Ultra Prime, 180mm T1.9,180.0,True,True,False,True,AUTO,ARRI / ZEISS,Ultra Prime,series exact,False
+ARRI:ZEISS Ultra Prime,14mm_T1.9,14.0,True,True,False,True,AUTO,ARRI / ZEISS,Ultra Prime,series exact,False
+ARRI:ZEISS Ultra Prime,16mm_T1.9,16.0,True,True,False,True,AUTO,ARRI / ZEISS,Ultra Prime,series exact,False
+ARRI:ZEISS Ultra Prime,20mm_T1.9,20.0,True,True,False,True,AUTO,ARRI / ZEISS,Ultra Prime,series exact,False
+ARRI:ZEISS Ultra Prime,24mm_T1.9,24.0,True,True,False,True,AUTO,ARRI / ZEISS,Ultra Prime,series exact,False
+ARRI:ZEISS Ultra Prime,28mm_T1.9,28.0,True,True,False,True,AUTO,ARRI / ZEISS,Ultra Prime,series exact,False
+ARRI:ZEISS Ultra Prime,32mm_T1.9,32.0,True,True,False,True,AUTO,ARRI / ZEISS,Ultra Prime,series exact,False
+ARRI:ZEISS Ultra Prime,40mm_T1.9,40.0,True,True,False,True,AUTO,ARRI / ZEISS,Ultra Prime,series exact,False
+ARRI:ZEISS Ultra Prime,50mm_T1.9,50.0,True,True,False,True,AUTO,ARRI / ZEISS,Ultra Prime,series exact,False
+ARRI:ZEISS Ultra Prime,65mm_T1.9,65.0,True,True,False,True,AUTO,ARRI / ZEISS,Ultra Prime,series exact,False
+ARRI:ZEISS Ultra Prime,85mm_T1.9,85.0,True,True,False,True,AUTO,ARRI / ZEISS,Ultra Prime,series exact,False
+Alura,18-80mm_T2.6_18mm,18.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Studio Zoom 18-80 T2.6,range exact,False
+Alura,18-80mm_T2.6_22mm,22.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Studio Zoom 18-80 T2.6,range exact,False
+Alura,18-80mm_T2.6_25mm,25.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Studio Zoom 18-80 T2.6,range exact,False
+Alura,18-80mm_T2.6_30mm,30.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Studio Zoom 18-80 T2.6,range exact,False
+Alura,18-80mm_T2.6_35mm,35.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Studio Zoom 18-80 T2.6,range exact,False
+Alura,18-80mm_T2.6_40mm,40.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Studio Zoom 18-80 T2.6,range exact,False
+Alura,18-80mm_T2.6_50mm,50.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Studio Zoom 18-80 T2.6,range exact,False
+Alura,18-80mm_T2.6_60mm,60.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Studio Zoom 18-80 T2.6,range exact,False
+Alura,18-80mm_T2.6_70mm,70.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Studio Zoom 18-80 T2.6,range exact,False
+Alura,18-80mm_T2.6_80mm,80.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Studio Zoom 18-80 T2.6,range exact,False
+Alura,45-250mm_T2.6 100mm,100.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,range exact,False
+Alura,45-250mm_T2.6 120mm,120.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,range exact,False
+Alura,45-250mm_T2.6 140mm,140.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,range exact,False
+Alura,45-250mm_T2.6 160mm,160.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,range exact,False
+Alura,45-250mm_T2.6 180mm,180.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,range exact,False
+Alura,45-250mm_T2.6 200mm,200.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,range exact,False
+Alura,45-250mm_T2.6 250mm,250.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,range exact,False
+Alura,45-250mm_T2.6_45mm,45.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,range exact,False
+Alura,45-250mm_T2.6_50mm,50.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,range exact,False
+Alura,45-250mm_T2.6_60mm,60.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,range exact,False
+Alura,45-250mm_T2.6_70mm,70.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,range exact,False
+Alura,45-250mm_T2.6_80mm,80.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,range exact,False
+Alura,45-250mm_T2.6_90mm,90.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Studio Zoom 45-250 T2.6,range exact,False
+Alura LIGHT WEIGHT,15.5-45mm_T2.8_15.5mm,15.5,True,True,False,True,AUTO,ARRI / FUJINON,Alura Lightweight Zoom 15.5-45 T2.8,range exact,False
+Alura LIGHT WEIGHT,15.5-45mm_T2.8_18mm,18.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Lightweight Zoom 15.5-45 T2.8,range exact,False
+Alura LIGHT WEIGHT,15.5-45mm_T2.8_20mm,20.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Lightweight Zoom 15.5-45 T2.8,range exact,False
+Alura LIGHT WEIGHT,15.5-45mm_T2.8_22mm,22.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Lightweight Zoom 15.5-45 T2.8,range exact,False
+Alura LIGHT WEIGHT,15.5-45mm_T2.8_25mm,25.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Lightweight Zoom 15.5-45 T2.8,range exact,False
+Alura LIGHT WEIGHT,15.5-45mm_T2.8_28mm,28.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Lightweight Zoom 15.5-45 T2.8,range exact,False
+Alura LIGHT WEIGHT,15.5-45mm_T2.8_30mm,30.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Lightweight Zoom 15.5-45 T2.8,range exact,False
+Alura LIGHT WEIGHT,15.5-45mm_T2.8_32mm,32.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Lightweight Zoom 15.5-45 T2.8,range exact,False
+Alura LIGHT WEIGHT,15.5-45mm_T2.8_35mm,35.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Lightweight Zoom 15.5-45 T2.8,range exact,False
+Alura LIGHT WEIGHT,15.5-45mm_T2.8_40mm,40.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Lightweight Zoom 15.5-45 T2.8,range exact,False
+Alura LIGHT WEIGHT,15.5-45mm_T2.8_45mm,45.0,True,True,False,True,AUTO,ARRI / FUJINON,Alura Lightweight Zoom 15.5-45 T2.8,range exact,False
+Angenieux Optimo,17-80mm_T2.2_17mm,17.0,True,True,False,True,AUTO,Angénieux,Optimo 17-80 T2.2,range exact,False
+Angenieux Optimo,17-80mm_T2.2_20mm,20.0,True,True,False,True,AUTO,Angénieux,Optimo 17-80 T2.2,range exact,False
+Angenieux Optimo,17-80mm_T2.2_22mm,22.0,True,True,False,True,AUTO,Angénieux,Optimo 17-80 T2.2,range exact,False
+Angenieux Optimo,17-80mm_T2.2_25mm,25.0,True,True,False,True,AUTO,Angénieux,Optimo 17-80 T2.2,range exact,False
+Angenieux Optimo,17-80mm_T2.2_30mm,30.0,True,True,False,True,AUTO,Angénieux,Optimo 17-80 T2.2,range exact,False
+Angenieux Optimo,17-80mm_T2.2_35mm,35.0,True,True,False,True,AUTO,Angénieux,Optimo 17-80 T2.2,range exact,False
+Angenieux Optimo,17-80mm_T2.2_40mm,40.0,True,True,False,True,AUTO,Angénieux,Optimo 17-80 T2.2,range exact,False
+Angenieux Optimo,17-80mm_T2.2_50mm,50.0,True,True,False,True,AUTO,Angénieux,Optimo 17-80 T2.2,range exact,False
+Angenieux Optimo,17-80mm_T2.2_60mm,60.0,True,True,False,True,AUTO,Angénieux,Optimo 17-80 T2.2,range exact,False
+Angenieux Optimo,17-80mm_T2.2_80mm,80.0,True,True,False,True,AUTO,Angénieux,Optimo 17-80 T2.2,range exact,False
+Angenieux Optimo,24-290mm_T2.8 105mm,105.0,True,True,False,True,AUTO,Angénieux,Optimo 24-290 T2.8,range exact,False
+Angenieux Optimo,24-290mm_T2.8 120mm,120.0,True,True,False,True,AUTO,Angénieux,Optimo 24-290 T2.8,range exact,False
+Angenieux Optimo,24-290mm_T2.8 155mm,155.0,True,True,False,True,AUTO,Angénieux,Optimo 24-290 T2.8,range exact,False
+Angenieux Optimo,24-290mm_T2.8 215mm,215.0,True,True,False,True,AUTO,Angénieux,Optimo 24-290 T2.8,range exact,False
+Angenieux Optimo,24-290mm_T2.8 290mm,290.0,True,True,False,True,AUTO,Angénieux,Optimo 24-290 T2.8,range exact,False
+Angenieux Optimo,24-290mm_T2.8_24mm,24.0,True,True,False,True,AUTO,Angénieux,Optimo 24-290 T2.8,range exact,False
+Angenieux Optimo,24-290mm_T2.8_30mm,30.0,True,True,False,True,AUTO,Angénieux,Optimo 24-290 T2.8,range exact,False
+Angenieux Optimo,24-290mm_T2.8_40mm,40.0,True,True,False,True,AUTO,Angénieux,Optimo 24-290 T2.8,range exact,False
+Angenieux Optimo,24-290mm_T2.8_55mm,55.0,True,True,False,True,AUTO,Angénieux,Optimo 24-290 T2.8,range exact,False
+Angenieux Optimo,24-290mm_T2.8_75mm,75.0,True,True,False,True,AUTO,Angénieux,Optimo 24-290 T2.8,range exact,False
+Angenieux Optimo,45-120mm_T2.8 100mm,100.0,True,True,False,True,AUTO,Angénieux,Optimo 45-120 T2.8,range exact,False
+Angenieux Optimo,45-120mm_T2.8 110mm,110.0,True,True,False,True,AUTO,Angénieux,Optimo 45-120 T2.8,range exact,False
+Angenieux Optimo,45-120mm_T2.8 120mm,120.0,True,True,False,True,AUTO,Angénieux,Optimo 45-120 T2.8,range exact,False
+Angenieux Optimo,45-120mm_T2.8_45mm,45.0,True,True,False,True,AUTO,Angénieux,Optimo 45-120 T2.8,range exact,False
+Angenieux Optimo,45-120mm_T2.8_50mm,50.0,True,True,False,True,AUTO,Angénieux,Optimo 45-120 T2.8,range exact,False
+Angenieux Optimo,45-120mm_T2.8_55mm,55.0,True,True,False,True,AUTO,Angénieux,Optimo 45-120 T2.8,range exact,False
+Angenieux Optimo,45-120mm_T2.8_60mm,60.0,True,True,False,True,AUTO,Angénieux,Optimo 45-120 T2.8,range exact,False
+Angenieux Optimo,45-120mm_T2.8_65mm,65.0,True,True,False,True,AUTO,Angénieux,Optimo 45-120 T2.8,range exact,False
+Angenieux Optimo,45-120mm_T2.8_70mm,70.0,True,True,False,True,AUTO,Angénieux,Optimo 45-120 T2.8,range exact,False
+Angenieux Optimo,45-120mm_T2.8_75mm,75.0,True,True,False,True,AUTO,Angénieux,Optimo 45-120 T2.8,range exact,False
+Angenieux Optimo,45-120mm_T2.8_80mm,80.0,True,True,False,True,AUTO,Angénieux,Optimo 45-120 T2.8,range exact,False
+Angenieux Optimo,45-120mm_T2.8_85mm,85.0,True,True,False,True,AUTO,Angénieux,Optimo 45-120 T2.8,range exact,False
+Angenieux Optimo,45-120mm_T2.8_90mm,90.0,True,True,False,True,AUTO,Angénieux,Optimo 45-120 T2.8,range exact,False
+Angenieux Optimo Anamorphic,44-440mm_T4.5 100m,440.0,True,True,False,True,AUTO,Angénieux,Optimo Anamorphic 44-440 A2S,range exact,True
+Angenieux Optimo Anamorphic,44-440mm_T4.5 120mm,120.0,True,True,False,True,AUTO,Angénieux,Optimo Anamorphic 44-440 A2S,range exact,False
+Angenieux Optimo Anamorphic,44-440mm_T4.5 150mm,150.0,True,True,False,True,AUTO,Angénieux,Optimo Anamorphic 44-440 A2S,range exact,False
+Angenieux Optimo Anamorphic,44-440mm_T4.5 200mm,200.0,True,True,False,True,AUTO,Angénieux,Optimo Anamorphic 44-440 A2S,range exact,False
+Angenieux Optimo Anamorphic,44-440mm_T4.5 250mm,250.0,True,True,False,True,AUTO,Angénieux,Optimo Anamorphic 44-440 A2S,range exact,False
+Angenieux Optimo Anamorphic,44-440mm_T4.5 350mm,350.0,True,True,False,True,AUTO,Angénieux,Optimo Anamorphic 44-440 A2S,range exact,False
+Angenieux Optimo Anamorphic,44-440mm_T4.5 440mm,440.0,True,True,False,True,AUTO,Angénieux,Optimo Anamorphic 44-440 A2S,range exact,False
+Angenieux Optimo Anamorphic,44-440mm_T4.5_44mm,44.0,True,True,False,True,AUTO,Angénieux,Optimo Anamorphic 44-440 A2S,range exact,False
+Angenieux Optimo Anamorphic,44-440mm_T4.5_50mm,50.0,True,True,False,True,AUTO,Angénieux,Optimo Anamorphic 44-440 A2S,range exact,False
+Angenieux Optimo Anamorphic,44-440mm_T4.5_60mm,60.0,True,True,False,True,AUTO,Angénieux,Optimo Anamorphic 44-440 A2S,range exact,False
+Angenieux Optimo Anamorphic,44-440mm_T4.5_75mm,75.0,True,True,False,True,AUTO,Angénieux,Optimo Anamorphic 44-440 A2S,range exact,False
+Angenieux Optimo Anamorphic,56-152mm_T4.5 100mm,100.0,True,True,False,True,AUTO,Angénieux,Optimo Anamorphic 56-152 A2S,range exact,False
+Angenieux Optimo Anamorphic,56-152mm_T4.5 110mm,110.0,True,True,False,True,AUTO,Angénieux,Optimo Anamorphic 56-152 A2S,range exact,False
+Angenieux Optimo Anamorphic,56-152mm_T4.5 120mm,120.0,True,True,False,True,AUTO,Angénieux,Optimo Anamorphic 56-152 A2S,range exact,False
+Angenieux Optimo Anamorphic,56-152mm_T4.5 130mm,130.0,True,True,False,True,AUTO,Angénieux,Optimo Anamorphic 56-152 A2S,range exact,False
+Angenieux Optimo Anamorphic,56-152mm_T4.5 140mm,140.0,True,True,False,True,AUTO,Angénieux,Optimo Anamorphic 56-152 A2S,range exact,False
+Angenieux Optimo Anamorphic,56-152mm_T4.5 152mm,152.0,True,True,False,True,AUTO,Angénieux,Optimo Anamorphic 56-152 A2S,range exact,False
+Angenieux Optimo Anamorphic,56-152mm_T4.5_56mm,56.0,True,True,False,True,AUTO,Angénieux,Optimo Anamorphic 56-152 A2S,range exact,False
+Angenieux Optimo Anamorphic,56-152mm_T4.5_60mm,60.0,True,True,False,True,AUTO,Angénieux,Optimo Anamorphic 56-152 A2S,range exact,False
+Angenieux Optimo Anamorphic,56-152mm_T4.5_64mm,64.0,True,True,False,True,AUTO,Angénieux,Optimo Anamorphic 56-152 A2S,range exact,False
+Angenieux Optimo Anamorphic,56-152mm_T4.5_70mm,70.0,True,True,False,True,AUTO,Angénieux,Optimo Anamorphic 56-152 A2S,range exact,False
+Angenieux Optimo Anamorphic,56-152mm_T4.5_80mm,80.0,True,True,False,True,AUTO,Angénieux,Optimo Anamorphic 56-152 A2S,range exact,False
+Angenieux Optimo Anamorphic,56-152mm_T4.5_90mm,90.0,True,True,False,True,AUTO,Angénieux,Optimo Anamorphic 56-152 A2S,range exact,False
+Angenieux Optimo Style,16-40mm_T2.8_16mm,16.0,True,True,False,True,AUTO,Angénieux,Optimo Style 16-40 T2.8,range exact,False
+Angenieux Optimo Style,16-40mm_T2.8_17mm,17.0,True,True,False,True,AUTO,Angénieux,Optimo Style 16-40 T2.8,range exact,False
+Angenieux Optimo Style,16-40mm_T2.8_18mm,18.0,True,True,False,True,AUTO,Angénieux,Optimo Style 16-40 T2.8,range exact,False
+Angenieux Optimo Style,16-40mm_T2.8_20mm,20.0,True,True,False,True,AUTO,Angénieux,Optimo Style 16-40 T2.8,range exact,False
+Angenieux Optimo Style,16-40mm_T2.8_21m,40.0,True,True,False,True,AUTO,Angénieux,Optimo Style 16-40 T2.8,range exact,True
+Angenieux Optimo Style,16-40mm_T2.8_23mm,23.0,True,True,False,True,AUTO,Angénieux,Optimo Style 16-40 T2.8,range exact,False
+Angenieux Optimo Style,16-40mm_T2.8_25mm,25.0,True,True,False,True,AUTO,Angénieux,Optimo Style 16-40 T2.8,range exact,False
+Angenieux Optimo Style,16-40mm_T2.8_27mm,27.0,True,True,False,True,AUTO,Angénieux,Optimo Style 16-40 T2.8,range exact,False
+Angenieux Optimo Style,16-40mm_T2.8_30mm,30.0,True,True,False,True,AUTO,Angénieux,Optimo Style 16-40 T2.8,range exact,False
+Angenieux Optimo Style,16-40mm_T2.8_33mm,33.0,True,True,False,True,AUTO,Angénieux,Optimo Style 16-40 T2.8,range exact,False
+Angenieux Optimo Style,16-40mm_T2.8_40mm,40.0,True,True,False,True,AUTO,Angénieux,Optimo Style 16-40 T2.8,range exact,False
+Angenieux Optimo Style,25-250mm_T3.5 100mm,100.0,True,True,False,True,AUTO,Angénieux,Optimo Style 25-250 T3.5,range exact,False
+Angenieux Optimo Style,25-250mm_T3.5 125mm,125.0,True,True,False,True,AUTO,Angénieux,Optimo Style 25-250 T3.5,range exact,False
+Angenieux Optimo Style,25-250mm_T3.5 150mm,150.0,True,True,False,True,AUTO,Angénieux,Optimo Style 25-250 T3.5,range exact,False
+Angenieux Optimo Style,25-250mm_T3.5 200mm,200.0,True,True,False,True,AUTO,Angénieux,Optimo Style 25-250 T3.5,range exact,False
+Angenieux Optimo Style,25-250mm_T3.5 250mm,250.0,True,True,False,True,AUTO,Angénieux,Optimo Style 25-250 T3.5,range exact,False
+Angenieux Optimo Style,25-250mm_T3.5_25mm,25.0,True,True,False,True,AUTO,Angénieux,Optimo Style 25-250 T3.5,range exact,False
+Angenieux Optimo Style,25-250mm_T3.5_30mm,30.0,True,True,False,True,AUTO,Angénieux,Optimo Style 25-250 T3.5,range exact,False
+Angenieux Optimo Style,25-250mm_T3.5_35mm,35.0,True,True,False,True,AUTO,Angénieux,Optimo Style 25-250 T3.5,range exact,False
+Angenieux Optimo Style,25-250mm_T3.5_40mm,40.0,True,True,False,True,AUTO,Angénieux,Optimo Style 25-250 T3.5,range exact,False
+Angenieux Optimo Style,25-250mm_T3.5_50mm,50.0,True,True,False,True,AUTO,Angénieux,Optimo Style 25-250 T3.5,range exact,False
+Angenieux Optimo Style,25-250mm_T3.5_60mm,60.0,True,True,False,True,AUTO,Angénieux,Optimo Style 25-250 T3.5,range exact,False
+Angenieux Optimo Style,25-250mm_T3.5_75mm,75.0,True,True,False,True,AUTO,Angénieux,Optimo Style 25-250 T3.5,range exact,False
+Angenieux Optimo Style,25-250mm_T3.5_85mm,85.0,True,True,False,True,AUTO,Angénieux,Optimo Style 25-250 T3.5,range exact,False
+Angenieux Optimo Style,30-76mm_T2.8_30mm,30.0,True,True,False,True,AUTO,Angénieux,Optimo Style 30-76 T2.8,range exact,False
+Angenieux Optimo Style,30-76mm_T2.8_32mm,32.0,True,True,False,True,AUTO,Angénieux,Optimo Style 30-76 T2.8,range exact,False
+Angenieux Optimo Style,30-76mm_T2.8_35mm,35.0,True,True,False,True,AUTO,Angénieux,Optimo Style 30-76 T2.8,range exact,False
+Angenieux Optimo Style,30-76mm_T2.8_40mm,40.0,True,True,False,True,AUTO,Angénieux,Optimo Style 30-76 T2.8,range exact,False
+Angenieux Optimo Style,30-76mm_T2.8_45mm,45.0,True,True,False,True,AUTO,Angénieux,Optimo Style 30-76 T2.8,range exact,False
+Angenieux Optimo Style,30-76mm_T2.8_50mm,50.0,True,True,False,True,AUTO,Angénieux,Optimo Style 30-76 T2.8,range exact,False
+Angenieux Optimo Style,30-76mm_T2.8_55mm,55.0,True,True,False,True,AUTO,Angénieux,Optimo Style 30-76 T2.8,range exact,False
+Angenieux Optimo Style,30-76mm_T2.8_60mm,60.0,True,True,False,True,AUTO,Angénieux,Optimo Style 30-76 T2.8,range exact,False
+Angenieux Optimo Style,30-76mm_T2.8_65mm,65.0,True,True,False,True,AUTO,Angénieux,Optimo Style 30-76 T2.8,range exact,False
+Angenieux Optimo Style,30-76mm_T2.8_70mm,70.0,True,True,False,True,AUTO,Angénieux,Optimo Style 30-76 T2.8,range exact,False
+Angenieux Optimo Style,30-76mm_T2.8_76mm,76.0,True,True,False,True,AUTO,Angénieux,Optimo Style 30-76 T2.8,range exact,False
+Angenieux Optimo Style,48-130mm_T3 110mm,110.0,True,True,False,True,AUTO,Angénieux,Optimo Style 48-130 T3,range exact,False
+Angenieux Optimo Style,48-130mm_T3 120mm,120.0,True,True,False,True,AUTO,Angénieux,Optimo Style 48-130 T3,range exact,False
+Angenieux Optimo Style,48-130mm_T3 130mm,130.0,True,True,False,True,AUTO,Angénieux,Optimo Style 48-130 T3,range exact,False
+Angenieux Optimo Style,48-130mm_T3_48mm,48.0,True,True,False,True,AUTO,Angénieux,Optimo Style 48-130 T3,range exact,False
+Angenieux Optimo Style,48-130mm_T3_55mm,55.0,True,True,False,True,AUTO,Angénieux,Optimo Style 48-130 T3,range exact,False
+Angenieux Optimo Style,48-130mm_T3_60mm,60.0,True,True,False,True,AUTO,Angénieux,Optimo Style 48-130 T3,range exact,False
+Angenieux Optimo Style,48-130mm_T3_65mm,65.0,True,True,False,True,AUTO,Angénieux,Optimo Style 48-130 T3,range exact,False
+Angenieux Optimo Style,48-130mm_T3_70mm,70.0,True,True,False,True,AUTO,Angénieux,Optimo Style 48-130 T3,range exact,False
+Angenieux Optimo Style,48-130mm_T3_75mm,75.0,True,True,False,True,AUTO,Angénieux,Optimo Style 48-130 T3,range exact,False
+Angenieux Optimo Style,48-130mm_T3_80mm,80.0,True,True,False,True,AUTO,Angénieux,Optimo Style 48-130 T3,range exact,False
+Angenieux Optimo Style,48-130mm_T3_85mm,85.0,True,True,False,True,AUTO,Angénieux,Optimo Style 48-130 T3,range exact,False
+Angenieux Optimo Style,48-130mm_T3_90mm,90.0,True,True,False,True,AUTO,Angénieux,Optimo Style 48-130 T3,range exact,False
+Angenieux Optimo Style,48-130mm_T3_95mm,95.0,True,True,False,True,AUTO,Angénieux,Optimo Style 48-130 T3,range exact,False
+Angenieux Optimo Ultra _U35,26-320mm_T3.1 100mm,100.0,True,True,False,True,AUTO,Angénieux,Optimo Ultra 12x U35,U35 26-320 range matches LensScope U35 family,False
+Angenieux Optimo Ultra _U35,26-320mm_T3.1 120mm,120.0,True,True,False,True,AUTO,Angénieux,Optimo Ultra 12x U35,U35 26-320 range matches LensScope U35 family,False
+Angenieux Optimo Ultra _U35,26-320mm_T3.1 150mm,150.0,True,True,False,True,AUTO,Angénieux,Optimo Ultra 12x U35,U35 26-320 range matches LensScope U35 family,False
+Angenieux Optimo Ultra _U35,26-320mm_T3.1 200mm,200.0,True,True,False,True,AUTO,Angénieux,Optimo Ultra 12x U35,U35 26-320 range matches LensScope U35 family,False
+Angenieux Optimo Ultra _U35,26-320mm_T3.1 250mm,250.0,True,True,False,True,AUTO,Angénieux,Optimo Ultra 12x U35,U35 26-320 range matches LensScope U35 family,False
+Angenieux Optimo Ultra _U35,26-320mm_T3.1 320mm,320.0,True,True,False,True,AUTO,Angénieux,Optimo Ultra 12x U35,U35 26-320 range matches LensScope U35 family,False
+Angenieux Optimo Ultra _U35,26-320mm_T3.1_26mm,26.0,True,True,False,True,AUTO,Angénieux,Optimo Ultra 12x U35,U35 26-320 range matches LensScope U35 family,False
+Angenieux Optimo Ultra _U35,26-320mm_T3.1_30mm,30.0,True,True,False,True,AUTO,Angénieux,Optimo Ultra 12x U35,U35 26-320 range matches LensScope U35 family,False
+Angenieux Optimo Ultra _U35,26-320mm_T3.1_35mm,35.0,True,True,False,True,AUTO,Angénieux,Optimo Ultra 12x U35,U35 26-320 range matches LensScope U35 family,False
+Angenieux Optimo Ultra _U35,26-320mm_T3.1_40mm,40.0,True,True,False,True,AUTO,Angénieux,Optimo Ultra 12x U35,U35 26-320 range matches LensScope U35 family,False
+Angenieux Optimo Ultra _U35,26-320mm_T3.1_50mm,50.0,True,True,False,True,AUTO,Angénieux,Optimo Ultra 12x U35,U35 26-320 range matches LensScope U35 family,False
+Angenieux Optimo Ultra _U35,26-320mm_T3.1_60mm,60.0,True,True,False,True,AUTO,Angénieux,Optimo Ultra 12x U35,U35 26-320 range matches LensScope U35 family,False
+Angenieux Optimo Ultra _U35,26-320mm_T3.1_75mm,75.0,True,True,False,True,AUTO,Angénieux,Optimo Ultra 12x U35,U35 26-320 range matches LensScope U35 family,False
+Angenieux Type EZ-1_S35,30-90mm_T2.0_30mm,30.0,True,True,False,True,AUTO,Angénieux,Type EZ-1 S35 30-90 T2,series/range exact,False
+Angenieux Type EZ-1_S35,30-90mm_T2.0_35mm,35.0,True,True,False,True,AUTO,Angénieux,Type EZ-1 S35 30-90 T2,series/range exact,False
+Angenieux Type EZ-1_S35,30-90mm_T2.0_40mm,40.0,True,True,False,True,AUTO,Angénieux,Type EZ-1 S35 30-90 T2,series/range exact,False
+Angenieux Type EZ-1_S35,30-90mm_T2.0_50mm,50.0,True,True,False,True,AUTO,Angénieux,Type EZ-1 S35 30-90 T2,series/range exact,False
+Angenieux Type EZ-1_S35,30-90mm_T2.0_65mm,65.0,True,True,False,True,AUTO,Angénieux,Type EZ-1 S35 30-90 T2,series/range exact,False
+Angenieux Type EZ-1_S35,30-90mm_T2.0_75mm,75.0,True,True,False,True,AUTO,Angénieux,Type EZ-1 S35 30-90 T2,series/range exact,False
+Angenieux Type EZ-1_S35,30-90mm_T2.0_90mm,90.0,True,True,False,True,AUTO,Angénieux,Type EZ-1 S35 30-90 T2,series/range exact,False
+Angenieux Type EZ-2_S35,15-40mm_T2.0_15mm,15.0,True,True,False,True,AUTO,Angénieux,Type EZ-2 S35 15-40 T2,series/range exact,False
+Angenieux Type EZ-2_S35,15-40mm_T2.0_17mm,17.0,True,True,False,True,AUTO,Angénieux,Type EZ-2 S35 15-40 T2,series/range exact,False
+Angenieux Type EZ-2_S35,15-40mm_T2.0_20mm,20.0,True,True,False,True,AUTO,Angénieux,Type EZ-2 S35 15-40 T2,series/range exact,False
+Angenieux Type EZ-2_S35,15-40mm_T2.0_25mm,25.0,True,True,False,True,AUTO,Angénieux,Type EZ-2 S35 15-40 T2,series/range exact,False
+Angenieux Type EZ-2_S35,15-40mm_T2.0_30mm,30.0,True,True,False,True,AUTO,Angénieux,Type EZ-2 S35 15-40 T2,series/range exact,False
+Angenieux Type EZ-2_S35,15-40mm_T2.0_35mm,35.0,True,True,False,True,AUTO,Angénieux,Type EZ-2 S35 15-40 T2,series/range exact,False
+Angenieux Type EZ-2_S35,15-40mm_T2.0_40mm,40.0,True,True,False,True,AUTO,Angénieux,Type EZ-2 S35 15-40 T2,series/range exact,False
+Canon CINE-SERVO,CN10×25_T2.95 120mm,120.0,True,True,False,True,AUTO,Canon,CINE-SERVO CN10x25 25-250 T2.95-3.95,model/range exact,False
+Canon CINE-SERVO,CN10×25_T2.95_25mm,25.0,True,True,False,True,AUTO,Canon,CINE-SERVO CN10x25 25-250 T2.95-3.95,model/range exact,False
+Canon CINE-SERVO,CN10×25_T2.95_35mm,35.0,True,True,False,True,AUTO,Canon,CINE-SERVO CN10x25 25-250 T2.95-3.95,model/range exact,False
+Canon CINE-SERVO,CN10×25_T2.95_50mm,50.0,True,True,False,True,AUTO,Canon,CINE-SERVO CN10x25 25-250 T2.95-3.95,model/range exact,False
+Canon CINE-SERVO,CN10×25_T2.95_85mm,85.0,True,True,False,True,AUTO,Canon,CINE-SERVO CN10x25 25-250 T2.95-3.95,model/range exact,False
+Canon CINE-SERVO,CN10×25_T3.95 250mm,250.0,True,True,False,True,AUTO,Canon,CINE-SERVO CN10x25 25-250 T2.95-3.95,model/range exact,False
+Canon CINE-SERVO,CN20×50_T5 100mm,100.0,True,True,False,True,AUTO,Canon,CINE-SERVO CN20x50 50-1000 T5.0-8.9,model/range exact,False
+Canon CINE-SERVO,CN20×50_T5 200mm,200.0,True,True,False,True,AUTO,Canon,CINE-SERVO CN20x50 50-1000 T5.0-8.9,model/range exact,False
+Canon CINE-SERVO,CN20×50_T5 500mm,500.0,True,True,False,True,AUTO,Canon,CINE-SERVO CN20x50 50-1000 T5.0-8.9,model/range exact,False
+Canon CINE-SERVO,CN20×50_T5_50mm,50.0,True,True,False,True,AUTO,Canon,CINE-SERVO CN20x50 50-1000 T5.0-8.9,model/range exact,False
+Canon CINE-SERVO,CN20×50_T5_75mm,75.0,True,True,False,True,AUTO,Canon,CINE-SERVO CN20x50 50-1000 T5.0-8.9,model/range exact,False
+Canon CINE-SERVO,CN20×50_T8 1000mm,1000.0,True,True,False,True,AUTO,Canon,CINE-SERVO CN20x50 50-1000 T5.0-8.9,model/range exact,False
+Canon CINE-SERVO,CN7×17_T2.95_17mm,17.0,True,True,False,True,AUTO,Canon,CINE-SERVO CN7x17 17-120 T2.95-3.9,model/range exact,False
+Canon CINE-SERVO,CN7×17_T2.95_25mm,25.0,True,True,False,True,AUTO,Canon,CINE-SERVO CN7x17 17-120 T2.95-3.9,model/range exact,False
+Canon CINE-SERVO,CN7×17_T2.95_35mm,35.0,True,True,False,True,AUTO,Canon,CINE-SERVO CN7x17 17-120 T2.95-3.9,model/range exact,False
+Canon CINE-SERVO,CN7×17_T2.95_50mm,50.0,True,True,False,True,AUTO,Canon,CINE-SERVO CN7x17 17-120 T2.95-3.9,model/range exact,False
+Canon CINE-SERVO,CN7×17_T2.95_90mm,90.0,True,True,False,True,AUTO,Canon,CINE-SERVO CN7x17 17-120 T2.95-3.9,model/range exact,False
+Canon CINE-SERVO,CN7×17_T3.9 120mm,120.0,True,True,False,True,AUTO,Canon,CINE-SERVO CN7x17 17-120 T2.95-3.9,model/range exact,False
+Canon CN-E,14.5-60_T2.6_14.5mm,14.5,True,True,False,True,AUTO,Canon,CN-E 14.5-60 T2.6,range exact,False
+Canon CN-E,14.5-60_T2.6_16mm,16.0,True,True,False,True,AUTO,Canon,CN-E 14.5-60 T2.6,range exact,False
+Canon CN-E,14.5-60_T2.6_18mm,18.0,True,True,False,True,AUTO,Canon,CN-E 14.5-60 T2.6,range exact,False
+Canon CN-E,14.5-60_T2.6_20mm,20.0,True,True,False,True,AUTO,Canon,CN-E 14.5-60 T2.6,range exact,False
+Canon CN-E,14.5-60_T2.6_22mm,22.0,True,True,False,True,AUTO,Canon,CN-E 14.5-60 T2.6,range exact,False
+Canon CN-E,14.5-60_T2.6_25mm,25.0,True,True,False,True,AUTO,Canon,CN-E 14.5-60 T2.6,range exact,False
+Canon CN-E,14.5-60_T2.6_28mm,28.0,True,True,False,True,AUTO,Canon,CN-E 14.5-60 T2.6,range exact,False
+Canon CN-E,14.5-60_T2.6_30mm,30.0,True,True,False,True,AUTO,Canon,CN-E 14.5-60 T2.6,range exact,False
+Canon CN-E,14.5-60_T2.6_32mm,32.0,True,True,False,True,AUTO,Canon,CN-E 14.5-60 T2.6,range exact,False
+Canon CN-E,14.5-60_T2.6_35mm,35.0,True,True,False,True,AUTO,Canon,CN-E 14.5-60 T2.6,range exact,False
+Canon CN-E,14.5-60_T2.6_40mm,40.0,True,True,False,True,AUTO,Canon,CN-E 14.5-60 T2.6,range exact,False
+Canon CN-E,14.5-60_T2.6_45mm,45.0,True,True,False,True,AUTO,Canon,CN-E 14.5-60 T2.6,range exact,False
+Canon CN-E,14.5-60_T2.6_50mm,50.0,True,True,False,True,AUTO,Canon,CN-E 14.5-60 T2.6,range exact,False
+Canon CN-E,14.5-60_T2.6_55mm,55.0,True,True,False,True,AUTO,Canon,CN-E 14.5-60 T2.6,range exact,False
+Canon CN-E,14.5-60_T2.6_60mm,60.0,True,True,False,True,AUTO,Canon,CN-E 14.5-60 T2.6,range exact,False
+Canon CN-E,15.5-47_T2.8_15.5mm,15.5,True,True,False,True,AUTO,Canon,CN-E 15.5-47 T2.8,range exact,False
+Canon CN-E,15.5-47_T2.8_17mm,17.0,True,True,False,True,AUTO,Canon,CN-E 15.5-47 T2.8,range exact,False
+Canon CN-E,15.5-47_T2.8_18mm,18.0,True,True,False,True,AUTO,Canon,CN-E 15.5-47 T2.8,range exact,False
+Canon CN-E,15.5-47_T2.8_19mm,19.0,True,True,False,True,AUTO,Canon,CN-E 15.5-47 T2.8,range exact,False
+Canon CN-E,15.5-47_T2.8_20mm,20.0,True,True,False,True,AUTO,Canon,CN-E 15.5-47 T2.8,range exact,False
+Canon CN-E,15.5-47_T2.8_22mm,22.0,True,True,False,True,AUTO,Canon,CN-E 15.5-47 T2.8,range exact,False
+Canon CN-E,15.5-47_T2.8_24mm,24.0,True,True,False,True,AUTO,Canon,CN-E 15.5-47 T2.8,range exact,False
+Canon CN-E,15.5-47_T2.8_26mm,26.0,True,True,False,True,AUTO,Canon,CN-E 15.5-47 T2.8,range exact,False
+Canon CN-E,15.5-47_T2.8_28mm,28.0,True,True,False,True,AUTO,Canon,CN-E 15.5-47 T2.8,range exact,False
+Canon CN-E,15.5-47_T2.8_30mm,30.0,True,True,False,True,AUTO,Canon,CN-E 15.5-47 T2.8,range exact,False
+Canon CN-E,15.5-47_T2.8_32mm,32.0,True,True,False,True,AUTO,Canon,CN-E 15.5-47 T2.8,range exact,False
+Canon CN-E,15.5-47_T2.8_35mm,35.0,True,True,False,True,AUTO,Canon,CN-E 15.5-47 T2.8,range exact,False
+Canon CN-E,15.5-47_T2.8_40mm,40.0,True,True,False,True,AUTO,Canon,CN-E 15.5-47 T2.8,range exact,False
+Canon CN-E,15.5-47_T2.8_47mm,47.0,True,True,False,True,AUTO,Canon,CN-E 15.5-47 T2.8,range exact,False
+Canon CN-E,30-105_T2.8 105mm,105.0,True,True,False,True,AUTO,Canon,CN-E 30-105 T2.8,range exact,False
+Canon CN-E,30-105_T2.8_30mm,30.0,True,True,False,True,AUTO,Canon,CN-E 30-105 T2.8,range exact,False
+Canon CN-E,30-105_T2.8_32mm,32.0,True,True,False,True,AUTO,Canon,CN-E 30-105 T2.8,range exact,False
+Canon CN-E,30-105_T2.8_35mm,35.0,True,True,False,True,AUTO,Canon,CN-E 30-105 T2.8,range exact,False
+Canon CN-E,30-105_T2.8_40mm,40.0,True,True,False,True,AUTO,Canon,CN-E 30-105 T2.8,range exact,False
+Canon CN-E,30-105_T2.8_45mm,45.0,True,True,False,True,AUTO,Canon,CN-E 30-105 T2.8,range exact,False
+Canon CN-E,30-105_T2.8_50mm,50.0,True,True,False,True,AUTO,Canon,CN-E 30-105 T2.8,range exact,False
+Canon CN-E,30-105_T2.8_55mm,55.0,True,True,False,True,AUTO,Canon,CN-E 30-105 T2.8,range exact,False
+Canon CN-E,30-105_T2.8_60mm,60.0,True,True,False,True,AUTO,Canon,CN-E 30-105 T2.8,range exact,False
+Canon CN-E,30-105_T2.8_65mm,65.0,True,True,False,True,AUTO,Canon,CN-E 30-105 T2.8,range exact,False
+Canon CN-E,30-105_T2.8_75mm,75.0,True,True,False,True,AUTO,Canon,CN-E 30-105 T2.8,range exact,False
+Canon CN-E,30-105_T2.8_85mm,85.0,True,True,False,True,AUTO,Canon,CN-E 30-105 T2.8,range exact,False
+Canon CN-E,30-105_T2.8_95mm,95.0,True,True,False,True,AUTO,Canon,CN-E 30-105 T2.8,range exact,False
+Canon CN-E,30-300_T2.95 100mm,100.0,True,True,False,True,AUTO,Canon,CN-E 30-300 T2.95-3.7,range exact,False
+Canon CN-E,30-300_T2.95 110mm,110.0,True,True,False,True,AUTO,Canon,CN-E 30-300 T2.95-3.7,range exact,False
+Canon CN-E,30-300_T2.95 120mm,120.0,True,True,False,True,AUTO,Canon,CN-E 30-300 T2.95-3.7,range exact,False
+Canon CN-E,30-300_T2.95 135mm,135.0,True,True,False,True,AUTO,Canon,CN-E 30-300 T2.95-3.7,range exact,False
+Canon CN-E,30-300_T2.95 150mm,150.0,True,True,False,True,AUTO,Canon,CN-E 30-300 T2.95-3.7,range exact,False
+Canon CN-E,30-300_T2.95 180mm,180.0,True,True,False,True,AUTO,Canon,CN-E 30-300 T2.95-3.7,range exact,False
+Canon CN-E,30-300_T2.95 200mm,200.0,True,True,False,True,AUTO,Canon,CN-E 30-300 T2.95-3.7,range exact,False
+Canon CN-E,30-300_T2.95 240mm,240.0,True,True,False,True,AUTO,Canon,CN-E 30-300 T2.95-3.7,range exact,False
+Canon CN-E,30-300_T2.95 300mm,300.0,True,True,False,True,AUTO,Canon,CN-E 30-300 T2.95-3.7,range exact,False
+Canon CN-E,30-300_T2.95_30mm,30.0,True,True,False,True,AUTO,Canon,CN-E 30-300 T2.95-3.7,range exact,False
+Canon CN-E,30-300_T2.95_32mm,32.0,True,True,False,True,AUTO,Canon,CN-E 30-300 T2.95-3.7,range exact,False
+Canon CN-E,30-300_T2.95_35mm,35.0,True,True,False,True,AUTO,Canon,CN-E 30-300 T2.95-3.7,range exact,False
+Canon CN-E,30-300_T2.95_40mm,40.0,True,True,False,True,AUTO,Canon,CN-E 30-300 T2.95-3.7,range exact,False
+Canon CN-E,30-300_T2.95_45mm,45.0,True,True,False,True,AUTO,Canon,CN-E 30-300 T2.95-3.7,range exact,False
+Canon CN-E,30-300_T2.95_50mm,50.0,True,True,False,True,AUTO,Canon,CN-E 30-300 T2.95-3.7,range exact,False
+Canon CN-E,30-300_T2.95_55mm,55.0,True,True,False,True,AUTO,Canon,CN-E 30-300 T2.95-3.7,range exact,False
+Canon CN-E,30-300_T2.95_60mm,60.0,True,True,False,True,AUTO,Canon,CN-E 30-300 T2.95-3.7,range exact,False
+Canon CN-E,30-300_T2.95_65mm,65.0,True,True,False,True,AUTO,Canon,CN-E 30-300 T2.95-3.7,range exact,False
+Canon CN-E,30-300_T2.95_75mm,75.0,True,True,False,True,AUTO,Canon,CN-E 30-300 T2.95-3.7,range exact,False
+Canon CN-E,30-300_T2.95_85mm,85.0,True,True,False,True,AUTO,Canon,CN-E 30-300 T2.95-3.7,range exact,False
+Celere,18.5mm_T1.5,18.5,True,True,False,True,AUTO,HANSE INNO TECH,Celere HS,Celere source series -> LensScope Celere HS; focal set consistent,False
+Celere,25mm_T1.5,25.0,True,True,False,True,AUTO,HANSE INNO TECH,Celere HS,Celere source series -> LensScope Celere HS; focal set consistent,False
+Celere,36mm_T1.5,36.0,True,True,False,True,AUTO,HANSE INNO TECH,Celere HS,Celere source series -> LensScope Celere HS; focal set consistent,False
+Celere,50mm_T1.5,50.0,True,True,False,True,AUTO,HANSE INNO TECH,Celere HS,Celere source series -> LensScope Celere HS; focal set consistent,False
+Celere,85mm_T1.5,85.0,True,True,False,True,AUTO,HANSE INNO TECH,Celere HS,Celere source series -> LensScope Celere HS; focal set consistent,False
+Cooke Anamorphic:i, 100mm_T2.3,100.0,True,True,False,True,AUTO,Cooke,S35 Anamorphic/i 2x,source focal set matches Cooke S35 Anamorphic/i; not FF Plus,False
+Cooke Anamorphic:i,25mm_T2.3,25.0,True,True,False,True,AUTO,Cooke,S35 Anamorphic/i 2x,source focal set matches Cooke S35 Anamorphic/i; not FF Plus,False
+Cooke Anamorphic:i,32mm_T2.3,32.0,True,True,False,True,AUTO,Cooke,S35 Anamorphic/i 2x,source focal set matches Cooke S35 Anamorphic/i; not FF Plus,False
+Cooke Anamorphic:i,40mm_T2.3,40.0,True,True,False,True,AUTO,Cooke,S35 Anamorphic/i 2x,source focal set matches Cooke S35 Anamorphic/i; not FF Plus,False
+Cooke Anamorphic:i,50mm_T2.3,50.0,True,True,False,True,AUTO,Cooke,S35 Anamorphic/i 2x,source focal set matches Cooke S35 Anamorphic/i; not FF Plus,False
+Cooke Anamorphic:i,75mm_T2.3,75.0,True,True,False,True,AUTO,Cooke,S35 Anamorphic/i 2x,source focal set matches Cooke S35 Anamorphic/i; not FF Plus,False
+Cooke_Panchro, 100mm_T2.6,100.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
+Cooke_Panchro, 135mm_T2.8,135.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
+Cooke_Panchro, 152mm_T3,152.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
+Cooke_Panchro,18mm_T2.2,18.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
+Cooke_Panchro,21mm_T2.2,21.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
+Cooke_Panchro,25mm_T2.2,25.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
+Cooke_Panchro,27mm_T2.2,27.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
+Cooke_Panchro,32mm_T2.2,32.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
+Cooke_Panchro,40mm_T2.2,40.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
+Cooke_Panchro,50mm_T2.2,50.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
+Cooke_Panchro,65mm_Macro_T2.4,65.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
+Cooke_Panchro,75mm_T2.2,75.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
+Cooke_S4, 100mm T2,100.0,True,True,False,True,AUTO,Cooke,S4/i,series/focal set exact,False
+Cooke_S4, 135mm T2,135.0,True,True,False,True,AUTO,Cooke,S4/i,series/focal set exact,False
+Cooke_S4, 150mm T2,150.0,True,True,False,True,AUTO,Cooke,S4/i,series/focal set exact,False
+Cooke_S4, 180mm T2,180.0,True,True,False,True,AUTO,Cooke,S4/i,series/focal set exact,False
+Cooke_S4,12mm_T2,12.0,True,True,False,True,AUTO,Cooke,S4/i,series/focal set exact,False
+Cooke_S4,14mm_T2,14.0,True,True,False,True,AUTO,Cooke,S4/i,series/focal set exact,False
+Cooke_S4,16mm_T2,16.0,True,True,False,True,AUTO,Cooke,S4/i,series/focal set exact,False
+Cooke_S4,18mm_T2,18.0,True,True,False,True,AUTO,Cooke,S4/i,series/focal set exact,False
+Cooke_S4,21mm_T2,21.0,True,True,False,True,AUTO,Cooke,S4/i,series/focal set exact,False
+Cooke_S4,25mm_T2,25.0,True,True,False,True,AUTO,Cooke,S4/i,series/focal set exact,False
+Cooke_S4,32mm_T2,32.0,True,True,False,True,AUTO,Cooke,S4/i,series/focal set exact,False
+Cooke_S4,35mm_T2,35.0,True,True,False,True,AUTO,Cooke,S4/i,series/focal set exact,False
+Cooke_S4,40mm_T2,40.0,True,True,False,True,AUTO,Cooke,S4/i,series/focal set exact,False
+Cooke_S4,50mm_T2,50.0,True,True,False,True,AUTO,Cooke,S4/i,series/focal set exact,False
+Cooke_S4,65mm_T2,65.0,True,True,False,True,AUTO,Cooke,S4/i,series/focal set exact,False
+Cooke_S4,75mm_T2,75.0,True,True,False,True,AUTO,Cooke,S4/i,series/focal set exact,False
+Cooke_Varo-Panchro,20-60mm_T3.1_20mm,20.0,True,True,False,True,AUTO,Cooke,Varo-Panchro 20-60 T3.1,range exact,False
+Cooke_Varo-Panchro,20-60mm_T3.1_25mm,25.0,True,True,False,True,AUTO,Cooke,Varo-Panchro 20-60 T3.1,range exact,False
+Cooke_Varo-Panchro,20-60mm_T3.1_30mm,30.0,True,True,False,True,AUTO,Cooke,Varo-Panchro 20-60 T3.1,range exact,False
+Cooke_Varo-Panchro,20-60mm_T3.1_40mm,40.0,True,True,False,True,AUTO,Cooke,Varo-Panchro 20-60 T3.1,range exact,False
+Cooke_Varo-Panchro,20-60mm_T3.1_50mm,50.0,True,True,False,True,AUTO,Cooke,Varo-Panchro 20-60 T3.1,range exact,False
+Cooke_Varo-Panchro,20-60mm_T3.1_60mm,60.0,True,True,False,True,AUTO,Cooke,Varo-Panchro 20-60 T3.1,range exact,False
+Cooke_Wide Angle Varotal,14-70mm_T3.1_14mm,14.0,True,True,False,True,AUTO,Cooke,Wide-Angle Varotal 14-70 T3.1,range exact,False
+Cooke_Wide Angle Varotal,14-70mm_T3.1_17mm,17.0,True,True,False,True,AUTO,Cooke,Wide-Angle Varotal 14-70 T3.1,range exact,False
+Cooke_Wide Angle Varotal,14-70mm_T3.1_20mm,20.0,True,True,False,True,AUTO,Cooke,Wide-Angle Varotal 14-70 T3.1,range exact,False
+Cooke_Wide Angle Varotal,14-70mm_T3.1_25mm,25.0,True,True,False,True,AUTO,Cooke,Wide-Angle Varotal 14-70 T3.1,range exact,False
+Cooke_Wide Angle Varotal,14-70mm_T3.1_32mm,32.0,True,True,False,True,AUTO,Cooke,Wide-Angle Varotal 14-70 T3.1,range exact,False
+Cooke_Wide Angle Varotal,14-70mm_T3.1_40mm,40.0,True,True,False,True,AUTO,Cooke,Wide-Angle Varotal 14-70 T3.1,range exact,False
+Cooke_Wide Angle Varotal,14-70mm_T3.1_50mm,50.0,True,True,False,True,AUTO,Cooke,Wide-Angle Varotal 14-70 T3.1,range exact,False
+Cooke_Wide Angle Varotal,14-70mm_T3.1_60mm,60.0,True,True,False,True,AUTO,Cooke,Wide-Angle Varotal 14-70 T3.1,range exact,False
+Cooke_Wide Angle Varotal,14-70mm_T3.1_70mm,70.0,True,True,False,True,AUTO,Cooke,Wide-Angle Varotal 14-70 T3.1,range exact,False
+DZOFILM_PAVO_x2_Anamorphic, 100mm_T2.4,100.0,True,True,False,True,AUTO,DZOFILM,PAVO Anamorphic 2x,series/focal set exact,False
+DZOFILM_PAVO_x2_Anamorphic, 135mm_T2.5,135.0,True,True,False,True,AUTO,DZOFILM,PAVO Anamorphic 2x,series/focal set exact,False
+DZOFILM_PAVO_x2_Anamorphic, 180mm_T2.8,180.0,True,True,False,True,AUTO,DZOFILM,PAVO Anamorphic 2x,series/focal set exact,False
+DZOFILM_PAVO_x2_Anamorphic,28mm_T2.1,28.0,True,True,False,True,AUTO,DZOFILM,PAVO Anamorphic 2x,series/focal set exact,False
+DZOFILM_PAVO_x2_Anamorphic,32mm_T2.1,32.0,True,True,False,True,AUTO,DZOFILM,PAVO Anamorphic 2x,series/focal set exact,False
+DZOFILM_PAVO_x2_Anamorphic,40mm_T2.1,40.0,True,True,False,True,AUTO,DZOFILM,PAVO Anamorphic 2x,series/focal set exact,False
+DZOFILM_PAVO_x2_Anamorphic,55mm_T2.1,55.0,True,True,False,True,AUTO,DZOFILM,PAVO Anamorphic 2x,series/focal set exact,False
+DZOFILM_PAVO_x2_Anamorphic,65mm_T2.8,65.0,True,True,False,True,AUTO,DZOFILM,PAVO Anamorphic 2x,series/focal set exact,False
+DZOFILM_PAVO_x2_Anamorphic,75mm_T2.1,75.0,True,True,False,True,AUTO,DZOFILM,PAVO Anamorphic 2x,series/focal set exact,False
+FUJINON_Duvo,14-100mm_T2.9 100mm,100.0,True,True,False,True,AUTO,FUJINON,Duvo HZK 14-100,range exact,False
+FUJINON_Duvo,14-100mm_T2.9_14mm,14.0,True,True,False,True,AUTO,FUJINON,Duvo HZK 14-100,range exact,False
+FUJINON_Duvo,14-100mm_T2.9_24mm,24.0,True,True,False,True,AUTO,FUJINON,Duvo HZK 14-100,range exact,False
+FUJINON_Duvo,14-100mm_T2.9_35mm,35.0,True,True,False,True,AUTO,FUJINON,Duvo HZK 14-100,range exact,False
+FUJINON_Duvo,14-100mm_T2.9_50mm,50.0,True,True,False,True,AUTO,FUJINON,Duvo HZK 14-100,range exact,False
+FUJINON_Duvo,14-100mm_T2.9_75mm,75.0,True,True,False,True,AUTO,FUJINON,Duvo HZK 14-100,range exact,False
+FUJINON_Duvo,24-300mm_T2.9 100mm,100.0,True,True,False,True,AUTO,FUJINON,Duvo HZK 24-300,range exact,False
+FUJINON_Duvo,24-300mm_T2.9 135mm,135.0,True,True,False,True,AUTO,FUJINON,Duvo HZK 24-300,range exact,False
+FUJINON_Duvo,24-300mm_T2.9 200mm,200.0,True,True,False,True,AUTO,FUJINON,Duvo HZK 24-300,range exact,False
+FUJINON_Duvo,24-300mm_T2.9 300mm,300.0,True,True,False,True,AUTO,FUJINON,Duvo HZK 24-300,range exact,False
+FUJINON_Duvo,24-300mm_T2.9_24mm,24.0,True,True,False,True,AUTO,FUJINON,Duvo HZK 24-300,range exact,False
+FUJINON_Duvo,24-300mm_T2.9_35mm,35.0,True,True,False,True,AUTO,FUJINON,Duvo HZK 24-300,range exact,False
+FUJINON_Duvo,24-300mm_T2.9_50mm,50.0,True,True,False,True,AUTO,FUJINON,Duvo HZK 24-300,range exact,False
+FUJINON_Duvo,24-300mm_T2.9_75mm,75.0,True,True,False,True,AUTO,FUJINON,Duvo HZK 24-300,range exact,False
+FUJINON_HK,18-85mm_T2_18mm,18.0,True,True,False,True,AUTO,FUJINON,HK Premier 18-85 T2,range exact,False
+FUJINON_HK,18-85mm_T2_20mm,20.0,True,True,False,True,AUTO,FUJINON,HK Premier 18-85 T2,range exact,False
+FUJINON_HK,18-85mm_T2_22mm,22.0,True,True,False,True,AUTO,FUJINON,HK Premier 18-85 T2,range exact,False
+FUJINON_HK,18-85mm_T2_25mm,25.0,True,True,False,True,AUTO,FUJINON,HK Premier 18-85 T2,range exact,False
+FUJINON_HK,18-85mm_T2_30mm,30.0,True,True,False,True,AUTO,FUJINON,HK Premier 18-85 T2,range exact,False
+FUJINON_HK,18-85mm_T2_35mm,35.0,True,True,False,True,AUTO,FUJINON,HK Premier 18-85 T2,range exact,False
+FUJINON_HK,18-85mm_T2_40mm,40.0,True,True,False,True,AUTO,FUJINON,HK Premier 18-85 T2,range exact,False
+FUJINON_HK,18-85mm_T2_45mm,45.0,True,True,False,True,AUTO,FUJINON,HK Premier 18-85 T2,range exact,False
+FUJINON_HK,18-85mm_T2_50mm,50.0,True,True,False,True,AUTO,FUJINON,HK Premier 18-85 T2,range exact,False
+FUJINON_HK,18-85mm_T2_55mm,55.0,True,True,False,True,AUTO,FUJINON,HK Premier 18-85 T2,range exact,False
+FUJINON_HK,18-85mm_T2_60mm,60.0,True,True,False,True,AUTO,FUJINON,HK Premier 18-85 T2,range exact,False
+FUJINON_HK,18-85mm_T2_65mm,65.0,True,True,False,True,AUTO,FUJINON,HK Premier 18-85 T2,range exact,False
+FUJINON_HK,18-85mm_T2_70mm,70.0,True,True,False,True,AUTO,FUJINON,HK Premier 18-85 T2,range exact,False
+FUJINON_HK,18-85mm_T2_75mm,75.0,True,True,False,True,AUTO,FUJINON,HK Premier 18-85 T2,range exact,False
+FUJINON_HK,18-85mm_T2_80mm,80.0,True,True,False,True,AUTO,FUJINON,HK Premier 18-85 T2,range exact,False
+FUJINON_HK,18-85mm_T2_85mm,85.0,True,True,False,True,AUTO,FUJINON,HK Premier 18-85 T2,range exact,False
+FUJINON_HK,75-400mm_T2.8 100mm,100.0,True,True,False,True,AUTO,FUJINON,HK Premier 75-400 T2.8-3.8,range exact,False
+FUJINON_HK,75-400mm_T2.8 120mm,120.0,True,True,False,True,AUTO,FUJINON,HK Premier 75-400 T2.8-3.8,range exact,False
+FUJINON_HK,75-400mm_T2.8 140mm,140.0,True,True,False,True,AUTO,FUJINON,HK Premier 75-400 T2.8-3.8,range exact,False
+FUJINON_HK,75-400mm_T2.8 160mm,160.0,True,True,False,True,AUTO,FUJINON,HK Premier 75-400 T2.8-3.8,range exact,False
+FUJINON_HK,75-400mm_T2.8 180mm,180.0,True,True,False,True,AUTO,FUJINON,HK Premier 75-400 T2.8-3.8,range exact,False
+FUJINON_HK,75-400mm_T2.8 200mm,200.0,True,True,False,True,AUTO,FUJINON,HK Premier 75-400 T2.8-3.8,range exact,False
+FUJINON_HK,75-400mm_T2.8 225mm,225.0,True,True,False,True,AUTO,FUJINON,HK Premier 75-400 T2.8-3.8,range exact,False
+FUJINON_HK,75-400mm_T2.8 250mm,250.0,True,True,False,True,AUTO,FUJINON,HK Premier 75-400 T2.8-3.8,range exact,False
+FUJINON_HK,75-400mm_T2.8 275mm,275.0,True,True,False,True,AUTO,FUJINON,HK Premier 75-400 T2.8-3.8,range exact,False
+FUJINON_HK,75-400mm_T2.8 300mm,300.0,True,True,False,True,AUTO,FUJINON,HK Premier 75-400 T2.8-3.8,range exact,False
+FUJINON_HK,75-400mm_T2.8 325mm,325.0,True,True,False,True,AUTO,FUJINON,HK Premier 75-400 T2.8-3.8,range exact,False
+FUJINON_HK,75-400mm_T2.8 350mm,350.0,True,True,False,True,AUTO,FUJINON,HK Premier 75-400 T2.8-3.8,range exact,False
+FUJINON_HK,75-400mm_T2.8_75mm,75.0,True,True,False,True,AUTO,FUJINON,HK Premier 75-400 T2.8-3.8,range exact,False
+FUJINON_HK,75-400mm_T2.8_85mm,85.0,True,True,False,True,AUTO,FUJINON,HK Premier 75-400 T2.8-3.8,range exact,False
+FUJINON_HK,75-400mm_T3.8 400mm,400.0,True,True,False,True,AUTO,FUJINON,HK Premier 75-400 T2.8-3.8,range exact,False
+FUJINON_XK,XK 20-120mm_T3.5 100mm,100.0,True,True,False,True,AUTO,FUJINON,XK 20-120 T3.5,range exact,False
+FUJINON_XK,XK 20-120mm_T3.5 120mm,120.0,True,True,False,True,AUTO,FUJINON,XK 20-120 T3.5,range exact,False
+FUJINON_XK,XK 20-120mm_T3.5_20mm,20.0,True,True,False,True,AUTO,FUJINON,XK 20-120 T3.5,range exact,False
+FUJINON_XK,XK 20-120mm_T3.5_28mm,28.0,True,True,False,True,AUTO,FUJINON,XK 20-120 T3.5,range exact,False
+FUJINON_XK,XK 20-120mm_T3.5_35mm,35.0,True,True,False,True,AUTO,FUJINON,XK 20-120 T3.5,range exact,False
+FUJINON_XK,XK 20-120mm_T3.5_40mm,40.0,True,True,False,True,AUTO,FUJINON,XK 20-120 T3.5,range exact,False
+FUJINON_XK,XK 20-120mm_T3.5_50mm,50.0,True,True,False,True,AUTO,FUJINON,XK 20-120 T3.5,range exact,False
+FUJINON_XK,XK 20-120mm_T3.5_65mm,65.0,True,True,False,True,AUTO,FUJINON,XK 20-120 T3.5,range exact,False
+FUJINON_XK,XK 20-120mm_T3.5_75mm,75.0,True,True,False,True,AUTO,FUJINON,XK 20-120 T3.5,range exact,False
+FUJINON_ZK,14-35mm_T2.9_14mm,14.0,True,True,False,True,AUTO,FUJINON,ZK 14-35 T2.9,range exact,False
+FUJINON_ZK,14-35mm_T2.9_16mm,16.0,True,True,False,True,AUTO,FUJINON,ZK 14-35 T2.9,range exact,False
+FUJINON_ZK,14-35mm_T2.9_18mm,18.0,True,True,False,True,AUTO,FUJINON,ZK 14-35 T2.9,range exact,False
+FUJINON_ZK,14-35mm_T2.9_20mm,20.0,True,True,False,True,AUTO,FUJINON,ZK 14-35 T2.9,range exact,False
+FUJINON_ZK,14-35mm_T2.9_22mm,22.0,True,True,False,True,AUTO,FUJINON,ZK 14-35 T2.9,range exact,False
+FUJINON_ZK,14-35mm_T2.9_24mm,24.0,True,True,False,True,AUTO,FUJINON,ZK 14-35 T2.9,range exact,False
+FUJINON_ZK,14-35mm_T2.9_26mm,26.0,True,True,False,True,AUTO,FUJINON,ZK 14-35 T2.9,range exact,False
+FUJINON_ZK,14-35mm_T2.9_28mm,28.0,True,True,False,True,AUTO,FUJINON,ZK 14-35 T2.9,range exact,False
+FUJINON_ZK,14-35mm_T2.9_30mm,30.0,True,True,False,True,AUTO,FUJINON,ZK 14-35 T2.9,range exact,False
+FUJINON_ZK,14-35mm_T2.9_32mm,32.0,True,True,False,True,AUTO,FUJINON,ZK 14-35 T2.9,range exact,False
+FUJINON_ZK,14-35mm_T2.9_35mm,35.0,True,True,False,True,AUTO,FUJINON,ZK 14-35 T2.9,range exact,False
+FUJINON_ZK,19-90mm_T2.9_19mm,19.0,True,True,False,True,AUTO,FUJINON,ZK 19-90 T2.9,range exact,False
+FUJINON_ZK,19-90mm_T2.9_22mm,22.0,True,False,False,True,AUTO,FUJINON,ZK 19-90 T2.9,range exact,False
+FUJINON_ZK,19-90mm_T2.9_25mm,25.0,True,True,False,True,AUTO,FUJINON,ZK 19-90 T2.9,range exact,False
+FUJINON_ZK,19-90mm_T2.9_30mm,30.0,True,True,False,True,AUTO,FUJINON,ZK 19-90 T2.9,range exact,False
+FUJINON_ZK,19-90mm_T2.9_35mm,35.0,True,True,False,True,AUTO,FUJINON,ZK 19-90 T2.9,range exact,False
+FUJINON_ZK,19-90mm_T2.9_40mm,40.0,True,True,False,True,AUTO,FUJINON,ZK 19-90 T2.9,range exact,False
+FUJINON_ZK,19-90mm_T2.9_50mm,50.0,True,True,False,True,AUTO,FUJINON,ZK 19-90 T2.9,range exact,False
+FUJINON_ZK,19-90mm_T2.9_60mm,60.0,True,True,False,True,AUTO,FUJINON,ZK 19-90 T2.9,range exact,False
+FUJINON_ZK,19-90mm_T2.9_70mm,70.0,True,True,False,True,AUTO,FUJINON,ZK 19-90 T2.9,range exact,False
+FUJINON_ZK,19-90mm_T2.9_80mm,80.0,True,True,False,True,AUTO,FUJINON,ZK 19-90 T2.9,range exact,False
+FUJINON_ZK,19-90mm_T2.9_90mm,90.0,True,True,False,True,AUTO,FUJINON,ZK 19-90 T2.9,range exact,False
+FUJINON_ZK,85-300mm_T2.9 100mm,100.0,True,True,False,True,AUTO,FUJINON,ZK 85-300 T2.9-4.0,range exact,False
+FUJINON_ZK,85-300mm_T2.9 120mm,120.0,True,True,False,True,AUTO,FUJINON,ZK 85-300 T2.9-4.0,range exact,False
+FUJINON_ZK,85-300mm_T2.9 140mm,140.0,True,True,False,True,AUTO,FUJINON,ZK 85-300 T2.9-4.0,range exact,False
+FUJINON_ZK,85-300mm_T2.9 160mm,160.0,True,True,False,True,AUTO,FUJINON,ZK 85-300 T2.9-4.0,range exact,False
+FUJINON_ZK,85-300mm_T2.9 180mm,180.0,True,True,False,True,AUTO,FUJINON,ZK 85-300 T2.9-4.0,range exact,False
+FUJINON_ZK,85-300mm_T2.9 220mm,220.0,True,True,False,True,AUTO,FUJINON,ZK 85-300 T2.9-4.0,range exact,False
+FUJINON_ZK,85-300mm_T2.9 260mm,260.0,True,True,False,True,AUTO,FUJINON,ZK 85-300 T2.9-4.0,range exact,False
+FUJINON_ZK,85-300mm_T2.9 300mm,300.0,True,True,False,True,AUTO,FUJINON,ZK 85-300 T2.9-4.0,range exact,False
+FUJINON_ZK,85-300mm_T2.9_85mm,85.0,True,True,False,True,AUTO,FUJINON,ZK 85-300 T2.9-4.0,range exact,False
+KOWA_PROMINAR,25-125mm_T4.5 100mm,100.0,True,True,False,True,NO_TARGET,,,KOWA PROMINAR 25-125 capture library exists but no corresponding V110 lens family,False
+KOWA_PROMINAR,25-125mm_T4.5 125mm,125.0,True,True,False,True,NO_TARGET,,,KOWA PROMINAR 25-125 capture library exists but no corresponding V110 lens family,False
+KOWA_PROMINAR,25-125mm_T4.5_25mm,25.0,True,True,False,True,NO_TARGET,,,KOWA PROMINAR 25-125 capture library exists but no corresponding V110 lens family,False
+KOWA_PROMINAR,25-125mm_T4.5_30mm,30.0,True,True,False,True,NO_TARGET,,,KOWA PROMINAR 25-125 capture library exists but no corresponding V110 lens family,False
+KOWA_PROMINAR,25-125mm_T4.5_35mm,35.0,True,True,False,True,NO_TARGET,,,KOWA PROMINAR 25-125 capture library exists but no corresponding V110 lens family,False
+KOWA_PROMINAR,25-125mm_T4.5_40mm,40.0,True,True,False,True,NO_TARGET,,,KOWA PROMINAR 25-125 capture library exists but no corresponding V110 lens family,False
+KOWA_PROMINAR,25-125mm_T4.5_50mm,50.0,True,True,False,True,NO_TARGET,,,KOWA PROMINAR 25-125 capture library exists but no corresponding V110 lens family,False
+KOWA_PROMINAR,25-125mm_T4.5_60mm,60.0,True,True,False,True,NO_TARGET,,,KOWA PROMINAR 25-125 capture library exists but no corresponding V110 lens family,False
+KOWA_PROMINAR,25-125mm_T4.5_75mm,75.0,True,True,False,True,NO_TARGET,,,KOWA PROMINAR 25-125 capture library exists but no corresponding V110 lens family,False
+LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_28mm,28.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,range exact,False
+LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_30mm,30.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,range exact,False
+LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_32mm,32.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,range exact,False
+LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_35mm,35.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,range exact,False
+LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_37mm,37.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,range exact,False
+LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_40mm,40.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,range exact,False
+LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_43mm,43.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,range exact,False
+LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_45mm,45.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,range exact,False
+LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_48mm,48.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,range exact,False
+LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_50mm,50.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,range exact,False
+LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_52mm,52.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,range exact,False
+LAOWA_Nanomorph_x1.5, 28-55mm_T2.9_55mm,55.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Zoom 28-55,range exact,False
+LAOWA_Nanomorph_x1.5, 50-100mm_T2.9 100mm,100.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Zoom 50-100,range exact,False
+LAOWA_Nanomorph_x1.5, 50-100mm_T2.9_50mm,50.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Zoom 50-100,range exact,False
+LAOWA_Nanomorph_x1.5, 50-100mm_T2.9_55mm,55.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Zoom 50-100,range exact,False
+LAOWA_Nanomorph_x1.5, 50-100mm_T2.9_60mm,60.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Zoom 50-100,range exact,False
+LAOWA_Nanomorph_x1.5, 50-100mm_T2.9_65mm,65.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Zoom 50-100,range exact,False
+LAOWA_Nanomorph_x1.5, 50-100mm_T2.9_70mm,70.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Zoom 50-100,range exact,False
+LAOWA_Nanomorph_x1.5, 50-100mm_T2.9_75mm,75.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Zoom 50-100,range exact,False
+LAOWA_Nanomorph_x1.5, 50-100mm_T2.9_80mm,80.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Zoom 50-100,range exact,False
+LAOWA_Nanomorph_x1.5, 50-100mm_T2.9_85mm,85.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Zoom 50-100,range exact,False
+LAOWA_Nanomorph_x1.5, 50-100mm_T2.9_90mm,90.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Zoom 50-100,range exact,False
+LAOWA_Nanomorph_x1.5,27mm_T2.8,27.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Prime,prime Nanomorph source focal,False
+LAOWA_Nanomorph_x1.5,35mm_T2.4,35.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Prime,prime Nanomorph source focal,False
+LAOWA_Nanomorph_x1.5,50mm_T2.4,50.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Prime,prime Nanomorph source focal,False
+LAOWA_Nanomorph_x1.5,65mm_T2.4,65.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Prime,prime Nanomorph source focal,False
+LAOWA_Nanomorph_x1.5,80mm_T2.4,80.0,True,True,False,True,AUTO,LAOWA,Nanomorph 1.5x S35 Prime,prime Nanomorph source focal,False
+LOMO_ZOOM,20-120mm_T3.3 100mm,100.0,True,True,False,True,AUTO,LOMO,LOMO ZOOM 20-120mm T3.3,series/range exact,False
+LOMO_ZOOM,20-120mm_T3.3 120mm,120.0,True,True,False,True,AUTO,LOMO,LOMO ZOOM 20-120mm T3.3,series/range exact,False
+LOMO_ZOOM,20-120mm_T3.3_20mm,20.0,True,True,False,True,AUTO,LOMO,LOMO ZOOM 20-120mm T3.3,series/range exact,False
+LOMO_ZOOM,20-120mm_T3.3_25mm,25.0,True,True,False,True,AUTO,LOMO,LOMO ZOOM 20-120mm T3.3,series/range exact,False
+LOMO_ZOOM,20-120mm_T3.3_30mm,30.0,True,True,False,True,AUTO,LOMO,LOMO ZOOM 20-120mm T3.3,series/range exact,False
+LOMO_ZOOM,20-120mm_T3.3_35mm,35.0,True,True,False,True,AUTO,LOMO,LOMO ZOOM 20-120mm T3.3,series/range exact,False
+LOMO_ZOOM,20-120mm_T3.3_40mm,40.0,True,True,False,True,AUTO,LOMO,LOMO ZOOM 20-120mm T3.3,series/range exact,False
+LOMO_ZOOM,20-120mm_T3.3_45mm,45.0,True,True,False,True,AUTO,LOMO,LOMO ZOOM 20-120mm T3.3,series/range exact,False
+LOMO_ZOOM,20-120mm_T3.3_50mm,50.0,True,True,False,True,AUTO,LOMO,LOMO ZOOM 20-120mm T3.3,series/range exact,False
+LOMO_ZOOM,20-120mm_T3.3_60mm,60.0,True,True,False,True,AUTO,LOMO,LOMO ZOOM 20-120mm T3.3,series/range exact,False
+LOMO_ZOOM,20-120mm_T3.3_70mm,70.0,True,True,False,True,AUTO,LOMO,LOMO ZOOM 20-120mm T3.3,series/range exact,False
+Leica Summicron-C, 100mm_T2,100.0,True,True,False,True,AUTO,Leitz,SUMMICRON-C,legacy Leica naming -> LensScope Leitz SUMMICRON-C,False
+Leica Summicron-C, 135mm_T2,135.0,True,True,False,True,AUTO,Leitz,SUMMICRON-C,legacy Leica naming -> LensScope Leitz SUMMICRON-C,False
+Leica Summicron-C,15mm_T2,15.0,True,True,False,True,AUTO,Leitz,SUMMICRON-C,legacy Leica naming -> LensScope Leitz SUMMICRON-C,False
+Leica Summicron-C,18mm_T2,18.0,True,True,False,True,AUTO,Leitz,SUMMICRON-C,legacy Leica naming -> LensScope Leitz SUMMICRON-C,False
+Leica Summicron-C,21mm_T2,21.0,True,True,False,True,AUTO,Leitz,SUMMICRON-C,legacy Leica naming -> LensScope Leitz SUMMICRON-C,False
+Leica Summicron-C,25mm_T2,25.0,True,True,False,True,AUTO,Leitz,SUMMICRON-C,legacy Leica naming -> LensScope Leitz SUMMICRON-C,False
+Leica Summicron-C,29mm_T2,29.0,True,True,False,True,AUTO,Leitz,SUMMICRON-C,legacy Leica naming -> LensScope Leitz SUMMICRON-C,False
+Leica Summicron-C,35mm_T2,35.0,True,True,False,True,AUTO,Leitz,SUMMICRON-C,legacy Leica naming -> LensScope Leitz SUMMICRON-C,False
+Leica Summicron-C,40mm_T2,40.0,True,True,False,True,AUTO,Leitz,SUMMICRON-C,legacy Leica naming -> LensScope Leitz SUMMICRON-C,False
+Leica Summicron-C,50mm_T2,50.0,True,True,False,True,AUTO,Leitz,SUMMICRON-C,legacy Leica naming -> LensScope Leitz SUMMICRON-C,False
+Leica Summicron-C,75mm_T2,75.0,True,True,False,True,AUTO,Leitz,SUMMICRON-C,legacy Leica naming -> LensScope Leitz SUMMICRON-C,False
+Leica Summilux-C, 100mm T1.4,100.0,True,True,False,True,AUTO,Leitz,SUMMILUX-C,legacy Leica naming -> LensScope Leitz SUMMILUX-C,False
+Leica Summilux-C,16mm_T1.4,16.0,True,True,False,True,AUTO,Leitz,SUMMILUX-C,legacy Leica naming -> LensScope Leitz SUMMILUX-C,False
+Leica Summilux-C,18mm_T1.4,18.0,True,True,False,True,AUTO,Leitz,SUMMILUX-C,legacy Leica naming -> LensScope Leitz SUMMILUX-C,False
+Leica Summilux-C,21mm_T1.4,21.0,True,True,False,True,AUTO,Leitz,SUMMILUX-C,legacy Leica naming -> LensScope Leitz SUMMILUX-C,False
+Leica Summilux-C,25mm_T1.4,25.0,True,True,False,True,AUTO,Leitz,SUMMILUX-C,legacy Leica naming -> LensScope Leitz SUMMILUX-C,False
+Leica Summilux-C,29mm_T1.4,29.0,True,True,False,True,AUTO,Leitz,SUMMILUX-C,legacy Leica naming -> LensScope Leitz SUMMILUX-C,False
+Leica Summilux-C,35mm_T1.4,35.0,True,True,False,True,AUTO,Leitz,SUMMILUX-C,legacy Leica naming -> LensScope Leitz SUMMILUX-C,False
+Leica Summilux-C,40mm_T1.4,40.0,True,True,False,True,AUTO,Leitz,SUMMILUX-C,legacy Leica naming -> LensScope Leitz SUMMILUX-C,False
+Leica Summilux-C,50mm_T1.4,50.0,True,True,False,True,AUTO,Leitz,SUMMILUX-C,legacy Leica naming -> LensScope Leitz SUMMILUX-C,False
+Leica Summilux-C,65mm_T1.4,65.0,True,True,False,True,AUTO,Leitz,SUMMILUX-C,legacy Leica naming -> LensScope Leitz SUMMILUX-C,False
+Leica Summilux-C,75mm_T1.4,75.0,True,True,False,True,AUTO,Leitz,SUMMILUX-C,legacy Leica naming -> LensScope Leitz SUMMILUX-C,False
+Leica THALIA, 100mm T2.2,100.0,True,True,False,True,AUTO,Leitz,THALIA,series exact; LensScope current maker spelling Leitz,False
+Leica THALIA, 120mm T2.6,120.0,True,True,False,True,AUTO,Leitz,THALIA,series exact; LensScope current maker spelling Leitz,False
+Leica THALIA, 180mm T3.6,180.0,True,True,False,True,AUTO,Leitz,THALIA,series exact; LensScope current maker spelling Leitz,False
+Leica THALIA,24mm T3.6,24.0,True,True,False,True,AUTO,Leitz,THALIA,series exact; LensScope current maker spelling Leitz,False
+Leica THALIA,30mm T2.9,30.0,True,True,False,True,AUTO,Leitz,THALIA,series exact; LensScope current maker spelling Leitz,False
+Leica THALIA,35mm T2.6,35.0,True,True,False,True,AUTO,Leitz,THALIA,series exact; LensScope current maker spelling Leitz,False
+Leica THALIA,45mm T2.9,45.0,True,True,False,True,AUTO,Leitz,THALIA,series exact; LensScope current maker spelling Leitz,False
+Leica THALIA,70mm T2.6,70.0,True,True,False,True,AUTO,Leitz,THALIA,series exact; LensScope current maker spelling Leitz,False
+Leica VARIO-APO-ELMARIT R,70-180mm_T3 100mm,100.0,True,True,False,True,AUTO,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,range/model exact; LensScope entry identifies Duclos conversion,False
+Leica VARIO-APO-ELMARIT R,70-180mm_T3 105mm,105.0,True,True,False,True,AUTO,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,range/model exact; LensScope entry identifies Duclos conversion,False
+Leica VARIO-APO-ELMARIT R,70-180mm_T3 110mm,110.0,True,True,False,True,AUTO,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,range/model exact; LensScope entry identifies Duclos conversion,False
+Leica VARIO-APO-ELMARIT R,70-180mm_T3 120mm,120.0,True,True,False,True,AUTO,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,range/model exact; LensScope entry identifies Duclos conversion,False
+Leica VARIO-APO-ELMARIT R,70-180mm_T3 135mm,135.0,True,True,False,True,AUTO,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,range/model exact; LensScope entry identifies Duclos conversion,False
+Leica VARIO-APO-ELMARIT R,70-180mm_T3 150mm,150.0,True,True,False,True,AUTO,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,range/model exact; LensScope entry identifies Duclos conversion,False
+Leica VARIO-APO-ELMARIT R,70-180mm_T3 165mm,165.0,True,True,False,True,AUTO,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,range/model exact; LensScope entry identifies Duclos conversion,False
+Leica VARIO-APO-ELMARIT R,70-180mm_T3 180mm,180.0,True,True,False,True,AUTO,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,range/model exact; LensScope entry identifies Duclos conversion,False
+Leica VARIO-APO-ELMARIT R,70-180mm_T3_70mm,70.0,True,True,False,True,AUTO,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,range/model exact; LensScope entry identifies Duclos conversion,False
+Leica VARIO-APO-ELMARIT R,70-180mm_T3_75mm,75.0,True,True,False,True,AUTO,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,range/model exact; LensScope entry identifies Duclos conversion,False
+Leica VARIO-APO-ELMARIT R,70-180mm_T3_80mm,80.0,True,True,False,True,AUTO,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,range/model exact; LensScope entry identifies Duclos conversion,False
+Leica VARIO-APO-ELMARIT R,70-180mm_T3_85mm,85.0,True,True,False,True,AUTO,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,range/model exact; LensScope entry identifies Duclos conversion,False
+Leica VARIO-APO-ELMARIT R,70-180mm_T3_90mm,90.0,True,True,False,True,AUTO,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,range/model exact; LensScope entry identifies Duclos conversion,False
+Leica VARIO-APO-ELMARIT R,70-180mm_T3_95mm,95.0,True,True,False,True,AUTO,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,range/model exact; LensScope entry identifies Duclos conversion,False
+SERVICE VISION, 100mm_T2.2,100.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiolens Anamorphic FFA 2x,User-confirmed generic SERVICE VISION folder corresponds to this lens set,False
+SERVICE VISION,35mm_T2.2,35.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiolens Anamorphic FFA 2x,User-confirmed generic SERVICE VISION folder corresponds to this lens set,False
+SERVICE VISION,40mm_T2.2,40.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiolens Anamorphic FFA 2x,User-confirmed generic SERVICE VISION folder corresponds to this lens set,False
+SERVICE VISION,50mm_T2.2,50.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiolens Anamorphic FFA 2x,User-confirmed generic SERVICE VISION folder corresponds to this lens set,False
+SERVICE VISION,75mm_T2.2,75.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiolens Anamorphic FFA 2x,User-confirmed generic SERVICE VISION folder corresponds to this lens set,False
+SERVICE VISION Scorpiozoom ,138-405 T4.3_138mm,138.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,model/range exact,False
+SERVICE VISION Scorpiozoom ,138-405 T4.3_160mm,160.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,model/range exact,False
+SERVICE VISION Scorpiozoom ,138-405 T4.3_180mm,180.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,model/range exact,False
+SERVICE VISION Scorpiozoom ,138-405 T4.3_200mm,200.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,model/range exact,False
+SERVICE VISION Scorpiozoom ,138-405 T4.3_220mm,220.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,model/range exact,False
+SERVICE VISION Scorpiozoom ,138-405 T4.3_240mm,240.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,model/range exact,False
+SERVICE VISION Scorpiozoom ,138-405 T4.3_260mm,260.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,model/range exact,False
+SERVICE VISION Scorpiozoom ,138-405 T4.3_280mm,280.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,model/range exact,False
+SERVICE VISION Scorpiozoom ,138-405 T4.3_300mm,300.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,model/range exact,False
+SERVICE VISION Scorpiozoom ,138-405 T4.3_320mm,320.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,model/range exact,False
+SERVICE VISION Scorpiozoom ,138-405 T4.3_340mm,340.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,model/range exact,False
+SERVICE VISION Scorpiozoom ,138-405 T4.3_360mm,360.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,model/range exact,False
+SERVICE VISION Scorpiozoom ,138-405 T4.3_380mm,380.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,model/range exact,False
+SERVICE VISION Scorpiozoom ,138-405 T4.3_405mm,405.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,model/range exact,False
+SIGMA FF High Speed Prime, 135mm T2,135.0,True,True,False,True,AUTO,SIGMA,FF High Speed Prime,series exact; do not map to V35,False
+SIGMA FF High Speed Prime,14mm T2,14.0,True,True,False,True,AUTO,SIGMA,FF High Speed Prime,series exact; do not map to V35,False
+SIGMA FF High Speed Prime,20mm T1.5,20.0,True,True,False,True,AUTO,SIGMA,FF High Speed Prime,series exact; do not map to V35,False
+SIGMA FF High Speed Prime,24mm T1.5,24.0,True,True,False,True,AUTO,SIGMA,FF High Speed Prime,series exact; do not map to V35,False
+SIGMA FF High Speed Prime,28mm T1.5,28.0,True,True,False,True,AUTO,SIGMA,FF High Speed Prime,series exact; do not map to V35,False
+SIGMA FF High Speed Prime,35mm T1.5,35.0,True,True,False,True,AUTO,SIGMA,FF High Speed Prime,series exact; do not map to V35,False
+SIGMA FF High Speed Prime,40mm T1.5,40.0,True,True,False,True,AUTO,SIGMA,FF High Speed Prime,series exact; do not map to V35,False
+SIGMA FF High Speed Prime,50mm T1.5,50.0,True,True,False,True,AUTO,SIGMA,FF High Speed Prime,series exact; do not map to V35,False
+SIGMA FF High Speed Prime,85mm T1.5,85.0,True,True,False,True,AUTO,SIGMA,FF High Speed Prime,series exact; do not map to V35,False
+SIGMA High Speed Zoom,18-35mm_T2_18mm,18.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 18-35 T2,range exact,False
+SIGMA High Speed Zoom,18-35mm_T2_19mm,19.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 18-35 T2,range exact,False
+SIGMA High Speed Zoom,18-35mm_T2_20mm,20.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 18-35 T2,range exact,False
+SIGMA High Speed Zoom,18-35mm_T2_21mm,21.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 18-35 T2,range exact,False
+SIGMA High Speed Zoom,18-35mm_T2_22mm,22.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 18-35 T2,range exact,False
+SIGMA High Speed Zoom,18-35mm_T2_23mm,23.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 18-35 T2,range exact,False
+SIGMA High Speed Zoom,18-35mm_T2_24mm,24.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 18-35 T2,range exact,False
+SIGMA High Speed Zoom,18-35mm_T2_25mm,25.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 18-35 T2,range exact,False
+SIGMA High Speed Zoom,18-35mm_T2_26mm,26.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 18-35 T2,range exact,False
+SIGMA High Speed Zoom,18-35mm_T2_27mm,27.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 18-35 T2,range exact,False
+SIGMA High Speed Zoom,18-35mm_T2_28mm,28.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 18-35 T2,range exact,False
+SIGMA High Speed Zoom,18-35mm_T2_29mm,29.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 18-35 T2,range exact,False
+SIGMA High Speed Zoom,18-35mm_T2_30mm,30.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 18-35 T2,range exact,False
+SIGMA High Speed Zoom,18-35mm_T2_31mm,31.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 18-35 T2,range exact,False
+SIGMA High Speed Zoom,18-35mm_T2_32mm,32.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 18-35 T2,range exact,False
+SIGMA High Speed Zoom,18-35mm_T2_35mm,35.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 18-35 T2,range exact,False
+SIGMA High Speed Zoom,50-100mm_T2 100mm,100.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 50-100 T2,range exact,False
+SIGMA High Speed Zoom,50-100mm_T2_50mm,50.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 50-100 T2,range exact,False
+SIGMA High Speed Zoom,50-100mm_T2_54mm,54.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 50-100 T2,range exact,False
+SIGMA High Speed Zoom,50-100mm_T2_56mm,56.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 50-100 T2,range exact,False
+SIGMA High Speed Zoom,50-100mm_T2_58mm,58.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 50-100 T2,range exact,False
+SIGMA High Speed Zoom,50-100mm_T2_60mm,60.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 50-100 T2,range exact,False
+SIGMA High Speed Zoom,50-100mm_T2_62mm,62.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 50-100 T2,range exact,False
+SIGMA High Speed Zoom,50-100mm_T2_64mm,64.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 50-100 T2,range exact,False
+SIGMA High Speed Zoom,50-100mm_T2_66mm,66.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 50-100 T2,range exact,False
+SIGMA High Speed Zoom,50-100mm_T2_68mm,68.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 50-100 T2,range exact,False
+SIGMA High Speed Zoom,50-100mm_T2_70mm,70.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 50-100 T2,range exact,False
+SIGMA High Speed Zoom,50-100mm_T2_72mm,72.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 50-100 T2,range exact,False
+SIGMA High Speed Zoom,50-100mm_T2_75mm,75.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 50-100 T2,range exact,False
+SIGMA High Speed Zoom,50-100mm_T2_80mm,80.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 50-100 T2,range exact,False
+SIGMA High Speed Zoom,50-100mm_T2_85mm,85.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 50-100 T2,range exact,False
+SIGMA High Speed Zoom,50-100mm_T2_90mm,90.0,True,True,False,True,AUTO,SIGMA,High Speed Zoom 50-100 T2,range exact,False
+Tokina CINEMA ATX,11-16mm_T3_11mm,11.0,True,True,False,True,AUTO,Tokina,Cinema AT-X 11-16 T3,11-16 range exact,False
+Tokina CINEMA ATX,11-16mm_T3_12mm,12.0,True,True,False,True,AUTO,Tokina,Cinema AT-X 11-16 T3,11-16 range exact,False
+Tokina CINEMA ATX,11-16mm_T3_13mm,13.0,True,True,False,True,AUTO,Tokina,Cinema AT-X 11-16 T3,11-16 range exact,False
+Tokina CINEMA ATX,11-16mm_T3_14mm,14.0,True,True,False,True,AUTO,Tokina,Cinema AT-X 11-16 T3,11-16 range exact,False
+Tokina CINEMA ATX,11-16mm_T3_15mm,15.0,True,True,False,True,AUTO,Tokina,Cinema AT-X 11-16 T3,11-16 range exact,False
+Tokina CINEMA ATX,11-16mm_T3_16mm,16.0,True,True,False,True,AUTO,Tokina,Cinema AT-X 11-16 T3,11-16 range exact,False
+Tokina VISTA,18mm T1.5,18.0,True,True,False,True,AUTO,Tokina,VISTA Prime,legacy source series -> standard VISTA Prime; not VISTA ONE/P,False
+Tokina VISTA,25mm T1.5,25.0,True,True,False,True,AUTO,Tokina,VISTA Prime,legacy source series -> standard VISTA Prime; not VISTA ONE/P,False
+Tokina VISTA,35mm T1.5,35.0,True,True,False,True,AUTO,Tokina,VISTA Prime,legacy source series -> standard VISTA Prime; not VISTA ONE/P,False
+Tokina VISTA,50mm T1.5,50.0,True,True,False,True,AUTO,Tokina,VISTA Prime,legacy source series -> standard VISTA Prime; not VISTA ONE/P,False
+Tokina VISTA,85mm T1.5,85.0,True,True,False,True,AUTO,Tokina,VISTA Prime,legacy source series -> standard VISTA Prime; not VISTA ONE/P,False
+ZEISS CZ.2,15-30mm_T2.9_15mm,15.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,range exact,False
+ZEISS CZ.2,15-30mm_T2.9_16mm,16.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,range exact,False
+ZEISS CZ.2,15-30mm_T2.9_17mm,17.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,range exact,False
+ZEISS CZ.2,15-30mm_T2.9_18mm,18.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,range exact,False
+ZEISS CZ.2,15-30mm_T2.9_19mm,19.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,range exact,False
+ZEISS CZ.2,15-30mm_T2.9_20mm,20.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,range exact,False
+ZEISS CZ.2,15-30mm_T2.9_21mm,21.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,range exact,False
+ZEISS CZ.2,15-30mm_T2.9_22mm,22.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,range exact,False
+ZEISS CZ.2,15-30mm_T2.9_23mm,23.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,range exact,False
+ZEISS CZ.2,15-30mm_T2.9_24mm,24.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,range exact,False
+ZEISS CZ.2,15-30mm_T2.9_25mm,25.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,range exact,False
+ZEISS CZ.2,15-30mm_T2.9_26mm,26.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,range exact,False
+ZEISS CZ.2,15-30mm_T2.9_27mm,27.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,range exact,False
+ZEISS CZ.2,15-30mm_T2.9_28mm,28.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,range exact,False
+ZEISS CZ.2,15-30mm_T2.9_30mm,30.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 15-30 T2.9,range exact,False
+ZEISS CZ.2,28-80mm_T2.9_28mm,28.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,range exact,False
+ZEISS CZ.2,28-80mm_T2.9_30mm,30.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,range exact,False
+ZEISS CZ.2,28-80mm_T2.9_35mm,35.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,range exact,False
+ZEISS CZ.2,28-80mm_T2.9_40mm,40.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,range exact,False
+ZEISS CZ.2,28-80mm_T2.9_45mm,45.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,range exact,False
+ZEISS CZ.2,28-80mm_T2.9_50mm,50.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,range exact,False
+ZEISS CZ.2,28-80mm_T2.9_55mm,55.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,range exact,False
+ZEISS CZ.2,28-80mm_T2.9_60mm,60.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,range exact,False
+ZEISS CZ.2,28-80mm_T2.9_65mm,65.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,range exact,False
+ZEISS CZ.2,28-80mm_T2.9_70mm,70.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,range exact,False
+ZEISS CZ.2,28-80mm_T2.9_75mm,75.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,range exact,False
+ZEISS CZ.2,28-80mm_T2.9_80mm,80.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 28-80 T2.9,range exact,False
+ZEISS CZ.2,70-200mm_T2.9 100mm,100.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,range exact,False
+ZEISS CZ.2,70-200mm_T2.9 110mm,110.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,range exact,False
+ZEISS CZ.2,70-200mm_T2.9 120mm,120.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,range exact,False
+ZEISS CZ.2,70-200mm_T2.9 130mm,130.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,range exact,False
+ZEISS CZ.2,70-200mm_T2.9 140mm,140.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,range exact,False
+ZEISS CZ.2,70-200mm_T2.9 150mm,150.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,range exact,False
+ZEISS CZ.2,70-200mm_T2.9 160mm,160.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,range exact,False
+ZEISS CZ.2,70-200mm_T2.9 170mm,170.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,range exact,False
+ZEISS CZ.2,70-200mm_T2.9 180mm,180.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,range exact,False
+ZEISS CZ.2,70-200mm_T2.9 190mm,190.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,range exact,False
+ZEISS CZ.2,70-200mm_T2.9 200mm,200.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,range exact,False
+ZEISS CZ.2,70-200mm_T2.9_70mm,70.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,range exact,False
+ZEISS CZ.2,70-200mm_T2.9_80mm,80.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,range exact,False
+ZEISS CZ.2,70-200mm_T2.9_90mm,90.0,True,True,False,True,AUTO,ZEISS,Cinema Zoom CZ.2 70-200 T2.9,range exact,False
+ZEISS Compact Prime CP.2, 100mm T2.1,100.0,True,True,False,True,AUTO,ZEISS,Compact Prime CP.2,series exact,False
+ZEISS Compact Prime CP.2, 135mm T2.1,135.0,True,True,False,True,AUTO,ZEISS,Compact Prime CP.2,series exact,False
+ZEISS Compact Prime CP.2,15mm_T2.9,15.0,True,True,False,True,AUTO,ZEISS,Compact Prime CP.2,series exact,False
+ZEISS Compact Prime CP.2,18mm_T3.6,18.0,True,True,False,True,AUTO,ZEISS,Compact Prime CP.2,series exact,False
+ZEISS Compact Prime CP.2,21mm_T2.9,21.0,True,True,False,True,AUTO,ZEISS,Compact Prime CP.2,series exact,False
+ZEISS Compact Prime CP.2,25mm_T2.1,25.0,True,True,False,True,AUTO,ZEISS,Compact Prime CP.2,series exact,False
+ZEISS Compact Prime CP.2,28mm T2.1,28.0,True,True,False,True,AUTO,ZEISS,Compact Prime CP.2,series exact,False
+ZEISS Compact Prime CP.2,35mm T1.5,35.0,True,True,False,True,AUTO,ZEISS,Compact Prime CP.2,series exact,False
+ZEISS Compact Prime CP.2,50mm T1.5,50.0,True,True,False,True,AUTO,ZEISS,Compact Prime CP.2,series exact,False
+ZEISS Compact Prime CP.2,85mm T1.5,85.0,True,True,False,True,AUTO,ZEISS,Compact Prime CP.2,series exact,False
+ZEISS SUPER SPEED(ファースト),18mm_T1.3,18.0,True,True,False,True,AUTO,ZEISS,Super Speed MKII,Legacy first-generation empirical capture intentionally reused for MKII REAL TEST; provenance retained,False
+ZEISS SUPER SPEED(ファースト),25mm_T1.3,25.0,True,True,False,True,AUTO,ZEISS,Super Speed MKII,Legacy first-generation empirical capture intentionally reused for MKII REAL TEST; provenance retained,False
+ZEISS SUPER SPEED(ファースト),35mm_T1.3,35.0,True,True,False,True,AUTO,ZEISS,Super Speed MKII,Legacy first-generation empirical capture intentionally reused for MKII REAL TEST; provenance retained,False
+ZEISS SUPER SPEED(ファースト),50mm_T1.3,50.0,True,True,False,True,AUTO,ZEISS,Super Speed MKII,Legacy first-generation empirical capture intentionally reused for MKII REAL TEST; provenance retained,False
+ZEISS SUPER SPEED(ファースト),65mm T1.3,65.0,True,True,False,True,AUTO,ZEISS,Super Speed MKII,Legacy first-generation empirical capture intentionally reused for MKII REAL TEST; provenance retained,False
+ZEISS SUPER SPEED(ファースト),85mm_T1.3,85.0,True,True,False,True,AUTO,ZEISS,Super Speed MKII,Legacy first-generation empirical capture intentionally reused for MKII REAL TEST; provenance retained,False
