@@ -1,0 +1,21 @@
+FIX12 REMOVE GREEN STATE BADGE
+
+Root cause:
+- The visible green REAL TEST pill was not #realBadge.
+- It was the separate control-bar status element:
+  <span class="realStateBadge" id="realStateBadge">...</span>
+- FIX11 removed #realBadge (image-overlay badge), so the green control-bar pill remained.
+
+Patch:
+- Removed #realStateBadge from the control bar.
+- Preserved OPTICAL MAP / REAL TEST mode buttons.
+- Preserved OPEN / DOWN buttons.
+- Preserved 10px spacing above REAL TEST info panel.
+- Guarded remaining JS badge writes so removal cannot stop render.
+- No camera/lens/data/REAL TEST mapping changes.
+
+Validation:
+- realStateBadge DOM element absent: YES
+- modeReal / irisOpen / irisDown present: YES
+- DOM helper preserved: YES
+- JS syntax: PASS
