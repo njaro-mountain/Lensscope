@@ -43,3 +43,6 @@ CSV POSITIONS WITH NO SUPPLIED WEBP CAPTURE
 
 OPEN EXISTS / DOWN MISSING
 - FUJINON_ZK / 19-90mm_T2.9_22mm
+FIX1: Restored the V110 DOM helper definitions `$` / `$$` that were accidentally omitted during V111 beta integration. This omission caused a startup ReferenceError before the first render, leaving all selectors blank.
+
+FIX2: Corrected focal parser for legacy directories such as 25mm_T1.3 (underscore after mm). Rebuilt embedded/external Real Test mappings from V110. AUTO mappings with valid focal: 618 across 57 LensScope families.
