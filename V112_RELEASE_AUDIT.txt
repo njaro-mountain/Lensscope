@@ -1,0 +1,33 @@
+LensScope V112 RELEASE
+Baseline: V111 FIX18 + V112 Framing Match Prototype 2
+
+Release scope
+- SETUP preserved
+- COVERAGE MAP preserved
+- OPTICAL MAP / REAL TEST behavior preserved from V111 FIX18
+- Mobile search VisualViewport fix preserved
+- New Framing Match replaces the former lower-panel workflow
+- Setup A: Camera / Recording Format / source focal length
+- Setup B: Camera / Recording Format
+- Result: theoretical horizontal-FOV matched focal length
+- Requires known physical active widths for both selected formats
+
+Framing Match equation
+  f_target = f_source * activeWidth_target / activeWidth_source
+
+Interpretation
+- Theoretical horizontal framing match
+- Same camera position assumed
+- Does not claim pixel-perfect real-lens matching; distortion, breathing, and actual effective focal length can differ.
+
+Pre-release calculation audit previously completed in project discussion:
+- 383 formats with usable physical dimensions
+- 1,466,890 A/B/focal test cases
+- A -> B -> A max focal round-trip error ~2.27e-13 mm
+- max HFOV mismatch ~2.5e-14 degrees
+
+Release checks
+- JavaScript syntax: PASS
+- $ / $$ helper preserved: PASS
+- Prototype labeling removed: PASS
+- V111 REAL TEST data remains embedded: PASS

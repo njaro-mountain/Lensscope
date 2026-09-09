@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#090a0c">
-<title>LensScope V112 — Framing Match Prototype</title>
+<title>LensScope V112</title>
 <style>
 :root{
   --bg:#08090b;--panel:#111318;--panel2:#16191f;--line:#282c34;
@@ -55,7 +55,7 @@ h1{font-size:clamp(30px,4vw,50px);line-height:1.02;letter-spacing:-.045em;margin
 .big{font-size:34px;font-weight:850;letter-spacing:-.04em;margin:15px 0 3px}
 
 
-/* V112 Framing Match prototype */
+/* LensScope V112 · Framing Match */
 .matchPanel{margin-top:14px}
 .matchGrid{display:grid;grid-template-columns:minmax(0,1fr) 64px minmax(0,1fr);gap:14px;padding:16px}
 .matchSide{border:1px solid var(--line);border-radius:12px;background:#0d0f13;padding:14px;min-width:0}
@@ -193,7 +193,7 @@ h1{font-size:clamp(30px,4vw,50px);line-height:1.02;letter-spacing:-.045em;margin
 <body>
 <div class="shell">
 <header>
-  <div class="brand"><span class="mark"></span>LensScope <small>V111 RECOVERY · FIX5 HOTFIX A · FIX8 641 CLEAN · FIX9 UX · FIX10 REAL UX · FIX11 CONTROL SPACING · FIX12 REMOVE STATE BADGE · FIX13 REAL BUTTON REPAIR · FIX14 OPEN CLOSE · FIX15 AUTO DESQUEEZE · FIX16 VAROTAL PATH</small></div>
+  <div class="brand"><span class="mark"></span>LensScope <small>V112 · FRAMING MATCH · REAL TEST</small></div>
   <span class="beta">MOBILE + PC</span>
 </header>
 
@@ -282,9 +282,9 @@ h1{font-size:clamp(30px,4vw,50px);line-height:1.02;letter-spacing:-.045em;margin
   </div>
   <div class="matchResult">
     <div>
-      <div class="matchResultLabel">Matched focal length · Horizontal FOV</div>
+      <div class="matchResultLabel">Matched focal length · Theoretical horizontal FOV match</div>
       <div class="matchResultValue" id="matchResultValue">—</div>
-      <div class="matchResultMeta" id="matchResultMeta">Two explicit setups. Same camera position / same horizontal framing.</div>
+      <div class="matchResultMeta" id="matchResultMeta">Theoretical match · same camera position / same horizontal framing.</div>
     </div>
     <div class="matchConfidence" id="matchConfidence">Waiting for target</div>
   </div>
@@ -598,8 +598,8 @@ function renderFramingMatch(){
   }
   const matched=fl*Number(mf.w)/Number(sf.w);
   $("#matchResultValue").textContent=`${matched.toFixed(1)} mm`;
-  $("#matchResultMeta").textContent=`A: ${sc.name} / ${sf.name} / ${fl} mm → B: ${mc.name} / ${mf.name} / ${matched.toFixed(1)} mm. Same camera position, horizontal FOV matched.`;
-  $("#matchConfidence").textContent='CALCULATED FROM ACTIVE WIDTH';
+  $("#matchResultMeta").textContent=`A: ${sc.name} / ${sf.name} / ${fl} mm → B: ${mc.name} / ${mf.name} / ${matched.toFixed(1)} mm. Theoretical horizontal FOV match · same camera position.`;
+  $("#matchConfidence").textContent='THEORETICAL MATCH · ACTIVE WIDTH';
 }
 
 function render(){
@@ -960,7 +960,7 @@ if(state.sourceCamera<0) state.sourceCamera=state.camera; state.sourceFormat=0; 
 state.matchCamera=DATA.cameras.findIndex(c=>/V-RAPTOR 8K VV/i.test(c.name));
 if(state.matchCamera<0) state.matchCamera=0; state.matchFormat=0; render();
 // V19: 100 lens series; optical type is explicitly derived only from verified squeeze. Camera anamorphic-format labels are separated from lens optical type.
-// V112 PROTO2: keep SETUP + COVERAGE MAP intact; Framing Match uses two explicit independent camera/format setups plus source focal length.
+// V112 RELEASE: SETUP + COVERAGE MAP preserved; Framing Match uses two explicit independent camera/format setups plus source focal length.
 // V111 FIX18: mobile picker follows VisualViewport so suggestions stay above the software keyboard.
 // V111 FIX17: empirical-view status, captured-focal zoom stepping, ASCII-safe empirical assets.
 // V111 prototype fix: the REAL TEST metadata is embedded in this HTML.
