@@ -1,0 +1,114 @@
+{
+  "version": "V111 REALTEST BETA",
+  "stats": {
+    "webpFiles": 1301,
+    "sourceSeries": 40,
+    "sourceLensPositions": 662,
+    "csvFiles": 662,
+    "uniqueCalibrationRows": 1,
+    "mappingStatus": {
+      "AUTO": 630,
+      "REVIEW": 17,
+      "NO_TARGET": 9,
+      "GENERATION_CONFLICT": 6
+    },
+    "positionsWithImages": 650,
+    "positionsWithoutImages": 12,
+    "openImages": 650,
+    "downImages": 649,
+    "mappedLensScopeFamilies": 58
+  },
+  "collisions": [],
+  "quarantinedGroups": {
+    "Cooke_Panchro": {
+      "positions": 12,
+      "image_positions": 12,
+      "targets": [],
+      "notes": [
+        "ambiguous: legacy Panchro capture must not be auto-linked to PANCHRO/i Classic FF vs S35 without provenance"
+      ]
+    },
+    "KOWA_PROMINAR": {
+      "positions": 9,
+      "image_positions": 9,
+      "targets": [],
+      "notes": [
+        "KOWA PROMINAR 25-125 capture library exists but no corresponding V110 lens family"
+      ]
+    },
+    "SERVICE VISION": {
+      "positions": 5,
+      "image_positions": 5,
+      "targets": [
+        "SERVICE VISION Scorpiolens Anamorphic FFA 2x"
+      ],
+      "notes": [
+        "likely Scorpiolens Anamorphic FFA 2x from 35/40/50/75/100 set, but source folder is generic"
+      ]
+    },
+    "ZEISS SUPER SPEED(ファースト)": {
+      "positions": 6,
+      "image_positions": 6,
+      "targets": [],
+      "notes": [
+        "source explicitly says ファースト (first); V110 has Super Speed MKII only. Do not auto-link generations."
+      ]
+    }
+  },
+  "missingCapturePositions": [
+    {
+      "series": "Alura LIGHT WEIGHT",
+      "dir": "30-80mm_T2.8_30mm"
+    },
+    {
+      "series": "Alura LIGHT WEIGHT",
+      "dir": "30-80mm_T2.8_35mm"
+    },
+    {
+      "series": "Alura LIGHT WEIGHT",
+      "dir": "30-80mm_T2.8_40mm"
+    },
+    {
+      "series": "Alura LIGHT WEIGHT",
+      "dir": "30-80mm_T2.8_45mm"
+    },
+    {
+      "series": "Alura LIGHT WEIGHT",
+      "dir": "30-80mm_T2.8_50mm"
+    },
+    {
+      "series": "Alura LIGHT WEIGHT",
+      "dir": "30-80mm_T2.8_55mm"
+    },
+    {
+      "series": "Alura LIGHT WEIGHT",
+      "dir": "30-80mm_T2.8_60mm"
+    },
+    {
+      "series": "Alura LIGHT WEIGHT",
+      "dir": "30-80mm_T2.8_65mm"
+    },
+    {
+      "series": "Alura LIGHT WEIGHT",
+      "dir": "30-80mm_T2.8_70mm"
+    },
+    {
+      "series": "Alura LIGHT WEIGHT",
+      "dir": "30-80mm_T2.8_80mm"
+    },
+    {
+      "series": "Cooke_S4",
+      "dir": "27mm_T2"
+    },
+    {
+      "series": "Leica THALIA",
+      "dir": "55mm T2.8"
+    }
+  ],
+  "missingDownPositions": [
+    {
+      "series": "FUJINON_ZK",
+      "dir": "19-90mm_T2.9_22mm"
+    }
+  ]
+}
