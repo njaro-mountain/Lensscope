@@ -1,0 +1,7 @@
+FIX11 CONTROL SPACING
+- Removed duplicate green REAL TEST status pill.
+- Primary REAL TEST mode button remains.
+- OPEN / DOWN remain.
+- Added 10px gap above the REAL TEST information area.
+- No data changes.
+- JS syntax PASS.

@@ -148,12 +148,14 @@ h1{font-size:clamp(30px,4vw,50px);line-height:1.02;letter-spacing:-.045em;margin
 .stage.realMode #sensor .tl{left:6px;top:6px}.stage.realMode #sensor .br{right:6px;bottom:6px}
 @media(max-width:560px){.realModeBar{padding:8px 10px 0}.modeBtn,.irisBtn{padding:7px 9px}.realInfo{margin:0 10px 10px}}
 
+
+#realInfo{margin-top:10px!important}
 </style>
 </head>
 <body>
 <div class="shell">
 <header>
-  <div class="brand"><span class="mark"></span>LensScope <small>V111 RECOVERY · FIX5 HOTFIX A · FIX8 641 CLEAN · FIX9 UX · FIX10 REAL UX</small></div>
+  <div class="brand"><span class="mark"></span>LensScope <small>V111 RECOVERY · FIX5 HOTFIX A · FIX8 641 CLEAN · FIX9 UX · FIX10 REAL UX · FIX11 CONTROL SPACING</small></div>
   <span class="beta">MOBILE + PC</span>
 </header>
 
@@ -197,7 +199,7 @@ h1{font-size:clamp(30px,4vw,50px);line-height:1.02;letter-spacing:-.045em;margin
     <div class="realInfo" id="realInfo"></div>
     <div class="vizWrap">
       <div class="viz">
-        <div class="realTestLayer" id="realTestLayer"><img class="realTestImg" id="realTestImg" alt="Real-world vignetting capture" loading="lazy" decoding="async"><div class="realTestShade"></div><span class="realBadge" id="realBadge"></span></div>
+        <div class="realTestLayer" id="realTestLayer"><img class="realTestImg" id="realTestImg" alt="Real-world vignetting capture" loading="lazy" decoding="async"><div class="realTestShade"></div></div>
         <div class="circle" id="circle"></div>
         <div class="rectCov" id="rectCov"></div>
         <div class="sensor" id="sensor"><span class="tl" id="sensorName"></span><span class="br" id="formatName"></span></div>
@@ -475,7 +477,7 @@ function updateRealTestUI(c,f,l,fl){
  img.style.top=(50-(rt.tilt/rt.sampleSensorH)*100)+'%';
  const layer=$("#realTestLayer"); layer.style.width='74.8%'; layer.style.aspectRatio=`${rt.sampleSensorW}/${rt.sampleSensorH}`;
  if(formatHasPhysicalDims(f)) $("#sensor").style.width=Math.min(100,100*f.w/rt.sampleSensorW*0.748)+'%';
- $("#realBadge").textContent=`${l.name.toUpperCase()} · ${fl}mm · ${irisLabel}`;
+ if($("#realBadge")) $("#realBadge").textContent=`${l.name.toUpperCase()} · ${fl}mm · ${irisLabel}`;
  $("#model").textContent='REAL CAPTURE / LEGACY TEST'; $("#model").classList.add('estimateNote');
  return true;
 }
