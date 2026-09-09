@@ -46,3 +46,5 @@ OPEN EXISTS / DOWN MISSING
 FIX1: Restored the V110 DOM helper definitions `$` / `$$` that were accidentally omitted during V111 beta integration. This omission caused a startup ReferenceError before the first render, leaving all selectors blank.
 
 FIX2: Corrected focal parser for legacy directories such as 25mm_T1.3 (underscore after mm). Rebuilt embedded/external Real Test mappings from V110. AUTO mappings with valid focal: 618 across 57 LensScope families.
+
+FIX3: Zoom REAL TEST UX: REAL TEST is enabled when any tested focal exists; entering REAL TEST snaps only to the nearest actually captured focal (never interpolates imagery). In REAL mode, zooms show explicit TESTED FOCALS chips. Prime/missing exact captures show NO REAL CAPTURE. Optical Map continuous zoom behavior remains unchanged.

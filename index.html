@@ -105,6 +105,12 @@ h1{font-size:clamp(30px,4vw,50px);line-height:1.02;letter-spacing:-.045em;margin
 .zoomInlineNum{width:100%;box-sizing:border-box;background:#11151b;border:1px solid var(--line);border-radius:8px;color:#fff;padding:9px 8px;font-size:15px;font-weight:700;text-align:right}
 .zoomInlineUnit{font-size:12px;color:var(--muted)}
 .zoomEnds{display:flex;justify-content:space-between;color:var(--muted);font-size:10px;margin-top:3px}
+.testedFocals{display:none;margin-top:10px;padding-top:9px;border-top:1px solid var(--line)}
+.testedFocals.on{display:block}
+.testedFocalsLabel{font-size:9px;letter-spacing:.14em;text-transform:uppercase;color:#ffbd38;margin-bottom:7px}
+.testedFocalsBtns{display:flex;flex-wrap:wrap;gap:6px}
+.testedFocalBtn{border:1px solid #3b424d;background:#11151b;color:#c9d0da;border-radius:999px;padding:6px 9px;font-size:11px;font-weight:700;cursor:pointer}
+.testedFocalBtn:hover,.testedFocalBtn.on{border-color:#ffb000;color:#fff;background:#211a0b}
 @media(max-width:560px){
  .zoomPick{padding:13px 14px}
  .zoomPickValue{font-size:21px}
@@ -140,7 +146,7 @@ h1{font-size:clamp(30px,4vw,50px);line-height:1.02;letter-spacing:-.045em;margin
 <body>
 <div class="shell">
 <header>
-  <div class="brand"><span class="mark"></span>LensScope <small>V111 BETA · REAL TEST LIBRARY</small></div>
+  <div class="brand"><span class="mark"></span>LensScope <small>V111 BETA FIX3 · REAL TEST LIBRARY</small></div>
   <span class="beta">MOBILE + PC</span>
 </header>
 
@@ -166,6 +172,7 @@ h1{font-size:clamp(30px,4vw,50px);line-height:1.02;letter-spacing:-.045em;margin
           <span class="zoomInlineUnit">mm</span>
         </div>
         <div class="zoomEnds"><span id="zoomInlineMin"></span><span id="zoomInlineMax"></span></div>
+        <div class="testedFocals" id="testedFocals"><div class="testedFocalsLabel">REAL TEST · TESTED FOCALS</div><div class="testedFocalsBtns" id="testedFocalsBtns"></div></div>
       </div>
       <div class="meta" id="meta"></div>
     </div>
@@ -399,12 +406,24 @@ function realTestFor(l,fl){
  if(!rv||!rv.focals) return null;
  return rv.focals[String(fl)]||null;
 }
+function realTestFocals(l){
+ const rv=l&&l.realWorldVignetting;
+ if(!rv||!rv.focals) return [];
+ return Object.entries(rv.focals).filter(([_,v])=>v&&(v.open||v.down)).map(([f])=>Number(f)).filter(Number.isFinite).sort((a,b)=>a-b);
+}
+function nearestRealTestFocal(l,fl){
+ const pts=realTestFocals(l); if(!pts.length) return null;
+ return pts.reduce((best,x)=>Math.abs(x-fl)<Math.abs(best-fl)?x:best,pts[0]);
+}
 function updateRealTestUI(c,f,l,fl){
  const rt=realTestFor(l,fl), stage=document.querySelector('.stage');
  const realBtn=$("#modeReal"), openBtn=$("#irisOpen"), downBtn=$("#irisDown");
- const hasAny=!!(rt && (rt.open||rt.down));
- realBtn.disabled=!hasAny;
- if(!hasAny && state.viewMode==='real') state.viewMode='optical';
+ const tested=realTestFocals(l);
+ const hasExact=!!(rt && (rt.open||rt.down));
+ const hasLibrary=tested.length>0;
+ const hasAny=hasExact;
+ realBtn.disabled=!hasLibrary;
+ if(!hasLibrary && state.viewMode==='real') state.viewMode='optical';
  if(rt && !rt[state.iris]) state.iris=rt.open?'open':'down';
  const active=state.viewMode==='real' && hasAny;
  $("#modeOptical").classList.toggle('on',!active); realBtn.classList.toggle('on',active);
@@ -413,7 +432,7 @@ function updateRealTestUI(c,f,l,fl){
  stage.classList.toggle('realMode',active);
  $("#realTestLayer").classList.toggle('on',active);
  $("#realInfo").classList.toggle('on',hasAny);
- if(!hasAny){ $("#realInfo").innerHTML='REAL TEST is available at legacy VENICE capture focal points mapped with high confidence. Review/conflict groups stay disabled.'; return false; }
+ if(!hasAny){ const msg=hasLibrary ? `NO REAL CAPTURE at ${fl} mm · Tested: ${tested.join(' / ')} mm` : 'NO REAL CAPTURE · No high-confidence legacy VENICE mapping for this lens/focal.'; $("#realInfo").classList.toggle('on',true); $("#realInfo").innerHTML=msg; return false; }
  const irisLabel=state.iris==='open'?'OPEN':'DOWN';
  $("#realInfo").innerHTML=`<b>REAL-WORLD VIGNETTING TEST</b> · ${l.name} ${fl} mm · ${irisLabel}<br>Legacy capture calibrated at ${rt.sampleSensorW}×${rt.sampleSensorH} mm. CSV transform: PAN ${rt.pan}, TILT ${rt.tilt}, WEXP ${rt.wexp}, HEXP ${rt.hexp}. <span class="realWarn">This is empirical imagery, not a replacement for manufacturer IC data.</span>`;
  if(active){
@@ -465,9 +484,14 @@ function render(){
    }
    $("#zoomInlineMin").textContent=`${mn} mm`;
    $("#zoomInlineMax").textContent=`${mx} mm`;
+   const tested=realTestFocals(l), tf=$("#testedFocals"), tfb=$("#testedFocalsBtns");
+   tf.classList.toggle('on',state.viewMode==='real' && tested.length>0);
+   tfb.innerHTML=tested.map(x=>`<button class="testedFocalBtn ${Number(fl)===x?'on':''}" data-real-focal="${x}">${x} mm</button>`).join('');
+   tfb.querySelectorAll('[data-real-focal]').forEach(b=>b.onclick=()=>{state.focal=Number(b.dataset.realFocal);render()});
  } else {
    focalPick.style.display="";
    zoomPick.classList.remove("on");
+   $("#testedFocals").classList.remove('on');
  }
  $("#sensorName").textContent=c.name.toUpperCase();$("#formatName").textContent=f.name;
  const tstop=tstopFor(l,fl); const front=(l.frontByFocal&&l.frontByFocal[String(fl)])||l.front||"—";
@@ -709,7 +733,7 @@ $("#zoomInlineNum").onchange=e=>applyInlineZoom(e.target.value);
 
 
 $("#modeOptical").onclick=()=>{state.viewMode='optical';render()};
-$("#modeReal").onclick=()=>{if(!$("#modeReal").disabled){state.viewMode='real';render()}};
+$("#modeReal").onclick=()=>{if(!$("#modeReal").disabled){const {l,fl}=current(); if(hasLensTag(l,'zoom')&&!realTestFor(l,fl)){const n=nearestRealTestFocal(l,fl); if(n!==null) state.focal=n;} state.viewMode='real';render()}};
 $("#irisOpen").onclick=()=>{if(!$("#irisOpen").disabled){state.iris='open';render()}};
 $("#irisDown").onclick=()=>{if(!$("#irisDown").disabled){state.iris='down';render()}};
 
