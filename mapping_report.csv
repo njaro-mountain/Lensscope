@@ -293,18 +293,18 @@ Cooke Anamorphic:i,32mm_T2.3,32.0,True,True,False,True,AUTO,Cooke,S35 Anamorphic
 Cooke Anamorphic:i,40mm_T2.3,40.0,True,True,False,True,AUTO,Cooke,S35 Anamorphic/i 2x,source focal set matches Cooke S35 Anamorphic/i; not FF Plus,False
 Cooke Anamorphic:i,50mm_T2.3,50.0,True,True,False,True,AUTO,Cooke,S35 Anamorphic/i 2x,source focal set matches Cooke S35 Anamorphic/i; not FF Plus,False
 Cooke Anamorphic:i,75mm_T2.3,75.0,True,True,False,True,AUTO,Cooke,S35 Anamorphic/i 2x,source focal set matches Cooke S35 Anamorphic/i; not FF Plus,False
-Cooke_Panchro, 100mm_T2.6,100.0,True,True,False,True,REVIEW,,,ambiguous: legacy Panchro capture must not be auto-linked to PANCHRO/i Classic FF vs S35 without provenance,False
-Cooke_Panchro, 135mm_T2.8,135.0,True,True,False,True,REVIEW,,,ambiguous: legacy Panchro capture must not be auto-linked to PANCHRO/i Classic FF vs S35 without provenance,False
-Cooke_Panchro, 152mm_T3,152.0,True,True,False,True,REVIEW,,,ambiguous: legacy Panchro capture must not be auto-linked to PANCHRO/i Classic FF vs S35 without provenance,False
-Cooke_Panchro,18mm_T2.2,18.0,True,True,False,True,REVIEW,,,ambiguous: legacy Panchro capture must not be auto-linked to PANCHRO/i Classic FF vs S35 without provenance,False
-Cooke_Panchro,21mm_T2.2,21.0,True,True,False,True,REVIEW,,,ambiguous: legacy Panchro capture must not be auto-linked to PANCHRO/i Classic FF vs S35 without provenance,False
-Cooke_Panchro,25mm_T2.2,25.0,True,True,False,True,REVIEW,,,ambiguous: legacy Panchro capture must not be auto-linked to PANCHRO/i Classic FF vs S35 without provenance,False
-Cooke_Panchro,27mm_T2.2,27.0,True,True,False,True,REVIEW,,,ambiguous: legacy Panchro capture must not be auto-linked to PANCHRO/i Classic FF vs S35 without provenance,False
-Cooke_Panchro,32mm_T2.2,32.0,True,True,False,True,REVIEW,,,ambiguous: legacy Panchro capture must not be auto-linked to PANCHRO/i Classic FF vs S35 without provenance,False
-Cooke_Panchro,40mm_T2.2,40.0,True,True,False,True,REVIEW,,,ambiguous: legacy Panchro capture must not be auto-linked to PANCHRO/i Classic FF vs S35 without provenance,False
-Cooke_Panchro,50mm_T2.2,50.0,True,True,False,True,REVIEW,,,ambiguous: legacy Panchro capture must not be auto-linked to PANCHRO/i Classic FF vs S35 without provenance,False
-Cooke_Panchro,65mm_Macro_T2.4,65.0,True,True,False,True,REVIEW,,,ambiguous: legacy Panchro capture must not be auto-linked to PANCHRO/i Classic FF vs S35 without provenance,False
-Cooke_Panchro,75mm_T2.2,75.0,True,True,False,True,REVIEW,,,ambiguous: legacy Panchro capture must not be auto-linked to PANCHRO/i Classic FF vs S35 without provenance,False
+Cooke_Panchro, 100mm_T2.6,100.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
+Cooke_Panchro, 135mm_T2.8,135.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
+Cooke_Panchro, 152mm_T3,152.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
+Cooke_Panchro,18mm_T2.2,18.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
+Cooke_Panchro,21mm_T2.2,21.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
+Cooke_Panchro,25mm_T2.2,25.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
+Cooke_Panchro,27mm_T2.2,27.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
+Cooke_Panchro,32mm_T2.2,32.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
+Cooke_Panchro,40mm_T2.2,40.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
+Cooke_Panchro,50mm_T2.2,50.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
+Cooke_Panchro,65mm_Macro_T2.4,65.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
+Cooke_Panchro,75mm_T2.2,75.0,True,True,False,True,AUTO,Cooke,PANCHRO/i Classic S35,User-confirmed legacy capture corresponds to S35 Panchro,False
 Cooke_S4, 100mm T2,100.0,True,True,False,True,AUTO,Cooke,S4/i,series/focal set exact,False
 Cooke_S4, 135mm T2,135.0,True,True,False,True,AUTO,Cooke,S4/i,series/focal set exact,False
 Cooke_S4, 150mm T2,150.0,True,True,False,True,AUTO,Cooke,S4/i,series/focal set exact,False
@@ -521,11 +521,11 @@ Leica VARIO-APO-ELMARIT R,70-180mm_T3_80mm,80.0,True,True,False,True,AUTO,Duclos
 Leica VARIO-APO-ELMARIT R,70-180mm_T3_85mm,85.0,True,True,False,True,AUTO,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,range/model exact; LensScope entry identifies Duclos conversion,False
 Leica VARIO-APO-ELMARIT R,70-180mm_T3_90mm,90.0,True,True,False,True,AUTO,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,range/model exact; LensScope entry identifies Duclos conversion,False
 Leica VARIO-APO-ELMARIT R,70-180mm_T3_95mm,95.0,True,True,False,True,AUTO,Duclos,Leitz 70-180mm T3 VARIO-APO-ELMARIT-R,range/model exact; LensScope entry identifies Duclos conversion,False
-SERVICE VISION, 100mm_T2.2,100.0,True,True,False,True,REVIEW,SERVICE VISION,Scorpiolens Anamorphic FFA 2x,"likely Scorpiolens Anamorphic FFA 2x from 35/40/50/75/100 set, but source folder is generic",False
-SERVICE VISION,35mm_T2.2,35.0,True,True,False,True,REVIEW,SERVICE VISION,Scorpiolens Anamorphic FFA 2x,"likely Scorpiolens Anamorphic FFA 2x from 35/40/50/75/100 set, but source folder is generic",False
-SERVICE VISION,40mm_T2.2,40.0,True,True,False,True,REVIEW,SERVICE VISION,Scorpiolens Anamorphic FFA 2x,"likely Scorpiolens Anamorphic FFA 2x from 35/40/50/75/100 set, but source folder is generic",False
-SERVICE VISION,50mm_T2.2,50.0,True,True,False,True,REVIEW,SERVICE VISION,Scorpiolens Anamorphic FFA 2x,"likely Scorpiolens Anamorphic FFA 2x from 35/40/50/75/100 set, but source folder is generic",False
-SERVICE VISION,75mm_T2.2,75.0,True,True,False,True,REVIEW,SERVICE VISION,Scorpiolens Anamorphic FFA 2x,"likely Scorpiolens Anamorphic FFA 2x from 35/40/50/75/100 set, but source folder is generic",False
+SERVICE VISION, 100mm_T2.2,100.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiolens Anamorphic FFA 2x,User-confirmed generic SERVICE VISION folder corresponds to this lens set,False
+SERVICE VISION,35mm_T2.2,35.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiolens Anamorphic FFA 2x,User-confirmed generic SERVICE VISION folder corresponds to this lens set,False
+SERVICE VISION,40mm_T2.2,40.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiolens Anamorphic FFA 2x,User-confirmed generic SERVICE VISION folder corresponds to this lens set,False
+SERVICE VISION,50mm_T2.2,50.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiolens Anamorphic FFA 2x,User-confirmed generic SERVICE VISION folder corresponds to this lens set,False
+SERVICE VISION,75mm_T2.2,75.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiolens Anamorphic FFA 2x,User-confirmed generic SERVICE VISION folder corresponds to this lens set,False
 SERVICE VISION Scorpiozoom ,138-405 T4.3_138mm,138.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,model/range exact,False
 SERVICE VISION Scorpiozoom ,138-405 T4.3_160mm,160.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,model/range exact,False
 SERVICE VISION Scorpiozoom ,138-405 T4.3_180mm,180.0,True,True,False,True,AUTO,SERVICE VISION,Scorpiozoom Anamorphic FFA 2x 138-405 T4.3,model/range exact,False
@@ -643,9 +643,9 @@ ZEISS Compact Prime CP.2,28mm T2.1,28.0,True,True,False,True,AUTO,ZEISS,Compact 
 ZEISS Compact Prime CP.2,35mm T1.5,35.0,True,True,False,True,AUTO,ZEISS,Compact Prime CP.2,series exact,False
 ZEISS Compact Prime CP.2,50mm T1.5,50.0,True,True,False,True,AUTO,ZEISS,Compact Prime CP.2,series exact,False
 ZEISS Compact Prime CP.2,85mm T1.5,85.0,True,True,False,True,AUTO,ZEISS,Compact Prime CP.2,series exact,False
-ZEISS SUPER SPEED(ファースト),18mm_T1.3,18.0,True,True,False,True,GENERATION_CONFLICT,,,source explicitly says ファースト (first); V110 has Super Speed MKII only. Do not auto-link generations.,False
-ZEISS SUPER SPEED(ファースト),25mm_T1.3,25.0,True,True,False,True,GENERATION_CONFLICT,,,source explicitly says ファースト (first); V110 has Super Speed MKII only. Do not auto-link generations.,False
-ZEISS SUPER SPEED(ファースト),35mm_T1.3,35.0,True,True,False,True,GENERATION_CONFLICT,,,source explicitly says ファースト (first); V110 has Super Speed MKII only. Do not auto-link generations.,False
-ZEISS SUPER SPEED(ファースト),50mm_T1.3,50.0,True,True,False,True,GENERATION_CONFLICT,,,source explicitly says ファースト (first); V110 has Super Speed MKII only. Do not auto-link generations.,False
-ZEISS SUPER SPEED(ファースト),65mm T1.3,65.0,True,True,False,True,GENERATION_CONFLICT,,,source explicitly says ファースト (first); V110 has Super Speed MKII only. Do not auto-link generations.,False
-ZEISS SUPER SPEED(ファースト),85mm_T1.3,85.0,True,True,False,True,GENERATION_CONFLICT,,,source explicitly says ファースト (first); V110 has Super Speed MKII only. Do not auto-link generations.,False
+ZEISS SUPER SPEED(ファースト),18mm_T1.3,18.0,True,True,False,True,AUTO,ZEISS,Super Speed MKII,Legacy first-generation empirical capture intentionally reused for MKII REAL TEST; provenance retained,False
+ZEISS SUPER SPEED(ファースト),25mm_T1.3,25.0,True,True,False,True,AUTO,ZEISS,Super Speed MKII,Legacy first-generation empirical capture intentionally reused for MKII REAL TEST; provenance retained,False
+ZEISS SUPER SPEED(ファースト),35mm_T1.3,35.0,True,True,False,True,AUTO,ZEISS,Super Speed MKII,Legacy first-generation empirical capture intentionally reused for MKII REAL TEST; provenance retained,False
+ZEISS SUPER SPEED(ファースト),50mm_T1.3,50.0,True,True,False,True,AUTO,ZEISS,Super Speed MKII,Legacy first-generation empirical capture intentionally reused for MKII REAL TEST; provenance retained,False
+ZEISS SUPER SPEED(ファースト),65mm T1.3,65.0,True,True,False,True,AUTO,ZEISS,Super Speed MKII,Legacy first-generation empirical capture intentionally reused for MKII REAL TEST; provenance retained,False
+ZEISS SUPER SPEED(ファースト),85mm_T1.3,85.0,True,True,False,True,AUTO,ZEISS,Super Speed MKII,Legacy first-generation empirical capture intentionally reused for MKII REAL TEST; provenance retained,False
