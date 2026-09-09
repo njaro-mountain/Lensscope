@@ -1,0 +1,20 @@
+LensScope V111 FIX10 REAL TEST UX
+
+Changes (index.html only):
+1. REAL TEST sensor overlay labels get semi-transparent dark backgrounds for readability over bright captures.
+2. REAL TEST image uses loading=lazy and decoding=async.
+3. Image src is removed whenever REAL TEST is inactive, so only the currently active empirical capture is retained/requested by the UI.
+
+Unchanged:
+- data.json
+- all 641 empirical mappings
+- image assets
+- manufacturer IC / verification data
+- camera data
+- focal-selection and nearest-tested-focal behavior
+- four-state classifier
+
+Regression guards:
+- DOM $ / $$ helper preserved
+- initial render preserved
+- JS syntax PASS

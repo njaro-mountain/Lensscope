@@ -144,6 +144,8 @@ h1{font-size:clamp(30px,4vw,50px);line-height:1.02;letter-spacing:-.045em;margin
 .realInfo.on{display:block}.realInfo b{color:#e9edf3}.realWarn{color:#ffc257}
 .stage.realMode #circle,.stage.realMode #rectCov{display:none!important}
 .stage.realMode #sensor{z-index:5;background:rgba(116,167,255,.035)}
+.stage.realMode #sensor .tl,.stage.realMode #sensor .br{background:rgba(0,0,0,.72);color:#eef4ff;padding:4px 6px;border-radius:5px;text-shadow:0 1px 2px #000;max-width:calc(100% - 16px);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.stage.realMode #sensor .tl{left:6px;top:6px}.stage.realMode #sensor .br{right:6px;bottom:6px}
 @media(max-width:560px){.realModeBar{padding:8px 10px 0}.modeBtn,.irisBtn{padding:7px 9px}.realInfo{margin:0 10px 10px}}
 
 </style>
@@ -151,7 +153,7 @@ h1{font-size:clamp(30px,4vw,50px);line-height:1.02;letter-spacing:-.045em;margin
 <body>
 <div class="shell">
 <header>
-  <div class="brand"><span class="mark"></span>LensScope <small>V111 RECOVERY · FIX5 HOTFIX A · FIX8 641 CLEAN · FIX9 UX</small></div>
+  <div class="brand"><span class="mark"></span>LensScope <small>V111 RECOVERY · FIX5 HOTFIX A · FIX8 641 CLEAN · FIX9 UX · FIX10 REAL UX</small></div>
   <span class="beta">MOBILE + PC</span>
 </header>
 
@@ -195,7 +197,7 @@ h1{font-size:clamp(30px,4vw,50px);line-height:1.02;letter-spacing:-.045em;margin
     <div class="realInfo" id="realInfo"></div>
     <div class="vizWrap">
       <div class="viz">
-        <div class="realTestLayer" id="realTestLayer"><img class="realTestImg" id="realTestImg" alt="Real-world vignetting capture"><div class="realTestShade"></div><span class="realBadge" id="realBadge"></span></div>
+        <div class="realTestLayer" id="realTestLayer"><img class="realTestImg" id="realTestImg" alt="Real-world vignetting capture" loading="lazy" decoding="async"><div class="realTestShade"></div><span class="realBadge" id="realBadge"></span></div>
         <div class="circle" id="circle"></div>
         <div class="rectCov" id="rectCov"></div>
         <div class="sensor" id="sensor"><span class="tl" id="sensorName"></span><span class="br" id="formatName"></span></div>
@@ -458,6 +460,8 @@ function updateRealTestUI(c,f,l,fl){
  $("#realInfo").classList.add('on');
 
  if(!active){
+   const idleImg=$("#realTestImg");
+   if(idleImg.getAttribute("src")) idleImg.removeAttribute("src");
    let action="";
    if(rs.kind==="partial" && rs.tested.length && !rt) action=` Select REAL TEST to jump to the nearest tested focal.`;
    $("#realInfo").innerHTML=`<b>${rs.label}</b> · ${rs.detail}${action}`;
