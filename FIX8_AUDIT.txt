@@ -1,0 +1,16 @@
+LensScope V111 FIX8 — 641 REAL TEST conduction audit
+AUTO manifest entries: 641
+Corrected expected unique LensScope focal keys: 641
+Missing lens mappings: 0
+Missing focal mappings: 0
+Capture path mismatches: 0
+Calibration mismatches: 0
+Runtime DOM helper preserved: YES
+Initial render preserved: YES
+Node syntax check: PASS
+
+Corrected legacy parser interpretations:
+- Angenieux Optimo Anamorphic / 44-440mm_T4.5 100m -> 100 mm
+  (440 mm legitimate capture preserved separately)
+- Angenieux Optimo Style / 16-40mm_T2.8_21m -> 21 mm
+  (40 mm legitimate capture preserved separately)
