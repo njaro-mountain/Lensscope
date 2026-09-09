@@ -1,0 +1,22 @@
+LensScope V111 FIX17 REALTEST FINAL AUDIT
+
+Base: V111 FIX16 (includes FIX14 OPEN/CLOSE, FIX15 AUTO DESQUEEZE, FIX16 Varotal repair)
+Cameras: 30
+Formats: 403
+Lens families: 125
+Empirical focal records: 641
+Empirical image references: 1281
+ASCII-safe references: 1281/1281
+Packaged referenced assets present: 1281/1281
+
+FIX17
+- REAL TEST Image-area coverage status: EMPIRICAL VIEW
+- Zoom slider in REAL TEST: discrete captured focal positions only
+- OPTICAL MAP: continuous zoom preserved
+- All empirical image references migrated to deterministic ASCII-safe paths
+- This includes Cooke Wide-Angle Varotal, FUJINON Duvo HZK 24-300, Canon CINE-SERVO CN10x25, and all other mapped empirical captures
+- OPEN/CLOSE user-facing wording preserved; internal data key remains down
+- Manufacturer IC / camera / format data unchanged from FIX16 baseline
+
+Missing packaged refs: 0
+Unsafe refs remaining: 0
