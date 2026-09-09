@@ -151,7 +151,7 @@ h1{font-size:clamp(30px,4vw,50px);line-height:1.02;letter-spacing:-.045em;margin
 <body>
 <div class="shell">
 <header>
-  <div class="brand"><span class="mark"></span>LensScope <small>V111 RECOVERY · FIX5 HOTFIX A · FIX8 641 CLEAN</small></div>
+  <div class="brand"><span class="mark"></span>LensScope <small>V111 RECOVERY · FIX5 HOTFIX A · FIX8 641 CLEAN · FIX9 UX</small></div>
   <span class="beta">MOBILE + PC</span>
 </header>
 
@@ -423,7 +423,7 @@ function nearestRealTestFocal(l,fl){
 }
 const REAL_DATA_ISSUES=[
  {maker:"Cooke",name:"S4/i",focal:27,reason:"Calibration CSV exists, but OPEN / DOWN capture images are missing."},
- {maker:"Leica",name:"THALIA",focal:55,reason:"Calibration CSV exists, but OPEN / DOWN capture images are missing."}
+ {maker:"Leitz",name:"THALIA",focal:55,reason:"Calibration CSV exists, but OPEN / DOWN capture images are missing."}
 ];
 function knownRealDataIssue(l,fl){
  return REAL_DATA_ISSUES.find(x=>x.maker===l.maker && x.name===l.name && Number(x.focal)===Number(fl))||null;

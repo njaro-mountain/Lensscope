@@ -1,0 +1,17 @@
+FIX9 DATA ISSUE UX
+Root cause:
+- Current LensScope manufacturer identity is Leitz / THALIA.
+- REAL_DATA_ISSUES still referenced legacy source identity Leica / THALIA.
+- Therefore THALIA 55mm could not match knownRealDataIssue() and appeared as PARTIAL TEST instead of DATA ISSUE.
+
+Patch:
+- Leica / THALIA / 55 -> Leitz / THALIA / 55 in UI issue rule only.
+- Cooke S4/i 27 remains unchanged.
+- Empirical data, image paths, IC data and camera data unchanged.
+
+Validation:
+- Cooke S4/i 27 reachable: YES
+- Leitz THALIA 55 reachable: YES
+- DOM helper preserved: YES
+- Initial render preserved: YES
+- JS syntax: PASS
