@@ -1,0 +1,27 @@
+{
+  "version": "V111 THALIA PROTOTYPE",
+  "base": "V110",
+  "canonical": false,
+  "purpose": "Prototype fusion of LensScope numeric coverage with legacy Vignetting Simulator real-world THALIA imagery.",
+  "realTest": {
+    "series": "Leica THALIA",
+    "focals": [
+      24,
+      30,
+      35,
+      45,
+      70,
+      100,
+      120,
+      180
+    ],
+    "missingImagery": [
+      55
+    ],
+    "transform": "Reproduces vign.jar AreaPanel center source crop using WEXP/HEXP and calibrated sample sensor W/H; PAN/TILT retained."
+  },
+  "notes": [
+    "Manufacturer-primary LensScope IC data remains unchanged.",
+    "Real Test is an empirical overlay layer and does not drive COVERS/NO COVERAGE status."
+  ]
+}
