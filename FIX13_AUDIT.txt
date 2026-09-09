@@ -1,0 +1,19 @@
+FIX13 REAL BUTTON REPAIR
+
+Root cause:
+FIX12 removed the green #realStateBadge DOM element, but renderRealControls()
+still wrote badge.textContent and badge.className without checking whether badge existed.
+That caused a null-reference runtime error during render, so the REAL TEST button stopped working.
+
+Patch:
+- Green realStateBadge stays removed.
+- The two remaining badge writes are guarded with if(badge).
+- REAL TEST / OPTICAL MAP controls remain present.
+- OPEN / DOWN remain present.
+- No data.json, camera/lens geometry, IC, empirical mappings, or image assets changed.
+
+Validation:
+- green realStateBadge DOM absent: YES
+- REAL TEST button DOM present: YES
+- badge writes null-safe: YES
+- JS syntax: PASS

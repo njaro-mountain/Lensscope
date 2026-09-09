@@ -155,7 +155,7 @@ h1{font-size:clamp(30px,4vw,50px);line-height:1.02;letter-spacing:-.045em;margin
 <body>
 <div class="shell">
 <header>
-  <div class="brand"><span class="mark"></span>LensScope <small>V111 RECOVERY · FIX5 HOTFIX A · FIX8 641 CLEAN · FIX9 UX · FIX10 REAL UX · FIX11 CONTROL SPACING · FIX12 REMOVE STATE BADGE</small></div>
+  <div class="brand"><span class="mark"></span>LensScope <small>V111 RECOVERY · FIX5 HOTFIX A · FIX8 641 CLEAN · FIX9 UX · FIX10 REAL UX · FIX11 CONTROL SPACING · FIX12 REMOVE STATE BADGE · FIX13 REAL BUTTON REPAIR</small></div>
   <span class="beta">MOBILE + PC</span>
 </header>
 
@@ -446,8 +446,10 @@ function updateRealTestUI(c,f,l,fl){
  const rs=realTestState(l,fl), rt=rs.rt, stage=document.querySelector('.stage');
  const realBtn=$("#modeReal"), openBtn=$("#irisOpen"), downBtn=$("#irisDown"), badge=$("#realStateBadge");
  const hasLibrary=rs.tested.length>0;
- badge.textContent=rs.label;
- badge.className=`realStateBadge ${rs.kind}`;
+ if(badge){
+  badge.textContent=rs.label;
+  badge.className=`realStateBadge ${rs.kind}`;
+ }
  // DATA ISSUE and NO CAPTURE are intentionally not enterable.
  realBtn.disabled=(rs.kind==="none"||rs.kind==="issue");
  if(realBtn.disabled && state.viewMode==='real') state.viewMode='optical';
