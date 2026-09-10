@@ -1,0 +1,26 @@
+LensScope V114 CANDIDATE AUDIT
+=============================
+Base: V113
+Cameras: 45
+Formats: 466
+Lens families total: 136
+Ronin 4D-only lens records: 11
+Formats with physical W×H: 410
+Formats intentionally unresolved: 56
+REAL TEST empirical focal records preserved: 641
+
+V114 additions:
+- ARRI ALEXA 265
+- Blackmagic PYXIS 6K PL
+- Canon EOS C70
+- Sony α7S III
+- Sony FX5 (UPCOMING; future Ver.2.00 modes excluded)
+- DJI Ronin 4D X9-6K
+- DJI Ronin 4D X9-8K
+- Ronin 4D-only practical lens records, hidden on non-Ronin cameras
+
+Data policy:
+- manufacturer-published / manufacturer-derived / reference / unresolved provenance retained
+- reason + trigger stored on new special geometries where applicable
+- no inferred numeric IC for Ronin-only E-mount lenses
+- Inspire family intentionally excluded
