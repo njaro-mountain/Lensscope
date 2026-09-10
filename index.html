@@ -812,15 +812,19 @@ function updateMobilePickerViewport(){
 function closePicker(){ $("#backdrop").classList.remove("on");$("#sheet").classList.remove("on");state.picker=null }
 function lensVisibleForCurrentCamera(l){
  const c=DATA.cameras[state.camera];
- return c&&c.ronin4d ? (!!l.ronin4dOnly || !l.ronin4dOnly) : !l.ronin4dOnly;
+ if(!c) return !l.ronin4dOnly;
+ if(c.ronin4d){
+   return !!l.ronin4dOnly || !!(l.roninCompatibility && l.roninCompatibility.compatible===true);
+ }
+ return !l.ronin4dOnly;
 }
 function ensureLensVisibleForCamera(){
  const c=DATA.cameras[state.camera];
  if(!c) return;
  const cur=DATA.lenses[state.lens];
- if(!c.ronin4d && cur&&cur.ronin4dOnly){
-   const i=DATA.lenses.findIndex(l=>!l.ronin4dOnly); state.lens=Math.max(0,i); state.focal=null;
- }
+ if(cur && lensVisibleForCurrentCamera(cur)) return;
+ const i=DATA.lenses.findIndex(l=>lensVisibleForCurrentCamera(l));
+ if(i>=0){ state.lens=i; state.focal=null; }
 }
 function renderPicker(q){
  q=q.toLowerCase(); const body=$("#sheetBody"); let html="";

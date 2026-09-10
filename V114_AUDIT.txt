@@ -24,3 +24,9 @@ Data policy:
 - reason + trigger stored on new special geometries where applicable
 - no inferred numeric IC for Ronin-only E-mount lenses
 - Inspire family intentionally excluded
+
+FIX1 regression repair:
+- Ronin lens visibility tautology removed.
+- Ronin cameras now show only ronin4dOnly records or explicitly verified roninCompatibility.compatible lenses.
+- Camera switch now reselects a visible lens in both directions.
+- JavaScript syntax: PASS (node --check).
