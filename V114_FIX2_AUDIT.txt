@@ -1,0 +1,19 @@
+LensScope V114 FIX2 AUDIT
+========================
+Base UI/JS: pristine V113 index.html
+Data: V114 camera/lens additions
+
+Critical repair:
+- FIX1 accidentally replaced the block between `let DATA=` and `function hasLensTag`, deleting core V113 runtime definitions (`const $`, `state`, `current()`, `formatIsAnamorphic()`).
+- FIX2 was rebuilt from pristine V113 and replaces ONLY the DATA literal before applying the Ronin lens-picker hooks.
+
+Checks:
+- Embedded DATA == external data.json: PASS
+- Core V113 runtime definitions preserved: PASS
+- JavaScript syntax (`node --check`): PASS
+- V113-vs-FIX2 normalized code diff reviewed: only intended Ronin helper/filter/camera-switch hooks added.
+
+Ronin behavior intended:
+- Non-Ronin camera: ronin4dOnly lenses hidden
+- Ronin 4D camera: verified Ronin-only compatibility lenses exposed
+- Camera switch revalidates current lens selection
