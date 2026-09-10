@@ -1,0 +1,76 @@
+LensScope V113 CAMERA GEOMETRY AUDIT
+Date: 2026-09-10
+
+BASE
+- V112 PROTO2 UI / Framing Match base preserved.
+- V111 FIX17 empirical REAL TEST layer preserved.
+- V111 FIX18 VisualViewport mobile picker behavior preserved.
+
+COUNTS
+- Cameras: 38
+- Formats: 432
+- Lens families: 125
+- REAL TEST empirical focal records: 641
+- REAL TEST empirical image references: 1281
+- Unsafe/non-ASCII empirical paths: 0
+
+CAMERA CHANGES
+1) SONY FX9
+- Existing Sony-published physical scan geometries preserved:
+  FF 6K 35.7×18.8 mm
+  FFcrop 5K 29.7×15.7 mm
+  S35 4K 24.3×12.8 mm
+  S16 2K 12.2×6.4 mm
+
+2) SONY FX6
+- Recording conditions split so geometry-changing conditions are no longer conflated:
+  FF QFHD ≤60p
+  FF DCI 4K approx. 5% crop
+  FF QFHD 100/120p approx. 10% crop
+  FF QFHD with SDI RAW output approx. 10% crop
+  S35 FHD
+- Exact physical W×H remains unresolved; no guessed mm added.
+
+3) CANON EOS R5 C
+- Expanded from 3 to 6 physical geometries.
+- W×H is MANUFACTURER_DERIVED from Canon-published 4.40 µm pixel pitch × active raster:
+  8K DCI FF: 36.0448×19.008 mm
+  8K UHD FF: 33.792×19.008 mm
+  5.9K S35 DCI: 26.1888×13.816 mm
+  S35 UHD: 24.552×13.816 mm
+  2.9K S16 DCI: 13.0944×6.908 mm
+  S16 FHD: 12.276×6.908 mm
+- DCI/UHD active-width differences are preserved.
+
+4) SONY BURANO / VENICE 2
+- Existing BURANO V3.0 unresolved modes preserved without invented dimensions.
+- Existing VENICE 2 6K Surround View physical geometries preserved as independent coverage geometries.
+
+NEW CAMERA ENTRIES
+- SONY FR7
+- SONY FX3
+- SONY FX30
+- SONY FX2
+- CANON EOS C400
+- CANON EOS C80
+- CANON EOS R5 Mark II
+- CANON EOS R6 Mark III
+
+V113 GEOMETRY POLICY
+- Known physical formats are ordered by actual active area W×H, largest first.
+- Sensor outer/physical dimensions are not substituted for active video area.
+- Manufacturer-confirmed modes without exact W×H remain ACTIVE AREA mm NOT PUBLISHED.
+- Approximate crop/FOV values are never converted to guessed millimeters.
+- Different codecs/resolutions do not create duplicate coverage geometry unless active sensor area differs.
+- Anamorphic/desqueeze labeling remains separate from lens optical-type classification.
+
+REGRESSION GUARDS
+- Lens data unchanged: 125 families.
+- REAL TEST focal records unchanged: 641.
+- REAL TEST image references unchanged: 1281.
+- Embedded index DATA and external data.json are byte-semantically identical: YES.
+- REAL TEST safe paths preserved: YES.
+- OPTICAL MAP / REAL TEST controls preserved.
+- OPEN / CLOSE wording preserved.
+- Framing Match preserved.
+- JavaScript syntax check: PASS.

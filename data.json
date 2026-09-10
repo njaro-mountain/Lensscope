@@ -2054,35 +2054,42 @@
       "mount": "E",
       "formats": [
         {
-          "name": "FF DCI 4K",
-          "px": "4096×2160",
-          "source": "Sony official FX6 Operating Instructions / recording-format specification",
-          "dimensionsStatus": "manufacturer-not-published",
-          "note": "Mode existence verified; active sensor W×H in mm is not published by Sony."
-        },
-        {
-          "name": "FF QFHD 4K",
+          "name": "FF QFHD 4K ≤60p",
           "px": "3840×2160",
-          "source": "Sony official FX6 Operating Instructions / recording-format specification",
+          "source": "Sony official FX6 Operating Instructions",
           "dimensionsStatus": "manufacturer-not-published",
-          "note": "Mode existence verified; active sensor W×H in mm is not published by Sony."
+          "note": "Normal full-frame QFHD scan; active W×H in mm not published by Sony."
         },
         {
-          "name": "FF FHD",
-          "px": "1920×1080",
-          "source": "Sony official FX6 Operating Instructions / recording-format specification",
+          "name": "FF DCI 4K · 5% image crop",
+          "px": "4096×2160",
+          "source": "Sony official FX6 Operating Instructions",
           "dimensionsStatus": "manufacturer-not-published",
-          "note": "Mode existence verified; active sensor W×H in mm is not published by Sony."
+          "note": "Sony documents an approx. 5% image crop compared with QFHD; no exact active W×H published."
+        },
+        {
+          "name": "FF QFHD 4K 100/120p · 10% crop",
+          "px": "3840×2160",
+          "source": "Sony official FX6 Operating Instructions",
+          "dimensionsStatus": "manufacturer-not-published",
+          "note": "Sony documents approx. 10% image crop at 100/120p; no exact active W×H published."
+        },
+        {
+          "name": "FF QFHD · SDI RAW output 10% crop",
+          "px": "3840×2160",
+          "source": "Sony official FX6 Operating Instructions",
+          "dimensionsStatus": "manufacturer-not-published",
+          "note": "Output-condition-dependent crop; kept distinct from recording-mode geometry."
         },
         {
           "name": "S35 FHD",
           "px": "1920×1080",
           "source": "Sony official FX6 Operating Instructions / Imager Scan Mode table",
           "dimensionsStatus": "manufacturer-not-published",
-          "note": "S35 scan mode is officially documented; active sensor W×H in mm is not published by Sony."
+          "note": "S35 scan mode is official; active W×H in mm not published."
         }
       ],
-      "formatSource": "Sony official FX6 manual/specifications; filmback dimensions cross-checked against TDSI FX6 Quick Guide. S35 HD omitted until a defensible active-area mm value is available."
+      "formatSource": "Sony manufacturer-primary mode/crop conditions; exact physical geometry unresolved where Sony does not publish it; V113 audit"
     },
     {
       "maker": "ARRI",
@@ -3104,34 +3111,57 @@
       "name": "EOS R5 C",
       "mount": "RF (PL via adapter)",
       "source": "Canon Japan official EOS R5 C specifications",
-      "formatSource": "Canon Japan official EOS R5 C specifications",
+      "formatSource": "Canon manufacturer-primary active raster and pixel pitch; V113 audit",
       "formats": [
         {
           "name": "8K DCI Full Frame RAW",
           "px": "8192×4320",
-          "w": 36.0,
-          "h": 18.984,
-          "source": "Canon Japan official EOS R5 C specifications",
+          "w": 36.0448,
+          "h": 19.008,
+          "source": "Canon official EOS R5 C specifications: active raster + 4.40 µm pixel pitch",
           "dimensionsStatus": "manufacturer-derived",
-          "note": "Physical active area derived from Canon-published 36.0 mm sensor width and Canon-published RAW raster; no codec-only duplicates."
+          "note": "Active W×H derived only from Canon-published pixel pitch and active raster."
         },
         {
-          "name": "5.9K Super 35mm Crop RAW",
+          "name": "8K UHD Full Frame",
+          "px": "7680×4320",
+          "w": 33.792,
+          "h": 19.008,
+          "source": "Canon official EOS R5 C specifications: active raster + 4.40 µm pixel pitch",
+          "dimensionsStatus": "manufacturer-derived",
+          "note": "DCI and UHD use different active widths; codec duplicates are not repeated."
+        },
+        {
+          "name": "5.9K Super 35 DCI RAW",
           "px": "5952×3140",
-          "w": 26.156,
-          "h": 13.799,
-          "source": "Canon Japan official EOS R5 C specifications",
-          "dimensionsStatus": "manufacturer-derived",
-          "note": "Physical active area derived from Canon-published 36.0 mm sensor width and Canon-published RAW raster; no codec-only duplicates."
+          "w": 26.1888,
+          "h": 13.816,
+          "source": "Canon official EOS R5 C specifications: active raster + 4.40 µm pixel pitch",
+          "dimensionsStatus": "manufacturer-derived"
         },
         {
-          "name": "2.9K Super 16mm Crop RAW",
+          "name": "Super 35 UHD",
+          "px": "5580×3140",
+          "w": 24.552,
+          "h": 13.816,
+          "source": "Canon official EOS R5 C specifications: active raster + 4.40 µm pixel pitch",
+          "dimensionsStatus": "manufacturer-derived"
+        },
+        {
+          "name": "2.9K Super 16 DCI RAW",
           "px": "2976×1570",
-          "w": 13.078,
-          "h": 6.899,
-          "source": "Canon Japan official EOS R5 C specifications",
-          "dimensionsStatus": "manufacturer-derived",
-          "note": "Physical active area derived from Canon-published 36.0 mm sensor width and Canon-published RAW raster; no codec-only duplicates."
+          "w": 13.0944,
+          "h": 6.908,
+          "source": "Canon official EOS R5 C specifications: active raster + 4.40 µm pixel pitch",
+          "dimensionsStatus": "manufacturer-derived"
+        },
+        {
+          "name": "Super 16 FHD",
+          "px": "2790×1570",
+          "w": 12.276,
+          "h": 6.908,
+          "source": "Canon official EOS R5 C specifications: active raster + 4.40 µm pixel pitch",
+          "dimensionsStatus": "manufacturer-derived"
         }
       ]
     },
@@ -3168,6 +3198,229 @@
           "note": "Distinct high-speed image area confirmed by Nikon: at 1920×1080 239.76p/200p the angle of view changes relative to FX. Nikon does not publish an exact active W×H for this crop, so Coverage geometry is intentionally disabled."
         }
       ]
+    },
+    {
+      "maker": "SONY",
+      "name": "FR7",
+      "mount": "E mount",
+      "formats": [
+        {
+          "name": "FF",
+          "source": "Sony official FR7 specifications / Imager Scan Mode",
+          "dimensionsStatus": "manufacturer-not-published",
+          "note": "Full-frame scan mode verified; 35.6×23.8 mm is sensor physical size, not asserted as active video area."
+        },
+        {
+          "name": "S35",
+          "px": "1920×1080 max in S35 mode",
+          "source": "Sony official FR7 specifications / Imager Scan Mode",
+          "dimensionsStatus": "manufacturer-not-published",
+          "note": "S35 scan mode verified; exact active W×H not published."
+        }
+      ],
+      "formatSource": "Sony manufacturer-primary scan-mode evidence; active video W×H unresolved; V113 audit"
+    },
+    {
+      "maker": "SONY",
+      "name": "FX3",
+      "mount": "E mount",
+      "formats": [
+        {
+          "name": "FF 4K ≤60p",
+          "source": "Sony official FX3 Help Guide",
+          "dimensionsStatus": "manufacturer-not-published",
+          "note": "Normal full-frame 4K movie area."
+        },
+        {
+          "name": "FF 4K 100/120p crop",
+          "source": "Sony official FX3 Help Guide",
+          "dimensionsStatus": "manufacturer-not-published",
+          "note": "Sony shows a different movie angle of view for 4K 100/120p; exact crop ratio/W×H not asserted here."
+        },
+        {
+          "name": "S35 FHD",
+          "px": "1920×1080",
+          "source": "Sony official FX3 Help Guide",
+          "dimensionsStatus": "manufacturer-not-published",
+          "note": "APS-C/S35 approx. 1.5×; 4K S35 is not available."
+        }
+      ],
+      "formatSource": "Sony manufacturer-primary mode/FOV evidence; V113 audit"
+    },
+    {
+      "maker": "SONY",
+      "name": "FX30",
+      "mount": "E mount",
+      "formats": [
+        {
+          "name": "S35 4K normal",
+          "source": "Sony official FX30 specifications",
+          "dimensionsStatus": "manufacturer-not-published",
+          "note": "Normal Super35/APS-C movie area; exact active W×H not published."
+        },
+        {
+          "name": "S35 4K 100/120p · approx. 38% angle crop",
+          "source": "Sony official FX30 specifications",
+          "dimensionsStatus": "manufacturer-not-published",
+          "note": "Sony publishes approx. 38% angle-of-view crop; not converted to mm."
+        }
+      ],
+      "formatSource": "Sony manufacturer-primary mode/crop evidence; V113 audit"
+    },
+    {
+      "maker": "SONY",
+      "name": "FX2",
+      "mount": "E mount",
+      "formats": [
+        {
+          "name": "FF 4K ≤30p",
+          "source": "Sony official FX2 Help Guide",
+          "dimensionsStatus": "manufacturer-not-published",
+          "note": "Full-frame 4K mode; exact active W×H not published."
+        },
+        {
+          "name": "S35 4K 50/60p",
+          "source": "Sony official FX2 Help Guide",
+          "dimensionsStatus": "manufacturer-not-published",
+          "note": "APS-C/S35 is mandatory for 4K 50/60p; exact active W×H not published."
+        }
+      ],
+      "formatSource": "Sony manufacturer-primary mode evidence; V113 audit"
+    },
+    {
+      "maker": "CANON",
+      "name": "EOS C400",
+      "mount": "RF / PL adapter",
+      "formats": [
+        {
+          "name": "Full Frame 3:2 Open Gate",
+          "source": "Canon official EOS C400 current feature/support information",
+          "dimensionsStatus": "manufacturer-not-published",
+          "note": "Full sensor area / 3:2 mode verified; exact active W×H not published in the source set used for V113."
+        },
+        {
+          "name": "Full Frame 17:9 / 16:9",
+          "px": "6000×3164 RAW max",
+          "source": "Canon official EOS C400 specifications",
+          "dimensionsStatus": "manufacturer-not-published",
+          "note": "Full-frame video mode verified; 4K120 does not require an HFR crop per Canon."
+        },
+        {
+          "name": "Super 35 Crop",
+          "px": "4368×2304 / 4096×2160",
+          "source": "Canon official EOS C400 specifications",
+          "dimensionsStatus": "manufacturer-not-published"
+        },
+        {
+          "name": "Super 16 Crop",
+          "px": "2184×1152",
+          "source": "Canon official EOS C400 specifications",
+          "dimensionsStatus": "manufacturer-not-published"
+        }
+      ],
+      "formatSource": "Canon current feature/support/specification pages; firmware-added Open Gate included; V113 audit"
+    },
+    {
+      "maker": "CANON",
+      "name": "EOS C80",
+      "mount": "RF",
+      "formats": [
+        {
+          "name": "Full Frame",
+          "px": "6000×3164 RAW max",
+          "source": "Canon official EOS C80 technical specifications",
+          "dimensionsStatus": "manufacturer-not-published"
+        },
+        {
+          "name": "Super 35 Crop",
+          "px": "4368×2304 max",
+          "source": "Canon official EOS C80 technical specifications",
+          "dimensionsStatus": "manufacturer-not-published"
+        }
+      ],
+      "formatSource": "Canon manufacturer-primary sensor-mode/raster evidence; V113 audit"
+    },
+    {
+      "maker": "CANON",
+      "name": "EOS R5 Mark II",
+      "mount": "RF",
+      "formats": [
+        {
+          "name": "Full Frame DCI family",
+          "px": "8192×4320 / 4096×2160",
+          "source": "Canon official EOS R5 Mark II manual",
+          "dimensionsStatus": "manufacturer-not-published"
+        },
+        {
+          "name": "Full Frame UHD family",
+          "px": "7680×4320 / 3840×2160",
+          "source": "Canon official EOS R5 Mark II manual",
+          "dimensionsStatus": "manufacturer-not-published"
+        },
+        {
+          "name": "Movie Crop DCI family",
+          "px": "4096×2160",
+          "source": "Canon official EOS R5 Mark II manual",
+          "dimensionsStatus": "manufacturer-not-published"
+        },
+        {
+          "name": "Movie Crop UHD family",
+          "px": "3840×2160",
+          "source": "Canon official EOS R5 Mark II manual",
+          "dimensionsStatus": "manufacturer-not-published"
+        }
+      ],
+      "formatSource": "Canon manufacturer-primary image-area/raster-family evidence; physical W×H unresolved; V113 audit"
+    },
+    {
+      "maker": "CANON",
+      "name": "EOS R6 Mark III",
+      "mount": "RF",
+      "formats": [
+        {
+          "name": "Open Gate RAW 3:2",
+          "px": "6960×4640",
+          "source": "Canon official EOS R6 Mark III manual",
+          "dimensionsStatus": "manufacturer-not-published",
+          "note": "Recording angle of view 100% horizontal × 100% vertical; exact physical W×H not inferred."
+        },
+        {
+          "name": "Open Gate XF-HEVC S 3:2",
+          "px": "6912×4608",
+          "source": "Canon official EOS R6 Mark III manual",
+          "dimensionsStatus": "manufacturer-not-published",
+          "note": "Recording angle of view approx. 99.3% × 99.3%; kept distinct from RAW."
+        },
+        {
+          "name": "Full Frame 4K DCI",
+          "px": "4096×2160",
+          "source": "Canon official EOS R6 Mark III manual",
+          "dimensionsStatus": "manufacturer-not-published",
+          "note": "Recording angle of view 100% horizontal × 79.1% vertical."
+        },
+        {
+          "name": "Full Frame 4K UHD",
+          "px": "3840×2160",
+          "source": "Canon official EOS R6 Mark III manual",
+          "dimensionsStatus": "manufacturer-not-published",
+          "note": "Recording angle of view 93.8% horizontal × 79.1% vertical."
+        },
+        {
+          "name": "Movie Crop 4K DCI",
+          "px": "4096×2160",
+          "source": "Canon official EOS R6 Mark III manual",
+          "dimensionsStatus": "manufacturer-not-published",
+          "note": "Recording angle of view 62.1% horizontal × 49.1% vertical."
+        },
+        {
+          "name": "Movie Crop 4K UHD",
+          "px": "3840×2160",
+          "source": "Canon official EOS R6 Mark III manual",
+          "dimensionsStatus": "manufacturer-not-published",
+          "note": "Recording angle of view 58.2% horizontal × 49.1% vertical."
+        }
+      ],
+      "formatSource": "Canon manufacturer-primary raster and recording-angle-of-view table; V113 audit"
     }
   ],
   "lenses": [
