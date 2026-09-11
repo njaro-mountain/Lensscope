@@ -733,6 +733,7 @@ function render(){
    $("#area").textContent="—"; $("#diag").textContent="—"; $("#hfov").textContent="—";
    $("#vfov").textContent="—"; $("#dfov").textContent="—"; $("#outAspect").textContent="—";
    renderFramingMatch(c,f,l,fl,NaN);
+   renderRoninCompatibility();
    updateRealTestUI(c,f,l,fl);
    return;
  }
@@ -872,6 +873,7 @@ function render(){
 
 
  renderFramingMatch();
+ renderRoninCompatibility();
  updateRealTestUI(c,f,l,fl);
 }
 
