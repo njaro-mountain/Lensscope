@@ -1,0 +1,32 @@
+LensScope V119 CONSOLIDATED PRIMARY AUDIT
+Base: LensScope V117 FIX1 — Runtime Repair
+
+Reconstructed because the previously generated V118 DJI Primary Geometry artifact was no longer available.
+
+Merged / verified changes
+1) DJI Ronin 4D X9-6K / X9-8K
+- Replaced KOKIHIFUMI reference geometry with manufacturer-primary physical image areas from DJI Ronin 4D User Manual v1.4.
+- X9-6K: FF 17:9 35.7×18.8 mm; alternate FF 17:9 35.4×18.6 mm; FF 2.39:1 35.7×14.9 mm; S35 17:9 24.3×12.8 mm; S35 2.39:1 24.3×10.2 mm.
+- X9-8K: FF 17:9 36×19 mm; FF 2.39:1 36×15.1 mm; S35 17:9 24.5×13 mm.
+- Separate real recording-resolution choices sharing the same active area are retained for camera-menu fidelity; codec-only duplication is not introduced.
+
+2) Canon EOS R6 Mark III
+- Open Gate RAW 3:2 set to 35.9×23.9 mm as MANUFACTURER_DERIVED. Canon publishes sensor screen size approx. 35.9×23.9 mm and Open Gate RAW recording angle of view 100% × 100%.
+- MP4 Open Gate and other approximate-percentage modes remain unresolved; no approximate percentage is converted into physical mm.
+
+3) Sony FR7
+- Added distinct FF 4K 100/120p approx. 10% crop sensor-use entry.
+- Exact W×H remains manufacturer-not-published; no geometry inferred.
+
+4) FUJIFILM GFX ETERNA 55
+- No additional mutation required: the V117 FIX1 base already contains the detailed manufacturer-primary White Paper mode geometry set.
+
+Preserved
+- Ronin 4D lens-compatibility menu and KOKIHIFUMI practical compatibility records remain separate from camera Coverage geometry.
+- Phantom Flex4K manufacturer-derived geometry.
+- Canon C400/C80 HFR crop mode-only entries.
+- Existing REAL TEST, Framing Match, Coverage UI and Ronin compatibility behavior.
+
+Policy
+- No third-party camera W×H retained where DJI primary geometry is available.
+- No guessed camera geometry added.
