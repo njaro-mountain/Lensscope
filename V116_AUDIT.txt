@@ -1,0 +1,13 @@
+LensScope V116 AUDIT
+Base: V115 RONIN SPLIT FIX1
+
+1. Ronin 4D compatibility
+- Rebuilt practical compatibility dataset from uploaded KOKIHIFUMI Ronin 4D PDF pp.4-5: 39 records.
+- Adds explicit status: COMPATIBLE / CONDITIONAL / NOT_COMPATIBLE.
+- Adds Ronin 4D Motor field and reason notes for overweight/structural/motor limitations.
+- This is internal practical-operation evidence, not optical Image Circle evidence. Ronin remains outside Coverage Map.
+
+2. Phantom Flex4K geometry
+- All 10 listed rasters receive MANUFACTURER_DERIVED physical W×H from official raster × official 6.75 µm pixel pitch.
+- Formats re-sorted by physical active sensor area descending.
+- No third-party or guessed geometry inserted.

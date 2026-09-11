@@ -1,0 +1,13 @@
+LensScope V117 AUDIT
+Base: V116 RONIN DATA FIX
+
+Canon EOS C400
+- Current Canon Japan specification page confirms Full Frame 3:2 Open Gate maximum resolution 6000×4000; stored as mode/raster evidence only (physical W×H still unresolved).
+- Added distinct Super 35 HFR sensor-use entry: Canon states frame rates above 100P crop angle of view by approx. 6%. No physical geometry is inferred.
+
+Canon EOS C80
+- Added distinct Super 35 4K120P sensor-use entry: Canon states 4K120P in S35 mode crops angle of view by approx. 6%. No physical geometry is inferred.
+
+Policy
+- No third-party or estimated W×H inserted.
+- New HFR entries intentionally remain geometry-disabled until Canon publishes exact active dimensions or a manufacturer-primary bridge permits unique derivation.
