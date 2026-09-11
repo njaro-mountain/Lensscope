@@ -1,0 +1,23 @@
+LensScope V114 FIX3 AUDIT
+=========================
+Base: V114 FIX2 / V113 core preserved
+
+Ronin 4D correction:
+- Ronin-only lenses with disableIcEstimate=true no longer draw FORMAT-ONLY dashed reference circles.
+- These lenses now show sensor geometry only; no fake/not-to-scale optical boundary is rendered.
+- Image-area coverage reads OPTICAL COVERAGE UNKNOWN when numeric IC is unverified.
+- Lens coverage reads Numeric optical Image Circle not verified.
+- Model label reads RONIN 4D COMPATIBILITY · IC UNKNOWN.
+- OPTICAL MAP suppresses legacy VENICE NO CAPTURE banner for Ronin-only lenses.
+- REAL TEST remains disabled when no empirical capture exists.
+- Ronin practical metadata is surfaced in Setup metadata: balance, 4D Axis, LiDAR AF, Power Zoom.
+
+Regression checks:
+- Cameras: 45
+- Formats: 466
+- Lens families: 136
+- Ronin 4D-only lens records: 11
+- Embedded index DATA == external data.json: YES
+- V113 core DOM $ helper preserved: YES
+- current()/render() preserved: YES
+- JavaScript syntax: PASS (node --check)

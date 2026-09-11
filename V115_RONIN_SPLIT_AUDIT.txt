@@ -1,0 +1,25 @@
+LensScope V115 RONIN SPLIT
+Base: V114 FIX3 (latest canonical archive physically available in Library during this run)
+
+Change:
+- Ronin 4D X9-6K / X9-8K removed from Coverage Map Camera picker.
+- Ronin 4D removed from Framing Match source/target camera pickers.
+- Existing Ronin camera and compatibility records are retained in DATA; nothing was deleted.
+- Added dedicated Ronin 4D / LENS COMPATIBILITY panel alongside Framing Match.
+- Dedicated lens picker currently exposes 11 existing practical compatibility records.
+- Result shows Mount / Balance / 4D Axis / LiDAR AF / Power Zoom / evidence provenance.
+- Ronin-only E-mount practical records remain hidden from normal Coverage Map lens picker.
+
+Counts:
+- DATA: 45 cameras / 466 formats / 136 lens families unchanged.
+- Coverage/Framing camera picker: 43 cameras / 459 formats (2 Ronin cameras, 7 Ronin formats excluded from these UI paths).
+- Ronin compatibility records: 11.
+
+Validation:
+- Embedded DATA not modified; external data.json preserved.
+- Extracted JavaScript: node --check PASS.
+- Static picker-path audit PASS.
+- Browser smoke test could not be executed in this container because Playwright browser binaries are not installed; no claim of browser-runtime PASS is made.
+
+Design intent:
+Ronin 4D is treated as a rig/lens compatibility workflow rather than an optical sensor-coverage workflow. This keeps Coverage Map focused on camera recording geometry while preserving Ronin operational information.
