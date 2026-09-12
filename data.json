@@ -1697,507 +1697,675 @@
           "w": 40.96,
           "h": 21.6,
           "px": "8192×4320",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "8K 17:9 1.3x",
           "w": 40.96,
           "h": 21.6,
           "px": "8192×4320",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "8K 17:9 1.25x",
           "w": 40.96,
           "h": 21.6,
           "px": "8192×4320",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "8K 2:1",
           "w": 40.96,
           "h": 20.48,
           "px": "8192×4096",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "8K 16:9",
           "w": 38.4,
           "h": 21.6,
           "px": "7680×4320",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "8K 16:9 1.5x",
           "w": 38.4,
           "h": 21.6,
           "px": "7680×4320",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "8K 16:9 1.3x",
           "w": 38.4,
           "h": 21.6,
           "px": "7680×4320",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "8K 2.4:1",
           "w": 40.96,
           "h": 17.28,
           "px": "8192×3456",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "8K 3:2 1.8x",
           "w": 32.4,
           "h": 21.6,
           "px": "6480×4320",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "8K 3:2 1.6x",
           "w": 32.4,
           "h": 21.6,
           "px": "6480×4320",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "7K 17:9",
           "w": 35.84,
           "h": 18.9,
           "px": "7168×3780",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "7K 2:1",
           "w": 35.84,
           "h": 17.92,
           "px": "7168×3584",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "7K 16:9",
           "w": 33.6,
           "h": 18.9,
           "px": "6720×3780",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "8K 4:3 2x",
           "w": 28.8,
           "h": 21.6,
           "px": "5760×4320",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "8K 4:3 1.8x",
           "w": 28.8,
           "h": 21.6,
           "px": "5758×4320",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "8K 6:5 2x",
           "w": 25.92,
           "h": 21.6,
           "px": "5184×4320",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "7K 2.4:1",
           "w": 35.84,
           "h": 15.01,
           "px": "7168×3002",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "7K 3:2 1.8x",
           "w": 28.35,
           "h": 18.9,
           "px": "5670×3780",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "7K 3:2 1.6x",
           "w": 28.35,
           "h": 18.9,
           "px": "5670×3780",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "6K 17:9",
           "w": 30.72,
           "h": 16.2,
           "px": "6144×3240",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "6K 17:9 1.3x",
           "w": 30.72,
           "h": 16.2,
           "px": "6144×3240",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "6K 17:9 1.25x",
           "w": 30.72,
           "h": 16.2,
           "px": "6144×3240",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "7K 4:3 2x",
           "w": 25.2,
           "h": 18.9,
           "px": "5040×3780",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "7K 4:3 1.8x",
           "w": 25.2,
           "h": 18.9,
           "px": "5040×3780",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "6K 2:1",
           "w": 30.72,
           "h": 15.36,
           "px": "6144×3072",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "8K 1:1",
           "w": 21.6,
           "h": 21.6,
           "px": "4320×4320",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "8K 1:1 2x",
           "w": 21.6,
           "h": 21.6,
           "px": "4320×4320",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "6K 16:9",
           "w": 28.8,
           "h": 16.2,
           "px": "5760×3240",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "6K 16:9 1.5x",
           "w": 28.8,
           "h": 16.2,
           "px": "5760×3240",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "6K 16:9 1.3x",
           "w": 28.8,
           "h": 16.2,
           "px": "5760×3240",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "7K 6:5 2x",
           "w": 22.68,
           "h": 18.9,
           "px": "4536×3780",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "6K 2.4:1",
           "w": 30.72,
           "h": 12.87,
           "px": "6144×2592",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "7K 1:1",
           "w": 18.9,
           "h": 18.9,
           "px": "3780×3780",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "7K 1:1 2x",
           "w": 18.9,
           "h": 18.9,
           "px": "3780×3780",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "5K 17:9",
           "w": 25.6,
           "h": 13.5,
           "px": "5120×2700",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "5K 2:1",
           "w": 25.6,
           "h": 12.8,
           "px": "5120×2560",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "5K 16:9",
           "w": 24.0,
           "h": 13.5,
           "px": "4800×2700",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "5K 2.4:1",
           "w": 25.6,
           "h": 10.8,
           "px": "5120×2160",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "6K 1:1",
           "w": 16.2,
           "h": 16.2,
           "px": "3240×3240",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "4K 17:9",
           "w": 20.48,
           "h": 10.8,
           "px": "4096×2160",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "4K 2:1",
           "w": 20.48,
           "h": 10.24,
           "px": "4096×2048",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "4K 16:9",
           "w": 19.2,
           "h": 10.8,
           "px": "3840×2160",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "5K 1:1",
           "w": 13.5,
           "h": 13.5,
           "px": "2700×2700",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "4K 2.4:1",
           "w": 20.48,
           "h": 8.64,
           "px": "4096×1728",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "3K 17:9",
           "w": 15.36,
           "h": 8.1,
           "px": "3072×1620",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "3K 2:1",
           "w": 15.36,
           "h": 7.68,
           "px": "3072×1536",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "4K 1:1",
           "w": 10.8,
           "h": 10.8,
           "px": "2160×2160",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "3K 16:9",
           "w": 14.4,
           "h": 8.1,
           "px": "2880×1620",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "3K 2.4:1",
           "w": 15.36,
           "h": 6.48,
           "px": "3072×1296",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "3K 1:1",
           "w": 8.1,
           "h": 8.1,
           "px": "1620×1620",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "2K 17:9",
           "w": 10.24,
           "h": 5.4,
           "px": "2048×1080",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "2K 2:1",
           "w": 10.24,
           "h": 5.12,
           "px": "2048×1024",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "4K 8:1",
           "w": 20.48,
           "h": 2.56,
           "px": "4096×512",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "2K 16:9",
           "w": 9.6,
           "h": 5.4,
           "px": "1920×1080",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "2K 2.4:1",
           "w": 10.24,
           "h": 4.32,
           "px": "2048×864",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         },
         {
           "name": "2K 1:1",
           "w": 5.4,
           "h": 5.4,
           "px": "1080×1080",
-          "source": "RED official V-RAPTOR 8K VV All Formats",
+          "source": "RED official V-RAPTOR [X] 8K VV All Formats",
           "provenance": "MANUFACTURER_PUBLISHED_APPROX",
-          "reason": "RED publishes this sensor-area W×H in its official Operation Guide and explicitly states that the millimeter dimensions are close approximations."
+          "reason": "RED publishes this sensor-area W×H in its official V-RAPTOR [X] Operation Guide and explicitly states that the millimeter dimensions are close approximations.",
+          "sourceUrl": "https://docs.red.com/955-0225/955-0225_V1.7%20Rev-A%20RED%20PS%2C%20V-RAPTOR%20%5BX%5D%208K%20VV%20Operation%20Guide%20HTML/Content/4_Menus/b_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published-approx",
+          "note": "RED directly publishes the sensor-area pixel dimensions and W×H mm for this V-RAPTOR [X] format in the official Operation Guide. RED states that the millimeter dimensions are close approximations; LensScope preserves those published values without adding inferred geometry."
         }
       ],
-      "formatSource": "RED official Operation Guide sensor-format tables; manufacturer-published mm dimensions explicitly described by RED as close approximations."
+      "formatSource": "RED official V-RAPTOR [X] 8K VV Operation Guide — format-by-format sensor area in pixels and millimeters; manufacturer-published approximate mm values; V137 source/evidence correction"
     },
     {
       "maker": "RED",
@@ -2209,101 +2377,159 @@
           "w": 27.03,
           "h": 14.26,
           "px": "6144×3240",
-          "source": "RED official KOMODO-X All Formats / Operation Guide",
-          "note": "Same active sensor area. RED lists standard 17:9 plus 1.3x and 1.25x anamorphic acquisition variants; consolidated to one sensor-use entry."
+          "source": "RED official KOMODO-X Operation Guide — All Formats / current v2.1 technical specifications",
+          "note": "Same active sensor area. RED lists standard 17:9 plus 1.3x and 1.25x anamorphic acquisition variants; consolidated to one sensor-use entry. Primary geometry: RED official KOMODO-X All Formats table. Current v2.1 technical specifications: https://docs.red.com/955-0219/955-0219_V2.1_Rev-B_RED_PS_KOMODO-X_Operation_Guide/Content/C_TechSpecs/Specs_KOMODO-X.htm",
+          "sourceUrl": "https://docs.red.com/955-0219/955-0219_V1.0%20Rev-A%20RED%20PS%2C%20KOMODO-X%20Operation%20Guide/Content/4_Menus/02_ProjSet/Format/All_Formats.htm",
+          "provenance": "MANUFACTURER_PUBLISHED",
+          "dimensionsStatus": "manufacturer-published",
+          "reason": "RED directly publishes this KOMODO-X sensor capture area in pixels and millimeters in the official All Formats table; current Operation Guide v2.1 confirms the same acquisition-format family."
         },
         {
           "name": "6K 2:1",
           "w": 27.03,
           "h": 13.52,
           "px": "6144×3072",
-          "source": "RED official KOMODO-X All Formats / Operation Guide"
+          "source": "RED official KOMODO-X Operation Guide — All Formats / current v2.1 technical specifications",
+          "sourceUrl": "https://docs.red.com/955-0219/955-0219_V1.0%20Rev-A%20RED%20PS%2C%20KOMODO-X%20Operation%20Guide/Content/4_Menus/02_ProjSet/Format/All_Formats.htm",
+          "provenance": "MANUFACTURER_PUBLISHED",
+          "dimensionsStatus": "manufacturer-published",
+          "reason": "RED directly publishes this KOMODO-X sensor capture area in pixels and millimeters in the official All Formats table; current Operation Guide v2.1 confirms the same acquisition-format family.",
+          "note": "Primary geometry: RED official KOMODO-X All Formats table. Current v2.1 technical specifications: https://docs.red.com/955-0219/955-0219_V2.1_Rev-B_RED_PS_KOMODO-X_Operation_Guide/Content/C_TechSpecs/Specs_KOMODO-X.htm"
         },
         {
           "name": "6K 16:9 / Ana 1.5x",
           "w": 25.34,
           "h": 14.26,
           "px": "5760×3240",
-          "source": "RED official KOMODO-X All Formats / Operation Guide",
-          "note": "Same active sensor area; standard 16:9 and 1.5x anamorphic variant consolidated."
+          "source": "RED official KOMODO-X Operation Guide — All Formats / current v2.1 technical specifications",
+          "note": "Same active sensor area; standard 16:9 and 1.5x anamorphic variant consolidated. Primary geometry: RED official KOMODO-X All Formats table. Current v2.1 technical specifications: https://docs.red.com/955-0219/955-0219_V2.1_Rev-B_RED_PS_KOMODO-X_Operation_Guide/Content/C_TechSpecs/Specs_KOMODO-X.htm",
+          "sourceUrl": "https://docs.red.com/955-0219/955-0219_V1.0%20Rev-A%20RED%20PS%2C%20KOMODO-X%20Operation%20Guide/Content/4_Menus/02_ProjSet/Format/All_Formats.htm",
+          "provenance": "MANUFACTURER_PUBLISHED",
+          "dimensionsStatus": "manufacturer-published",
+          "reason": "RED directly publishes this KOMODO-X sensor capture area in pixels and millimeters in the official All Formats table; current Operation Guide v2.1 confirms the same acquisition-format family."
         },
         {
           "name": "6K 2.4:1",
           "w": 27.03,
           "h": 11.4,
           "px": "6144×2592",
-          "source": "RED official KOMODO-X All Formats / Operation Guide"
+          "source": "RED official KOMODO-X Operation Guide — All Formats / current v2.1 technical specifications",
+          "sourceUrl": "https://docs.red.com/955-0219/955-0219_V1.0%20Rev-A%20RED%20PS%2C%20KOMODO-X%20Operation%20Guide/Content/4_Menus/02_ProjSet/Format/All_Formats.htm",
+          "provenance": "MANUFACTURER_PUBLISHED",
+          "dimensionsStatus": "manufacturer-published",
+          "reason": "RED directly publishes this KOMODO-X sensor capture area in pixels and millimeters in the official All Formats table; current Operation Guide v2.1 confirms the same acquisition-format family.",
+          "note": "Primary geometry: RED official KOMODO-X All Formats table. Current v2.1 technical specifications: https://docs.red.com/955-0219/955-0219_V2.1_Rev-B_RED_PS_KOMODO-X_Operation_Guide/Content/C_TechSpecs/Specs_KOMODO-X.htm"
         },
         {
           "name": "6K 3:2 / Ana 1.8x / 1.6x",
           "w": 21.38,
           "h": 14.26,
           "px": "4860×3240",
-          "source": "RED official KOMODO-X All Formats / Operation Guide",
-          "note": "RED lists 1.8x and 1.6x anamorphic variants with identical active sensor area; consolidated."
+          "source": "RED official KOMODO-X Operation Guide — All Formats / current v2.1 technical specifications",
+          "note": "RED lists 1.8x and 1.6x anamorphic variants with identical active sensor area; consolidated. Primary geometry: RED official KOMODO-X All Formats table. Current v2.1 technical specifications: https://docs.red.com/955-0219/955-0219_V2.1_Rev-B_RED_PS_KOMODO-X_Operation_Guide/Content/C_TechSpecs/Specs_KOMODO-X.htm",
+          "sourceUrl": "https://docs.red.com/955-0219/955-0219_V1.0%20Rev-A%20RED%20PS%2C%20KOMODO-X%20Operation%20Guide/Content/4_Menus/02_ProjSet/Format/All_Formats.htm",
+          "provenance": "MANUFACTURER_PUBLISHED",
+          "dimensionsStatus": "manufacturer-published",
+          "reason": "RED directly publishes this KOMODO-X sensor capture area in pixels and millimeters in the official All Formats table; current Operation Guide v2.1 confirms the same acquisition-format family."
         },
         {
           "name": "6K 4:3 / Ana 2x / 1.8x",
           "w": 19.01,
           "h": 14.26,
           "px": "4320×3240",
-          "source": "RED official KOMODO-X All Formats / Operation Guide",
-          "note": "RED lists 2x and 1.8x anamorphic variants with identical active sensor area; consolidated."
+          "source": "RED official KOMODO-X Operation Guide — All Formats / current v2.1 technical specifications",
+          "note": "RED lists 2x and 1.8x anamorphic variants with identical active sensor area; consolidated. Primary geometry: RED official KOMODO-X All Formats table. Current v2.1 technical specifications: https://docs.red.com/955-0219/955-0219_V2.1_Rev-B_RED_PS_KOMODO-X_Operation_Guide/Content/C_TechSpecs/Specs_KOMODO-X.htm",
+          "sourceUrl": "https://docs.red.com/955-0219/955-0219_V1.0%20Rev-A%20RED%20PS%2C%20KOMODO-X%20Operation%20Guide/Content/4_Menus/02_ProjSet/Format/All_Formats.htm",
+          "provenance": "MANUFACTURER_PUBLISHED",
+          "dimensionsStatus": "manufacturer-published",
+          "reason": "RED directly publishes this KOMODO-X sensor capture area in pixels and millimeters in the official All Formats table; current Operation Guide v2.1 confirms the same acquisition-format family."
         },
         {
           "name": "5K 17:9",
           "w": 22.53,
           "h": 11.88,
           "px": "5120×2700",
-          "source": "RED official KOMODO-X All Formats / Operation Guide"
+          "source": "RED official KOMODO-X Operation Guide — All Formats / current v2.1 technical specifications",
+          "sourceUrl": "https://docs.red.com/955-0219/955-0219_V1.0%20Rev-A%20RED%20PS%2C%20KOMODO-X%20Operation%20Guide/Content/4_Menus/02_ProjSet/Format/All_Formats.htm",
+          "provenance": "MANUFACTURER_PUBLISHED",
+          "dimensionsStatus": "manufacturer-published",
+          "reason": "RED directly publishes this KOMODO-X sensor capture area in pixels and millimeters in the official All Formats table; current Operation Guide v2.1 confirms the same acquisition-format family.",
+          "note": "Primary geometry: RED official KOMODO-X All Formats table. Current v2.1 technical specifications: https://docs.red.com/955-0219/955-0219_V2.1_Rev-B_RED_PS_KOMODO-X_Operation_Guide/Content/C_TechSpecs/Specs_KOMODO-X.htm"
         },
         {
           "name": "5K 16:9",
           "w": 21.12,
           "h": 11.88,
           "px": "4800×2700",
-          "source": "RED official KOMODO-X All Formats / Operation Guide",
-          "note": "Added in V101 from RED's official All Formats table."
+          "source": "RED official KOMODO-X Operation Guide — All Formats / current v2.1 technical specifications",
+          "note": "Added in V101 from RED's official All Formats table. Primary geometry: RED official KOMODO-X All Formats table. Current v2.1 technical specifications: https://docs.red.com/955-0219/955-0219_V2.1_Rev-B_RED_PS_KOMODO-X_Operation_Guide/Content/C_TechSpecs/Specs_KOMODO-X.htm",
+          "sourceUrl": "https://docs.red.com/955-0219/955-0219_V1.0%20Rev-A%20RED%20PS%2C%20KOMODO-X%20Operation%20Guide/Content/4_Menus/02_ProjSet/Format/All_Formats.htm",
+          "provenance": "MANUFACTURER_PUBLISHED",
+          "dimensionsStatus": "manufacturer-published",
+          "reason": "RED directly publishes this KOMODO-X sensor capture area in pixels and millimeters in the official All Formats table; current Operation Guide v2.1 confirms the same acquisition-format family."
         },
         {
           "name": "6K 6:5 / Ana 2x",
           "w": 17.11,
           "h": 14.26,
           "px": "3888×3240",
-          "source": "RED official KOMODO-X All Formats / Operation Guide"
+          "source": "RED official KOMODO-X Operation Guide — All Formats / current v2.1 technical specifications",
+          "sourceUrl": "https://docs.red.com/955-0219/955-0219_V1.0%20Rev-A%20RED%20PS%2C%20KOMODO-X%20Operation%20Guide/Content/4_Menus/02_ProjSet/Format/All_Formats.htm",
+          "provenance": "MANUFACTURER_PUBLISHED",
+          "dimensionsStatus": "manufacturer-published",
+          "reason": "RED directly publishes this KOMODO-X sensor capture area in pixels and millimeters in the official All Formats table; current Operation Guide v2.1 confirms the same acquisition-format family.",
+          "note": "Primary geometry: RED official KOMODO-X All Formats table. Current v2.1 technical specifications: https://docs.red.com/955-0219/955-0219_V2.1_Rev-B_RED_PS_KOMODO-X_Operation_Guide/Content/C_TechSpecs/Specs_KOMODO-X.htm"
         },
         {
           "name": "6K 1:1 / Ana 2x",
           "w": 14.26,
           "h": 14.26,
           "px": "3240×3240",
-          "source": "RED official KOMODO-X All Formats / Operation Guide",
-          "note": "Same active sensor area; duplicate 1:1 entries consolidated."
+          "source": "RED official KOMODO-X Operation Guide — All Formats / current v2.1 technical specifications",
+          "note": "Same active sensor area; duplicate 1:1 entries consolidated. Primary geometry: RED official KOMODO-X All Formats table. Current v2.1 technical specifications: https://docs.red.com/955-0219/955-0219_V2.1_Rev-B_RED_PS_KOMODO-X_Operation_Guide/Content/C_TechSpecs/Specs_KOMODO-X.htm",
+          "sourceUrl": "https://docs.red.com/955-0219/955-0219_V1.0%20Rev-A%20RED%20PS%2C%20KOMODO-X%20Operation%20Guide/Content/4_Menus/02_ProjSet/Format/All_Formats.htm",
+          "provenance": "MANUFACTURER_PUBLISHED",
+          "dimensionsStatus": "manufacturer-published",
+          "reason": "RED directly publishes this KOMODO-X sensor capture area in pixels and millimeters in the official All Formats table; current Operation Guide v2.1 confirms the same acquisition-format family."
         },
         {
           "name": "4K 17:9",
           "w": 18.02,
           "h": 9.5,
           "px": "4096×2160",
-          "source": "RED official KOMODO-X All Formats / Operation Guide"
+          "source": "RED official KOMODO-X Operation Guide — All Formats / current v2.1 technical specifications",
+          "sourceUrl": "https://docs.red.com/955-0219/955-0219_V1.0%20Rev-A%20RED%20PS%2C%20KOMODO-X%20Operation%20Guide/Content/4_Menus/02_ProjSet/Format/All_Formats.htm",
+          "provenance": "MANUFACTURER_PUBLISHED",
+          "dimensionsStatus": "manufacturer-published",
+          "reason": "RED directly publishes this KOMODO-X sensor capture area in pixels and millimeters in the official All Formats table; current Operation Guide v2.1 confirms the same acquisition-format family.",
+          "note": "Primary geometry: RED official KOMODO-X All Formats table. Current v2.1 technical specifications: https://docs.red.com/955-0219/955-0219_V2.1_Rev-B_RED_PS_KOMODO-X_Operation_Guide/Content/C_TechSpecs/Specs_KOMODO-X.htm"
         },
         {
           "name": "4K 16:9",
           "w": 16.9,
           "h": 9.5,
           "px": "3840×2160",
-          "source": "RED official KOMODO-X All Formats / Operation Guide",
-          "note": "Added in V101 from RED's official All Formats table."
+          "source": "RED official KOMODO-X Operation Guide — All Formats / current v2.1 technical specifications",
+          "note": "Added in V101 from RED's official All Formats table. Primary geometry: RED official KOMODO-X All Formats table. Current v2.1 technical specifications: https://docs.red.com/955-0219/955-0219_V2.1_Rev-B_RED_PS_KOMODO-X_Operation_Guide/Content/C_TechSpecs/Specs_KOMODO-X.htm",
+          "sourceUrl": "https://docs.red.com/955-0219/955-0219_V1.0%20Rev-A%20RED%20PS%2C%20KOMODO-X%20Operation%20Guide/Content/4_Menus/02_ProjSet/Format/All_Formats.htm",
+          "provenance": "MANUFACTURER_PUBLISHED",
+          "dimensionsStatus": "manufacturer-published",
+          "reason": "RED directly publishes this KOMODO-X sensor capture area in pixels and millimeters in the official All Formats table; current Operation Guide v2.1 confirms the same acquisition-format family."
         },
         {
           "name": "2K 17:9",
           "w": 9.01,
           "h": 4.75,
           "px": "2048×1080",
-          "source": "RED official KOMODO-X All Formats / Operation Guide"
+          "source": "RED official KOMODO-X Operation Guide — All Formats / current v2.1 technical specifications",
+          "sourceUrl": "https://docs.red.com/955-0219/955-0219_V1.0%20Rev-A%20RED%20PS%2C%20KOMODO-X%20Operation%20Guide/Content/4_Menus/02_ProjSet/Format/All_Formats.htm",
+          "provenance": "MANUFACTURER_PUBLISHED",
+          "dimensionsStatus": "manufacturer-published",
+          "reason": "RED directly publishes this KOMODO-X sensor capture area in pixels and millimeters in the official All Formats table; current Operation Guide v2.1 confirms the same acquisition-format family.",
+          "note": "Primary geometry: RED official KOMODO-X All Formats table. Current v2.1 technical specifications: https://docs.red.com/955-0219/955-0219_V2.1_Rev-B_RED_PS_KOMODO-X_Operation_Guide/Content/C_TechSpecs/Specs_KOMODO-X.htm"
         }
       ],
-      "formatSource": "RED official KOMODO-X All Formats table / Operation Guide; unique active sensor areas only"
+      "formatSource": "RED official KOMODO-X All Formats table (manufacturer-published pixels + mm); current Operation Guide v2.1 confirms acquisition formats; V139 source/evidence audit"
     },
     {
       "maker": "RED",
@@ -2311,46 +2537,121 @@
       "mount": "RF + PL adapter option",
       "formats": [
         {
-          "name": "6K 17:9",
+          "name": "6K 17:9 / Ana 1.3x / 1.25x",
           "w": 27.03,
           "h": 14.26,
           "px": "6144×3240",
-          "source": "RED official KOMODO / KOMODO-X format tables"
+          "source": "RED official KOMODO Operation Guide v1.7 — All Formats",
+          "provenance": "MANUFACTURER_PUBLISHED",
+          "reason": "RED directly publishes this KOMODO sensor capture area in pixels and millimeters in the official Operation Guide v1.7.",
+          "sourceUrl": "https://docs.red.com/955-0196/955-0196_V1.7%20Rev-B%20RED%20PS%2C%20KOMODO%20Operation%20Guide%20HTML/Content/4_Menus/02_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published",
+          "note": "RED lists standard 6K 17:9 plus 1.3x and 1.25x anamorphic modes with the same published sensor area; consolidated to one geometry entry."
         },
         {
-          "name": "6K 16:9",
+          "name": "6K 2:1",
+          "w": 27.03,
+          "h": 13.52,
+          "px": "6144×3072",
+          "source": "RED official KOMODO Operation Guide v1.7 — All Formats",
+          "provenance": "MANUFACTURER_PUBLISHED",
+          "reason": "RED directly publishes this KOMODO sensor capture area in pixels and millimeters in the official Operation Guide v1.7.",
+          "sourceUrl": "https://docs.red.com/955-0196/955-0196_V1.7%20Rev-B%20RED%20PS%2C%20KOMODO%20Operation%20Guide%20HTML/Content/4_Menus/02_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published",
+          "note": "Added from RED KOMODO Operation Guide v1.7."
+        },
+        {
+          "name": "6K 16:9 / Ana 1.5x",
           "w": 25.34,
           "h": 14.26,
           "px": "5760×3240",
-          "source": "RED official KOMODO / KOMODO-X format tables"
+          "source": "RED official KOMODO Operation Guide v1.7 — All Formats",
+          "provenance": "MANUFACTURER_PUBLISHED",
+          "reason": "RED directly publishes this KOMODO sensor capture area in pixels and millimeters in the official Operation Guide v1.7.",
+          "sourceUrl": "https://docs.red.com/955-0196/955-0196_V1.7%20Rev-B%20RED%20PS%2C%20KOMODO%20Operation%20Guide%20HTML/Content/4_Menus/02_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published",
+          "note": "Standard 16:9 and 1.5x anamorphic mode use the same published sensor area; consolidated."
         },
         {
           "name": "6K 2.4:1",
           "w": 27.03,
-          "h": 11.4,
-          "px": "6144×2592",
-          "source": "RED official KOMODO / KOMODO-X format tables"
+          "h": 11.32,
+          "px": "6144×2574",
+          "source": "RED official KOMODO Operation Guide v1.7 — All Formats",
+          "provenance": "MANUFACTURER_PUBLISHED",
+          "reason": "RED directly publishes this KOMODO sensor capture area in pixels and millimeters in the official Operation Guide v1.7.",
+          "sourceUrl": "https://docs.red.com/955-0196/955-0196_V1.7%20Rev-B%20RED%20PS%2C%20KOMODO%20Operation%20Guide%20HTML/Content/4_Menus/02_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published",
+          "note": "Updated to RED KOMODO Operation Guide v1.7. Earlier LensScope data reflected the older 6144×2592 / 27.03×11.40 mm definition."
+        },
+        {
+          "name": "6K 3:2 / Ana 1.8x / 1.6x",
+          "w": 21.38,
+          "h": 14.26,
+          "px": "4860×3240",
+          "source": "RED official KOMODO Operation Guide v1.7 — All Formats",
+          "provenance": "MANUFACTURER_PUBLISHED",
+          "reason": "RED directly publishes this KOMODO sensor capture area in pixels and millimeters in the official Operation Guide v1.7.",
+          "sourceUrl": "https://docs.red.com/955-0196/955-0196_V1.7%20Rev-B%20RED%20PS%2C%20KOMODO%20Operation%20Guide%20HTML/Content/4_Menus/02_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published",
+          "note": "RED lists 1.8x and 1.6x anamorphic modes with identical published sensor area; consolidated."
         },
         {
           "name": "5K 17:9",
           "w": 22.53,
           "h": 11.88,
           "px": "5120×2700",
-          "source": "RED official KOMODO / KOMODO-X format tables"
+          "source": "RED official KOMODO Operation Guide v1.7 — All Formats",
+          "provenance": "MANUFACTURER_PUBLISHED",
+          "reason": "RED directly publishes this KOMODO sensor capture area in pixels and millimeters in the official Operation Guide v1.7.",
+          "sourceUrl": "https://docs.red.com/955-0196/955-0196_V1.7%20Rev-B%20RED%20PS%2C%20KOMODO%20Operation%20Guide%20HTML/Content/4_Menus/02_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published"
+        },
+        {
+          "name": "6K 6:5 / Ana 2x",
+          "w": 17.11,
+          "h": 14.26,
+          "px": "3888×3240",
+          "source": "RED official KOMODO Operation Guide v1.7 — All Formats",
+          "provenance": "MANUFACTURER_PUBLISHED",
+          "reason": "RED directly publishes this KOMODO sensor capture area in pixels and millimeters in the official Operation Guide v1.7.",
+          "sourceUrl": "https://docs.red.com/955-0196/955-0196_V1.7%20Rev-B%20RED%20PS%2C%20KOMODO%20Operation%20Guide%20HTML/Content/4_Menus/02_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published",
+          "note": "Added from RED KOMODO Operation Guide v1.7."
         },
         {
           "name": "4K 17:9",
           "w": 18.02,
           "h": 9.5,
           "px": "4096×2160",
-          "source": "RED official KOMODO / KOMODO-X format tables"
+          "source": "RED official KOMODO Operation Guide v1.7 — All Formats",
+          "provenance": "MANUFACTURER_PUBLISHED",
+          "reason": "RED directly publishes this KOMODO sensor capture area in pixels and millimeters in the official Operation Guide v1.7.",
+          "sourceUrl": "https://docs.red.com/955-0196/955-0196_V1.7%20Rev-B%20RED%20PS%2C%20KOMODO%20Operation%20Guide%20HTML/Content/4_Menus/02_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published"
+        },
+        {
+          "name": "4K 16:9",
+          "w": 16.9,
+          "h": 9.5,
+          "px": "3840×2160",
+          "source": "RED official KOMODO Operation Guide v1.7 — All Formats",
+          "provenance": "MANUFACTURER_PUBLISHED",
+          "reason": "RED directly publishes this KOMODO sensor capture area in pixels and millimeters in the official Operation Guide v1.7.",
+          "sourceUrl": "https://docs.red.com/955-0196/955-0196_V1.7%20Rev-B%20RED%20PS%2C%20KOMODO%20Operation%20Guide%20HTML/Content/4_Menus/02_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published",
+          "note": "Added from RED KOMODO Operation Guide v1.7."
         },
         {
           "name": "2K 17:9",
           "w": 9.01,
           "h": 4.75,
           "px": "2048×1080",
-          "source": "RED official KOMODO / KOMODO-X format tables"
+          "source": "RED official KOMODO Operation Guide v1.7 — All Formats",
+          "provenance": "MANUFACTURER_PUBLISHED",
+          "reason": "RED directly publishes this KOMODO sensor capture area in pixels and millimeters in the official Operation Guide v1.7.",
+          "sourceUrl": "https://docs.red.com/955-0196/955-0196_V1.7%20Rev-B%20RED%20PS%2C%20KOMODO%20Operation%20Guide%20HTML/Content/4_Menus/02_ProjSet/Format/All_Formats.htm",
+          "dimensionsStatus": "manufacturer-published"
         }
       ],
       "formatSource": "Manufacturer primary/official technical data; V13 audit"
@@ -3521,8 +3822,8 @@
       "maker": "BLACKMAGIC DESIGN",
       "name": "URSA Cine 17K 65",
       "mount": "PL / LPL optional",
-      "source": "Blackmagic Design official URSA Cine Technical Specifications",
-      "formatSource": "Blackmagic Design official URSA Cine 17K 65 Technical Specifications",
+      "source": "Blackmagic Design official URSA Cine 17K 65 Technical Specifications",
+      "formatSource": "Blackmagic Design official current technical specifications — effective sensor size, 2.9 µm pixel pitch and recording-format rasters; V136 primary geometry audit",
       "formats": [
         {
           "name": "17K / 8K / 4K 2.2:1 Open Gate",
@@ -3530,89 +3831,109 @@
           "w": 50.81,
           "h": 23.32,
           "source": "Blackmagic Design official URSA Cine 17K 65 Technical Specifications",
-          "dimensionsStatus": "manufacturer-derived",
-          "note": "Full sensor. 8K and 4K are resolution-scaled Open Gate outputs using the same sensor area. Physical W×H derived only from Blackmagic-published full active sensor dimensions and official sensor raster."
+          "dimensionsStatus": "manufacturer-published",
+          "note": "Blackmagic directly publishes the effective sensor size as 50.81 × 23.32 mm. 17K/8K/4K Open Gate rasters are resolution-scaled outputs of this full sensor area.",
+          "sourceUrl": "https://www.blackmagicdesign.com/products/blackmagicursacine/techspecs",
+          "provenance": "MANUFACTURER_PUBLISHED"
         },
         {
           "name": "17K / 8K / 4K 2:1 Full Height",
           "px": "16128×8040 / 10752×5360 / 5376×2680",
-          "w": 46.773,
-          "h": 23.32,
+          "w": 46.7712,
+          "h": 23.316,
           "source": "Blackmagic Design official URSA Cine 17K 65 Technical Specifications",
           "dimensionsStatus": "manufacturer-derived",
-          "note": "Full-height crop; 8K/4K are proportional scaled outputs of the same sensor-use rectangle. Physical W×H derived only from Blackmagic-published full active sensor dimensions and official sensor raster."
+          "note": "Physical active area is uniquely derived from Blackmagic-published recording-format raster × Blackmagic-published 2.9 µm pixel pitch. No third-party or estimated geometry used.",
+          "sourceUrl": "https://www.blackmagicdesign.com/products/blackmagicursacine/techspecs",
+          "provenance": "MANUFACTURER_DERIVED"
         },
         {
           "name": "17K 2.4:1",
           "px": "17520×7296",
-          "w": 50.81,
-          "h": 21.162,
+          "w": 50.808,
+          "h": 21.1584,
           "source": "Blackmagic Design official URSA Cine 17K 65 Technical Specifications",
           "dimensionsStatus": "manufacturer-derived",
-          "note": "Full-width 2.4:1 crop. Physical W×H derived only from Blackmagic-published full active sensor dimensions and official sensor raster."
+          "note": "Physical active area is uniquely derived from Blackmagic-published recording-format raster × Blackmagic-published 2.9 µm pixel pitch. No third-party or estimated geometry used.",
+          "sourceUrl": "https://www.blackmagicdesign.com/products/blackmagicursacine/techspecs",
+          "provenance": "MANUFACTURER_DERIVED"
         },
         {
           "name": "17K 17:9",
           "px": "15360×8040",
-          "w": 44.546,
-          "h": 23.32,
+          "w": 44.544,
+          "h": 23.316,
           "source": "Blackmagic Design official URSA Cine 17K 65 Technical Specifications",
           "dimensionsStatus": "manufacturer-derived",
-          "note": "Full-height 17:9 crop. Physical W×H derived only from Blackmagic-published full active sensor dimensions and official sensor raster."
+          "note": "Physical active area is uniquely derived from Blackmagic-published recording-format raster × Blackmagic-published 2.9 µm pixel pitch. No third-party or estimated geometry used.",
+          "sourceUrl": "https://www.blackmagicdesign.com/products/blackmagicursacine/techspecs",
+          "provenance": "MANUFACTURER_DERIVED"
         },
         {
           "name": "17K 16:9",
           "px": "14304×8040",
-          "w": 41.483,
-          "h": 23.32,
+          "w": 41.4816,
+          "h": 23.316,
           "source": "Blackmagic Design official URSA Cine 17K 65 Technical Specifications",
           "dimensionsStatus": "manufacturer-derived",
-          "note": "Full-height 16:9 crop. Physical W×H derived only from Blackmagic-published full active sensor dimensions and official sensor raster."
+          "note": "Physical active area is uniquely derived from Blackmagic-published recording-format raster × Blackmagic-published 2.9 µm pixel pitch. No third-party or estimated geometry used.",
+          "sourceUrl": "https://www.blackmagicdesign.com/products/blackmagicursacine/techspecs",
+          "provenance": "MANUFACTURER_DERIVED"
         },
         {
           "name": "12K / 8K / 4K 3:2",
           "px": "12288×8040 / 8192×5360 / 4096×2680",
-          "w": 35.637,
-          "h": 23.32,
+          "w": 35.6352,
+          "h": 23.316,
           "source": "Blackmagic Design official URSA Cine 17K 65 Technical Specifications",
           "dimensionsStatus": "manufacturer-derived",
-          "note": "8K/4K are proportional scaled outputs of the 12K sensor-use rectangle. Physical W×H derived only from Blackmagic-published full active sensor dimensions and official sensor raster."
+          "note": "Physical active area is uniquely derived from Blackmagic-published recording-format raster × Blackmagic-published 2.9 µm pixel pitch. No third-party or estimated geometry used.",
+          "sourceUrl": "https://www.blackmagicdesign.com/products/blackmagicursacine/techspecs",
+          "provenance": "MANUFACTURER_DERIVED"
         },
         {
           "name": "12K / 8K / 4K 16:9",
           "px": "12288×6912 / 8192×4608 / 4096×2304",
-          "w": 35.637,
-          "h": 20.048,
+          "w": 35.6352,
+          "h": 20.0448,
           "source": "Blackmagic Design official URSA Cine 17K 65 Technical Specifications",
           "dimensionsStatus": "manufacturer-derived",
-          "note": "Same physical sensor-use rectangle across scaled resolutions. Physical W×H derived only from Blackmagic-published full active sensor dimensions and official sensor raster."
+          "note": "Physical active area is uniquely derived from Blackmagic-published recording-format raster × Blackmagic-published 2.9 µm pixel pitch. No third-party or estimated geometry used.",
+          "sourceUrl": "https://www.blackmagicdesign.com/products/blackmagicursacine/techspecs",
+          "provenance": "MANUFACTURER_DERIVED"
         },
         {
           "name": "12K / 8K / 4K 17:9",
           "px": "12288×6480 / 8192×4320 / 4096×2160",
-          "w": 35.637,
-          "h": 18.795,
+          "w": 35.6352,
+          "h": 18.792,
           "source": "Blackmagic Design official URSA Cine 17K 65 Technical Specifications",
           "dimensionsStatus": "manufacturer-derived",
-          "note": "Same physical sensor-use rectangle across scaled resolutions. Physical W×H derived only from Blackmagic-published full active sensor dimensions and official sensor raster."
+          "note": "Physical active area is uniquely derived from Blackmagic-published recording-format raster × Blackmagic-published 2.9 µm pixel pitch. No third-party or estimated geometry used.",
+          "sourceUrl": "https://www.blackmagicdesign.com/products/blackmagicursacine/techspecs",
+          "provenance": "MANUFACTURER_DERIVED"
         },
         {
           "name": "12K 6:5",
           "px": "9648×8040",
-          "w": 27.98,
-          "h": 23.32,
+          "w": 27.9792,
+          "h": 23.316,
           "source": "Blackmagic Design official URSA Cine 17K 65 Technical Specifications",
           "dimensionsStatus": "manufacturer-derived",
-          "note": "Full-height 6:5 crop. Physical W×H derived only from Blackmagic-published full active sensor dimensions and official sensor raster."
+          "note": "Physical active area is uniquely derived from Blackmagic-published recording-format raster × Blackmagic-published 2.9 µm pixel pitch. No third-party or estimated geometry used.",
+          "sourceUrl": "https://www.blackmagicdesign.com/products/blackmagicursacine/techspecs",
+          "provenance": "MANUFACTURER_DERIVED"
         },
         {
           "name": "12K / 8K / 4K 2.4:1",
           "px": "12288×5112 / 8192×3408 / 4096×1704",
-          "w": 35.637,
-          "h": 14.827,
+          "w": 35.6352,
+          "h": 14.8248,
           "source": "Blackmagic Design official URSA Cine 17K 65 Technical Specifications",
           "dimensionsStatus": "manufacturer-derived",
-          "note": "Same physical sensor-use rectangle across scaled resolutions. Physical W×H derived only from Blackmagic-published full active sensor dimensions and official sensor raster."
+          "note": "Physical active area is uniquely derived from Blackmagic-published recording-format raster × Blackmagic-published 2.9 µm pixel pitch. No third-party or estimated geometry used.",
+          "sourceUrl": "https://www.blackmagicdesign.com/products/blackmagicursacine/techspecs",
+          "provenance": "MANUFACTURER_DERIVED"
         }
       ]
     },
@@ -3621,7 +3942,7 @@
       "name": "URSA Cine 12K LF",
       "mount": "PL / EF interchangeable",
       "source": "Blackmagic Design official URSA Cine Technical Specifications",
-      "formatSource": "Blackmagic Design official URSA Cine 12K LF Technical Specifications",
+      "formatSource": "Blackmagic Design official URSA Cine 12K LF Technical Specifications — published sensor/raster/pixel-pitch geometry; V135 primary derivation audit",
       "formats": [
         {
           "name": "12K / 8K / 4K 3:2 Open Gate",
@@ -3629,89 +3950,109 @@
           "w": 35.64,
           "h": 23.32,
           "source": "Blackmagic Design official URSA Cine 12K LF Technical Specifications",
-          "dimensionsStatus": "manufacturer-derived",
-          "note": "Full sensor Open Gate; 8K and 4K preserve the same field of view. Physical W×H derived from Blackmagic-published 35.64×23.32 mm active sensor and official 12288×8040 raster; no third-party value used."
+          "dimensionsStatus": "manufacturer-published",
+          "note": "Blackmagic directly publishes the 35.64×23.32 mm large-format sensor area. The 12K 3:2 Open Gate raster is 12288×8040; lower-resolution 8K/4K Open Gate modes preserve the same field of view.",
+          "sourceUrl": "https://www.blackmagicdesign.com/jp/products/blackmagicursacine/techspecs",
+          "provenance": "MANUFACTURER_PUBLISHED"
         },
         {
           "name": "12K / 8K / 4K 16:9",
           "px": "12288×6912 / 8192×4608 / 4096×2304",
-          "w": 35.64,
-          "h": 20.048,
+          "w": 35.6352,
+          "h": 20.0448,
           "source": "Blackmagic Design official URSA Cine 12K LF Technical Specifications",
           "dimensionsStatus": "manufacturer-derived",
-          "note": "Full-width 16:9 sensor-use rectangle; scaled resolutions consolidated. Physical W×H derived from Blackmagic-published 35.64×23.32 mm active sensor and official 12288×8040 raster; no third-party value used."
+          "note": "Physical W×H is uniquely derived from Blackmagic-published 12288×6912 sensor-use raster × Blackmagic-published 2.9 µm pixel pitch; no third-party or inferred crop factor is used.",
+          "sourceUrl": "https://www.blackmagicdesign.com/jp/products/blackmagicursacine/techspecs",
+          "provenance": "MANUFACTURER_DERIVED"
         },
         {
           "name": "12K / 8K / 4K 17:9",
           "px": "12288×6480 / 8192×4320 / 4096×2160",
-          "w": 35.64,
-          "h": 18.795,
+          "w": 35.6352,
+          "h": 18.792,
           "source": "Blackmagic Design official URSA Cine 12K LF Technical Specifications",
           "dimensionsStatus": "manufacturer-derived",
-          "note": "Full-width 17:9 sensor-use rectangle; scaled resolutions consolidated. Physical W×H derived from Blackmagic-published 35.64×23.32 mm active sensor and official 12288×8040 raster; no third-party value used."
+          "note": "Physical W×H is uniquely derived from Blackmagic-published 12288×6480 sensor-use raster × Blackmagic-published 2.9 µm pixel pitch; no third-party or inferred crop factor is used.",
+          "sourceUrl": "https://www.blackmagicdesign.com/jp/products/blackmagicursacine/techspecs",
+          "provenance": "MANUFACTURER_DERIVED"
         },
         {
           "name": "12K / 8K / 4K 6:5",
           "px": "9648×8040 / 6432×5360 / 3216×2680",
-          "w": 27.983,
-          "h": 23.32,
+          "w": 27.9792,
+          "h": 23.316,
           "source": "Blackmagic Design official URSA Cine 12K LF Technical Specifications",
           "dimensionsStatus": "manufacturer-derived",
-          "note": "Full-height 6:5 sensor-use rectangle; scaled resolutions consolidated. Physical W×H derived from Blackmagic-published 35.64×23.32 mm active sensor and official 12288×8040 raster; no third-party value used."
+          "note": "Physical W×H is uniquely derived from Blackmagic-published 9648×8040 sensor-use raster × Blackmagic-published 2.9 µm pixel pitch; no third-party or inferred crop factor is used.",
+          "sourceUrl": "https://www.blackmagicdesign.com/jp/products/blackmagicursacine/techspecs",
+          "provenance": "MANUFACTURER_DERIVED"
         },
         {
           "name": "12K / 8K / 4K 2.4:1",
           "px": "12288×5112 / 8192×3408 / 4096×1704",
-          "w": 35.64,
-          "h": 14.827,
+          "w": 35.6352,
+          "h": 14.8248,
           "source": "Blackmagic Design official URSA Cine 12K LF Technical Specifications",
           "dimensionsStatus": "manufacturer-derived",
-          "note": "Full-width 2.4:1 sensor-use rectangle; scaled resolutions consolidated. Physical W×H derived from Blackmagic-published 35.64×23.32 mm active sensor and official 12288×8040 raster; no third-party value used."
+          "note": "Physical W×H is uniquely derived from Blackmagic-published 12288×5112 sensor-use raster × Blackmagic-published 2.9 µm pixel pitch; no third-party or inferred crop factor is used.",
+          "sourceUrl": "https://www.blackmagicdesign.com/jp/products/blackmagicursacine/techspecs",
+          "provenance": "MANUFACTURER_DERIVED"
         },
         {
           "name": "9K 3:2 Super 35",
           "px": "9408×6264",
-          "w": 27.287,
-          "h": 18.169,
+          "w": 27.2832,
+          "h": 18.1656,
           "source": "Blackmagic Design official URSA Cine 12K LF Technical Specifications",
           "dimensionsStatus": "manufacturer-derived",
-          "note": "Blackmagic identifies this 9K window as Super 35. Physical W×H derived from Blackmagic-published 35.64×23.32 mm active sensor and official 12288×8040 raster; no third-party value used."
+          "note": "Physical W×H is uniquely derived from Blackmagic-published 9408×6264 sensor-use raster × Blackmagic-published 2.9 µm pixel pitch; no third-party or inferred crop factor is used.",
+          "sourceUrl": "https://www.blackmagicdesign.com/jp/products/blackmagicursacine/techspecs",
+          "provenance": "MANUFACTURER_DERIVED"
         },
         {
           "name": "9K 6:5 Super 35",
           "px": "7680×6408",
-          "w": 22.275,
-          "h": 18.586,
+          "w": 22.272,
+          "h": 18.5832,
           "source": "Blackmagic Design official URSA Cine 12K LF Technical Specifications",
           "dimensionsStatus": "manufacturer-derived",
-          "note": "9K Super 35 6:5 window. Physical W×H derived from Blackmagic-published 35.64×23.32 mm active sensor and official 12288×8040 raster; no third-party value used."
+          "note": "Physical W×H is uniquely derived from Blackmagic-published 7680×6408 sensor-use raster × Blackmagic-published 2.9 µm pixel pitch; no third-party or inferred crop factor is used.",
+          "sourceUrl": "https://www.blackmagicdesign.com/jp/products/blackmagicursacine/techspecs",
+          "provenance": "MANUFACTURER_DERIVED"
         },
         {
           "name": "9K 17:9 Super 35",
           "px": "9312×4896",
-          "w": 27.008,
-          "h": 14.201,
+          "w": 27.0048,
+          "h": 14.1984,
           "source": "Blackmagic Design official URSA Cine 12K LF Technical Specifications",
           "dimensionsStatus": "manufacturer-derived",
-          "note": "9K Super 35 window. Physical W×H derived from Blackmagic-published 35.64×23.32 mm active sensor and official 12288×8040 raster; no third-party value used."
+          "note": "Physical W×H is uniquely derived from Blackmagic-published 9312×4896 sensor-use raster × Blackmagic-published 2.9 µm pixel pitch; no third-party or inferred crop factor is used.",
+          "sourceUrl": "https://www.blackmagicdesign.com/jp/products/blackmagicursacine/techspecs",
+          "provenance": "MANUFACTURER_DERIVED"
         },
         {
           "name": "9K 16:9 Super 35",
           "px": "8688×4896",
-          "w": 25.199,
-          "h": 14.201,
+          "w": 25.1952,
+          "h": 14.1984,
           "source": "Blackmagic Design official URSA Cine 12K LF Technical Specifications",
           "dimensionsStatus": "manufacturer-derived",
-          "note": "9K Super 35 window. Physical W×H derived from Blackmagic-published 35.64×23.32 mm active sensor and official 12288×8040 raster; no third-party value used."
+          "note": "Physical W×H is uniquely derived from Blackmagic-published 8688×4896 sensor-use raster × Blackmagic-published 2.9 µm pixel pitch; no third-party or inferred crop factor is used.",
+          "sourceUrl": "https://www.blackmagicdesign.com/jp/products/blackmagicursacine/techspecs",
+          "provenance": "MANUFACTURER_DERIVED"
         },
         {
           "name": "9K 2.4:1 Super 35",
           "px": "9312×3864",
-          "w": 27.008,
-          "h": 11.208,
+          "w": 27.0048,
+          "h": 11.2056,
           "source": "Blackmagic Design official URSA Cine 12K LF Technical Specifications",
           "dimensionsStatus": "manufacturer-derived",
-          "note": "9K Super 35 2.4:1 window. Physical W×H derived from Blackmagic-published 35.64×23.32 mm active sensor and official 12288×8040 raster; no third-party value used."
+          "note": "Physical W×H is uniquely derived from Blackmagic-published 9312×3864 sensor-use raster × Blackmagic-published 2.9 µm pixel pitch; no third-party or inferred crop factor is used.",
+          "sourceUrl": "https://www.blackmagicdesign.com/jp/products/blackmagicursacine/techspecs",
+          "provenance": "MANUFACTURER_DERIVED"
         }
       ]
     },
