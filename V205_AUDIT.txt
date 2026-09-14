@@ -1,0 +1,22 @@
+LensScope V205 AUDIT
+
+Focus: Canon EOS C80 Super 35 HFR crop semantics
+
+Primary finding:
+Canon USA's current EOS C80 product specifications explicitly state that when frame rate exceeds 100P in Super 35mm mode, angle of view is cropped by approximately 6%. Current S35 S&F tables reach 120P. V204 only described this as an unspecified “slightly narrower” 120P crop.
+
+Change:
+- Renamed the mode to “Super 35 120P · approx. 6% additional crop”.
+- Preserved MANUFACTURER_PUBLISHED_MODE_ONLY.
+- Did NOT create physical W×H from the approximate 6% statement.
+- Updated provenance to Canon's current product specification.
+
+Validation:
+- cameras: 46
+- formats: 433
+- numeric geometries: 395
+- active-area numeric order violations: 0
+- data.json == embedded DATA: PASS
+- JavaScript syntax: PASS
+
+Confidence: VERY HIGH / CANON PRIMARY / SEMANTIC PRECISION IMPROVEMENT

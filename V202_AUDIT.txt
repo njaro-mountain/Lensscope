@@ -1,0 +1,15 @@
+LensScope V202 audit
+
+Focus: Blackmagic URSA Cine 12K LF current primary recording-format audit.
+
+Meaningful change:
+- Added 4.6K 16:9 B4 crop (4608×2592), which is present in Blackmagic Design’s current official URSA Cine technical specifications but absent from V201.
+- Blackmagic publishes 2.9 µm pixel pitch for URSA Cine 12K LF. The format raster therefore uniquely yields 13.3632×7.5168 mm active area; LensScope stores 13.36×7.52 mm, consistent with existing 0.01 mm normalization for manufacturer-derived Blackmagic geometry.
+- Blackmagic also lists this mode at up to 240 fps.
+- No codec-only duplicates added.
+- No third-party or estimated geometry used.
+
+Primary source:
+https://www.blackmagicdesign.com/products/blackmagicursacine/techspecs
+
+Confidence: VERY HIGH / BLACKMAGIC PRIMARY + UNIQUELY DERIVED

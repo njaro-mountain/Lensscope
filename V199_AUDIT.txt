@@ -1,0 +1,15 @@
+LensScope V199 AUDIT
+
+Scope: ARRI ALEXA 35 Xtreme primary-source refresh / license-set clarification
+
+Primary source:
+ARRI Formats and Resolutions Overview v6.3, published 2026-07-15.
+
+Changes:
+- Refreshed all ALEXA 35 Xtreme format provenance from ARRI AFRO v6.0 to current v6.3.
+- Geometry values are unchanged; v6.3 confirms the existing eight Premium-model sensor modes and published Sensor Image Area dimensions.
+- Clarified that the LensScope ALEXA 35 Xtreme entry represents the Premium-model mode set.
+- ARRI v6.3 separately lists a smaller Base-model subset.
+- Rechecked 3K 1:1 and 2.7K 8:9: v6.3 lists these for regular ALEXA 35, not ALEXA 35 Xtreme, so they remain excluded from Xtreme.
+
+Confidence: VERY HIGH / ARRI PRIMARY / CURRENT V6.3

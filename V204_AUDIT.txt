@@ -1,0 +1,10 @@
+V204 AUDIT
+
+Scope: Blackmagic Design URSA Cine 12K LF vs URSA Cine 12K LF 100G — model-specific recording-format audit.
+
+Primary sources: Blackmagic Design official URSA Cine product page and Technical Specifications.
+Finding: V202 added 4608×2592 “4.6K 16:9 B4 crop” to the generic URSA Cine 12K LF entry. Blackmagic’s current primary specifications list that mode only for the newer URSA Cine 12K LF 100G family; the standard 10G URSA Cine 12K LF specification does not list the B4 crop or 240 fps B4 mode. Blackmagic separately markets the 100G family with optional B4 mount and up to 240 fps.
+Change: Removed 4.6K B4 crop from the standard URSA Cine 12K LF. Added a distinct URSA Cine 12K LF 100G camera entry with the same published large-format/S35/scaled format family plus the dedicated 4.6K 16:9 B4 crop. B4 geometry remains 13.36×7.52 mm, uniquely derived from Blackmagic’s published 4608×2592 raster and 2.9 µm pixel pitch. No third-party geometry used.
+Confidence: VERY HIGH — current Blackmagic primary product/specification pages distinguish the models and their supported shooting formats.
+
+Validation: active-area ordering checked; duplicate numeric geometry checked within each camera; data.json and embedded HTML DATA synchronized; JavaScript syntax checked.

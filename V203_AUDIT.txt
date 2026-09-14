@@ -1,0 +1,10 @@
+V203 AUDIT
+
+Scope: Blackmagic Design URSA Cine 17K 65 — 6:5 scaled recording-format alias audit.
+
+Primary source: Blackmagic Design official URSA Cine Technical Specifications.
+Finding: The existing 12K 6:5 entry (9648×8040, 27.98×23.32 mm) omitted Blackmagic's explicitly listed 8K 6432×5360 and 4K 3216×2680 scaled formats. Blackmagic classifies the lower-resolution formats as full sensor width or height scaled to those rasters, so they do not create new active sensor geometry.
+Change: Renamed the existing entry to “12K / 8K / 4K 6:5” and added both scaled rasters to px. Geometry remains 27.98×23.32 mm. No inferred or third-party geometry added.
+Confidence: VERY HIGH — manufacturer primary source; exact recording-format relationship stated by Blackmagic.
+
+Validation: active-area ordering checked; duplicate numeric geometry checked; data.json and embedded HTML DATA synchronized; JavaScript syntax checked.

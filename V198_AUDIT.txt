@@ -1,0 +1,7 @@
+LensScope V198 audit
+
+Change: Canon EOS R5 Mark II Full Frame DCI/UHD family physical W×H removed.
+Reason: Canon publishes approx. 36.0×24.0 mm sensor screen size and approx. 4.40 µm pixel unit, plus movie rasters, but no exact movie active physical W×H. Under the strict policy, raster × approximate pixel pitch is not treated as verified geometry.
+Modes retained as MANUFACTURER_PUBLISHED_MODE_ONLY. Movie Crop modes remain mode-only.
+Primary sources: https://www.usa.canon.com/support/p/eos-r5-mark-ii ; https://cam.start.canon/en/C017/manual/html/UG-03_Shooting-2_0040.html
+Also checked ARRI ALEXA 35 Xtreme current primary pages; no change made because current Xtreme-specific format list does not include 3K 1:1 / 2.7K 8:9.

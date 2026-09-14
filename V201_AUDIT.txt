@@ -1,0 +1,19 @@
+LensScope V201 audit — Sony VENICE Surround View coverage correction
+
+Change:
+- Removed three standalone VENICE Surround View outer-margin geometries from coverage calculation:
+  - 4K 4:3: 27.0×20.0 mm look-around outer region
+  - 4K 17:9: 27.0×14.3 mm look-around outer region
+  - 3.8K 16:9: 25.4×14.3 mm look-around outer region
+- Preserved the camera menu modes as modeAliases of the actual recorded geometries:
+  - 24.3×18.0 mm
+  - 24.3×12.8 mm
+  - 22.8×12.8 mm
+
+Primary evidence:
+- Sony Pro VENICE official Sensor Modes table
+  https://pro.sony/en_GB/pro/product/venice
+- Sony VENICE Operations Manual v2, Surround View definition: the recorded image area does not include the outer region.
+  https://pro.sony/s3/2018/06/27130706/VENICE_Operations_Manual_v2.pdf
+
+Confidence: VERY HIGH / SONY PRIMARY / COVERAGE-SEMANTICS CORRECTION

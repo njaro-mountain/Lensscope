@@ -1,0 +1,19 @@
+LensScope V197 audit
+
+Focus: Canon EOS R6 Mark III geometry reliability correction.
+
+Primary evidence:
+- Canon EOS R6 Mark III Product Manual, Movie recording size: Canon publishes Recording Angle of View as approximate horizontal/vertical percentages referenced to still-photo JPEG/HEIF = 100%.
+  https://cam.start.canon/en/C022/manual/html/UG-04_Shooting_0050.html
+- Canon EOS R6 Mark III specifications: sensor screen size is approximately 35.9 × 23.9 mm.
+  https://cam.start.canon/en/C022/manual/html/UG-11_Reference_0090.html
+
+Correction:
+V196 stored eight physical W×H values produced by multiplying the approximate Canon angle-of-view percentages by the nominal sensor screen size. That is not a uniquely valid physical-geometry derivation: Canon describes the values as recording angle of view percentages and does not define them as linear active-sensor dimension percentages. V197 therefore removes W×H from all eight EOS R6 Mark III movie-mode entries and marks them MANUFACTURER_PUBLISHED_MODE_ONLY.
+
+Preserved:
+- All eight Canon-published modes and recording rasters.
+- Canon's relative angle-of-view percentages, stored as evidence.
+- Format ordering, which remains consistent with Canon's relative-view figures.
+
+No third-party or inferred physical geometry was added.

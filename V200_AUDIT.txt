@@ -1,0 +1,27 @@
+LensScope V200 AUDIT
+
+Sony VENICE 2 6K — Surround View coverage correction
+
+Sony defines Surround View as a 5% outer region shown in the viewfinder / SDI monitor output and explicitly states that the recorded image area does not include the outer region.
+
+Changes:
+- Removed three monitoring-only outer geometries from Coverage Map:
+  - 4K 4:3 Surround View 27.0×20.0 mm
+  - 4K 17:9 Surround View 27.0×14.3 mm
+  - 3.8K 16:9 Surround View 25.4×14.3 mm
+- Preserved each Surround View menu variant as modeAliases on its actual recorded geometry:
+  - 4K 4:3 = 24.3×18.0 mm
+  - 4K 17:9 = 24.3×12.8 mm
+  - 3.8K 16:9 = 22.8×12.8 mm
+- No inferred geometry added.
+
+Primary evidence:
+Sony VENICE Operating Instructions: Surround View outer region is monitoring-only; recorded image area excludes it.
+https://pro.sony/s3/2018/06/27130706/VENICE_Operations_Manual_v2.pdf
+Sony Pro VENICE imager-mode table publishes base and parenthetical Surround View dimensions.
+
+Validation:
+- Active-area ordering violations: 0
+- data.json / embedded DATA: MATCH
+
+Confidence: VERY HIGH / SONY PRIMARY / COVERAGE-SEMANTICS CORRECTION
