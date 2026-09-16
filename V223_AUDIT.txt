@@ -1,0 +1,5 @@
+V223 — GFX ETERNA 55 primary-source operational audit
+Source: FUJIFILM GFX ETERNA 55 White Paper Ver.1.01 (2026-02-06), Recording Formats and Resolutions Table.
+All 20 consolidated coverage geometries rechecked: no W×H corrections required.
+Shared 8K 17:9 remains one coverage geometry, while preserving max FPS by menu family: GF/Premista/35mm 24p; Anamorphic (35mm) 29.97p.
+No inferred geometry added.

@@ -1,0 +1,14 @@
+LensScope V225 AUDIT
+Target: ARRI ALEXA 35 SUP 6.0.0 sensor-mode completeness audit
+
+Meaningful primary-source correction:
+- Added missing ALEXA 35 "HD 16:9 S16" sensor mode.
+- Manufacturer-published Active Image Area: 1920 x 1080 photosites, 11.7 x 6.6 mm.
+- Recording resolution: ARRIRAW HD (1920 x 1080) / ProRes HD (1920 x 1080).
+- Provenance: MANUFACTURER_PUBLISHED.
+- No inferred or third-party geometry added.
+- Existing modes were not altered.
+- Formats re-sorted by physical active sensor area descending.
+
+Primary source:
+ARRI ALEXA 35 SUP 6.0.0 User Manual, Sensor Modes & Recording Resolutions.

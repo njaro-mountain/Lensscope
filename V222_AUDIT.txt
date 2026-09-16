@@ -1,0 +1,4 @@
+V222 FX5 operational-mode audit
+
+Sony official FX5 Help Guide confirms codec/project-frame-rate availability differs by Imager Mode. Added exact primary-source trigger constraints to all seven FX5 modes without changing physical geometry. No inferred geometry added.
+Source: https://helpguide.sony.net/ilc/2630/v1/en/contents/basic_action.html

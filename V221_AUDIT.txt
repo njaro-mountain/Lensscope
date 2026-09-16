@@ -1,0 +1,7 @@
+LensScope V221
+
+Correction: removed stale HARD_MODE_ONLY / PRIMARY_RESEARCHED_UNRESOLVED metadata from ALEXA Mini LF 4.5K LF 1.89:1 after V220 correctly restored ARRI-published sensor-active geometry.
+
+Primary evidence: ARRI SUP 7.3.2 distinguishes Sensor Active Image Area (4448x2574, 36.70x21.23 mm) from ARRIRAW recording file image content (4448x2346).
+
+No geometry changed. data.json and embedded DATA synchronized. Physical-area order PASS.

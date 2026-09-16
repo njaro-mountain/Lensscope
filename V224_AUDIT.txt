@@ -1,0 +1,13 @@
+LensScope V224 AUDIT
+Target: ARRI ALEXA Mini LF operational recording-mode audit
+Primary source: ARRI ALEXA Mini LF SUP 7.3.2 User Manual (2026)
+
+Changes:
+- No geometry values changed.
+- Added manufacturer-published codec/resolution-specific maximum frame-rate conditions to all 10 Mini LF sensor modes.
+- Preserved Sensor Active Image Area separately from Recording Resolution, including 4.5K LF 1.89:1 active 4448×2574 vs ARRIRAW clip 4448×2346.
+- No inferred or third-party geometry added.
+
+Validation:
+- data.json and embedded DATA synchronized.
+- Existing format order and geometry preserved.

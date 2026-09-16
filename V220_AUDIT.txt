@@ -1,0 +1,6 @@
+V220 — ALEXA Mini LF 4.5K LF 1.89:1 correction
+
+ARRI SUP 7.3.2 Technical Data distinguishes Sensor Active Image Area from Recording Resolution.
+Sensor Active Image Area: 36.70 × 21.23 mm / 4448 × 2574 photosites.
+ARRIRAW clip resolution: 4448 × 2346.
+V219 mistakenly compared the clip raster against the physical active area and downgraded the mode to HARD_MODE_ONLY. V220 restores MANUFACTURER_PUBLISHED geometry using ARRI’s explicit sensor-active values.

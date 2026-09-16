@@ -1,0 +1,13 @@
+LensScope V226 AUDIT
+Target: ARRI ALEXA 35 / ALEXA 35 Xtreme sensor-mode scope correction
+
+Correction:
+- Removed "HD 16:9 S16" from the standard ALEXA 35 entry.
+- V225 incorrectly copied this mode from ALEXA 35 Xtreme.
+- ARRI ALEXA 35 SUP 6.0.0 section 11.3.1 (ALEXA 35 / ALEXA 35 LIVE) ends with 2K 16:9 S16.
+- Section 11.3.2 (ALEXA 35 Xtreme) explicitly adds native HD 16:9 S16 at 1920x1080 active photosites / 11.7x6.6 mm.
+- The existing ALEXA 35 Xtreme HD mode remains unchanged.
+- No inferred or third-party geometry added.
+
+Validation:
+- data.json and embedded DATA synchronized.
