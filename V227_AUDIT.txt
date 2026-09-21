@@ -1,0 +1,16 @@
+LensScope V227 PUSH CANDIDATE AUDIT
+
+Applied only post-V226 changes revalidated against manufacturer primary sources:
+1. ARRI ALEXA 35: added missing 3.8K 2.39:1 sensor mode, 3840x1608 active photosites / 23.3x9.8 mm (ARRI SUP 6.0.0 direct).
+2. ARRI ALEXA Mini LF: corrected 3.4K S35 3:2 height 18.16 -> 18.17 mm (3424x2202 / 28.25x18.17 mm, ARRI primary direct).
+3. Sony FX5: kept UPCOMING; updated Japan availability note to Sony's 2026-09-18 revision: release late October 2026 or later.
+
+Rejected / not applied after re-check:
+- DJI Ronin 4D geometry removal: V226 already cites DJI User Manual v1.4 direct Image Area W×H; keep.
+- URSA Cine 12K LF B4 crop: belongs to 12K LF 100G; V226 already split correctly.
+- ALEXA Mini HD vs ARRIRAW 2.8K: already consolidated in V226.
+- ALEXA SXT codec duplicates: already consolidated in V226.
+- V-RAPTOR anamorphic/spherical same-geometry aliases: already consolidated in V226.
+- FX5 UPCOMING removal: rejected; Sony Japan still lists Coming Soon after launch delay.
+
+Validation: all numeric camera formats sorted by W×H area descending; data.json synchronized to embedded DATA.
