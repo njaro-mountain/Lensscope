@@ -595,17 +595,28 @@ function updateRealTestUI(c,f,l,fl){
    return false;
  }
  const irisLabel=state.iris==='open'?'OPEN':'CLOSE';
- // FIX17: REAL TEST is empirical evidence. Do not carry the optical-map coverage verdict into this view.
+ // V228: REAL TEST now uses the same verified Camera Geometry Master as OPTICAL MAP.
+ // The legacy capture remains the empirical source image; only the requested frame/crop
+ // is generated from the selected Recording Format physical W×H.
  const empiricalStatus=$("#status");
  empiricalStatus.textContent="EMPIRICAL VIEW";
  empiricalStatus.className="v warn";
- $("#realInfo").innerHTML=`<b>REAL TEST</b> · ${l.name} ${fl} mm · ${irisLabel}<br>Legacy capture calibrated at ${rt.sampleSensorW}×${rt.sampleSensorH} mm. CSV transform: PAN ${rt.pan}, TILT ${rt.tilt}, WEXP ${rt.wexp}, HEXP ${rt.hexp}. <span class="realWarn">Empirical imagery; manufacturer IC data remains separate.</span>`;
+ const masterFrame=formatHasPhysicalDims(f);
+ const frameW=masterFrame?Number(f.w):Number(rt.sampleSensorW);
+ const frameH=masterFrame?Number(f.h):Number(rt.sampleSensorH);
+ const frameSource=masterFrame?"CAMERA GEOMETRY MASTER":"LEGACY CAPTURE FALLBACK";
+ $("#realInfo").innerHTML=`<b>REAL TEST</b> · ${l.name} ${fl} mm · ${irisLabel}<br>Frame: ${frameW.toFixed(2)}×${frameH.toFixed(2)} mm · ${f.name} · ${frameSource}. Capture source: ${rt.sampleSensorW}×${rt.sampleSensorH} mm. <span class="realWarn">Empirical image; frame geometry is shared with OPTICAL MAP.</span>`;
  const img=$("#realTestImg"); img.src=rt[state.iris];
- img.style.width=(100*rt.wexp)+'%'; img.style.height=(100*rt.hexp)+'%';
- img.style.left=(50-(rt.pan/rt.sampleSensorW)*100)+'%';
- img.style.top=(50-(rt.tilt/rt.sampleSensorH)*100)+'%';
- const layer=$("#realTestLayer"); layer.style.width='74.8%'; layer.style.aspectRatio=`${rt.sampleSensorW}/${rt.sampleSensorH}`;
- if(formatHasPhysicalDims(f)) $("#sensor").style.width=Math.min(100,100*f.w/rt.sampleSensorW*0.748)+'%';
+ // Re-project the full legacy capture into the selected physical sensor window.
+ // This keeps the original PAN/TILT/WEXP/HEXP calibration intact while changing
+ // the frame reference from the capture sensor to the verified format geometry.
+ img.style.width=(100*rt.wexp*rt.sampleSensorW/frameW)+'%';
+ img.style.height=(100*rt.hexp*rt.sampleSensorH/frameH)+'%';
+ img.style.left=(50-(rt.pan/frameW)*100)+'%';
+ img.style.top=(50-(rt.tilt/frameH)*100)+'%';
+ const layer=$("#realTestLayer"); layer.style.width='74.8%'; layer.style.aspectRatio=`${frameW}/${frameH}`;
+ $("#sensor").style.width='74.8%';
+ $("#sensor").style.aspectRatio=`${frameW}/${frameH}`;
 
  // FIX15: anamorphic REAL TEST is automatically desqueezed for viewing.
  // Apply the same horizontal squeeze correction to BOTH the empirical image layer
@@ -1095,6 +1106,7 @@ if(state.matchCamera<0) state.matchCamera=0; state.matchFormat=0; render();
 // V111 FIX18: mobile picker follows VisualViewport so suggestions stay above the software keyboard.
 // V111 FIX17: empirical-view status, captured-focal zoom stepping, ASCII-safe empirical assets.
 // V111 prototype fix: the REAL TEST metadata is embedded in this HTML.
+// V228: REAL TEST frame geometry is sourced from the same verified camera-format W×H used by OPTICAL MAP; legacy VENICE capture dimensions are retained only as source-image calibration/fallback.
 // Do not replace it with a repository-level data.json, which may still be V110 and lacks realWorldVignetting.
 // External data.json remains packaged for inspection/export only.
 </script>

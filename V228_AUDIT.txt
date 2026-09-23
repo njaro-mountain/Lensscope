@@ -1,0 +1,14 @@
+LensScope V228
+2026-09-23
+
+DIRECTION CHANGE — REAL TEST × OPTICAL MAP GEOMETRY FUSION
+
+- REAL TEST frame geometry now comes from the selected Recording Format's verified physical W×H — the same Camera Geometry Master used by OPTICAL MAP.
+- Legacy VENICE 2 REAL TEST captures remain untouched as empirical source imagery.
+- Existing PAN / TILT / WEXP / HEXP calibration is preserved and re-projected into the selected format window.
+- If a selected format has no verified physical W×H, REAL TEST falls back to the legacy capture geometry instead of inventing dimensions.
+- REAL TEST remains empirical evidence; OPTICAL MAP coverage verdicts are not copied into REAL TEST.
+- No camera or lens source data was changed in this revision.
+
+Purpose:
+Fuse the high-confidence camera geometry accumulated through the V1–V227 audit work with the REAL TEST system, so theoretical geometry and empirical imagery share one frame definition.
