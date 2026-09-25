@@ -1,0 +1,13 @@
+{
+  "result": "PASS",
+  "tests": [
+    "HTTP missing image",
+    "retry",
+    "stale image response",
+    "unknown mode fallback label",
+    "known mode recovery",
+    "mobile portrait / landscape / desktop resize",
+    "reload"
+  ],
+  "pageErrors": []
+}

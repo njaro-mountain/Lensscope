@@ -1,0 +1,232 @@
+--- a/index.html
++++ b/index.html
+@@ -4,7 +4,7 @@
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+ <meta name="theme-color" content="#090a0c">
+-<title>LensScope V135 — Blackmagic Primary Geometry Audit</title>
++<title>LensScope V228 — Basic Flow Fix</title>
+ <style>
+ :root{
+   --bg:#08090b;--panel:#111318;--panel2:#16191f;--line:#282c34;
+@@ -212,7 +212,7 @@
+ <body>
+ <div class="shell">
+ <header>
+-  <div class="brand"><span class="mark"></span>LensScope <small>V135 · BLACKMAGIC PRIMARY GEOMETRY AUDIT</small></div>
++  <div class="brand"><span class="mark"></span>LensScope <small>V228 · BASIC FLOW FIX</small></div>
+   <span class="beta">MOBILE + PC</span>
+ </header>
+ 
+@@ -564,6 +564,26 @@
+  if(tested.length) return {kind:"partial",label:"PARTIAL TEST",detail:`This lens family has real-world captures, but not at ${fl} mm. Tested: ${tested.join(" / ")} mm.`,rt:null,tested};
+  return {kind:"none",label:"NO CAPTURE",detail:"No real-world capture exists in the legacy VENICE library for this lens family.",rt:null,tested:[]};
+ }
++let realImageRequest=0, realImageURL='', realImageStatus='idle';
++function syncRealImageStatus(){
++ if(!$('.stage').classList.contains('realMode')) return;
++ $('#realTestImg').style.visibility=realImageStatus==='loaded'?'visible':'hidden';
++ let note=$('#realImageNotice');
++ if(!note){note=document.createElement('span');note.id='realImageNotice';$('#realInfo').append(note);}
++ note.textContent=realImageStatus==='error'?' Capture image could not be loaded. Re-select REAL TEST to retry.':realImageStatus==='loading'?' Loading capture…':'';
++ $('#status').textContent=realImageStatus==='error'?'CAPTURE UNAVAILABLE':realImageStatus==='loading'?'LOADING CAPTURE':'EMPIRICAL VIEW';
++ if(realImageStatus==='error' && $('#realStateBadge')){$('#realStateBadge').textContent='DATA ISSUE';$('#realStateBadge').className='realStateBadge issue';}
++}
++function loadRealImage(url){
++ if(realImageURL!==url){
++   realImageURL=url;realImageStatus='loading';const request=++realImageRequest;
++   const image=new Image();
++   image.onload=()=>{if(request!==realImageRequest)return;$('#realTestImg').src=url;realImageStatus='loaded';syncRealImageStatus();};
++   image.onerror=()=>{if(request!==realImageRequest)return;$('#realTestImg').removeAttribute('src');realImageStatus='error';syncRealImageStatus();};
++   image.src=url;
++ }
++ syncRealImageStatus();
++}
+ function updateRealTestUI(c,f,l,fl){
+  const rs=realTestState(l,fl), rt=rs.rt, stage=document.querySelector('.stage');
+  const realBtn=$("#modeReal"), openBtn=$("#irisOpen"), downBtn=$("#irisDown"), badge=$("#realStateBadge");
+@@ -586,6 +606,7 @@
+  $("#realInfo").classList.toggle('on',!suppressNoCapture);
+ 
+  if(!active){
++   realImageRequest++; realImageURL=''; realImageStatus='idle';
+    const idleImg=$("#realTestImg");
+    if(idleImg.getAttribute("src")) idleImg.removeAttribute("src");
+    if(suppressNoCapture){ $("#realInfo").innerHTML=""; return false; }
+@@ -605,8 +626,13 @@
+  const frameW=masterFrame?Number(f.w):Number(rt.sampleSensorW);
+  const frameH=masterFrame?Number(f.h):Number(rt.sampleSensorH);
+  const frameSource=masterFrame?"CAMERA GEOMETRY MASTER":"LEGACY CAPTURE FALLBACK";
+- $("#realInfo").innerHTML=`<b>REAL TEST</b> · ${l.name} ${fl} mm · ${irisLabel}<br>Frame: ${frameW.toFixed(2)}×${frameH.toFixed(2)} mm · ${f.name} · ${frameSource}. Capture source: ${rt.sampleSensorW}×${rt.sampleSensorH} mm. <span class="realWarn">Empirical image; frame geometry is shared with OPTICAL MAP.</span>`;
+- const img=$("#realTestImg"); img.src=rt[state.iris];
++ $("#realInfo").innerHTML=`<b>REAL TEST</b> · ${l.name} ${fl} mm · ${irisLabel}<br>Frame: ${frameW.toFixed(2)}×${frameH.toFixed(2)} mm · ${f.name} · ${frameSource}. Capture source: ${rt.sampleSensorW}×${rt.sampleSensorH} mm. <span class="realWarn">${masterFrame?"Empirical image; frame geometry is shared with OPTICAL MAP.":"Selected camera active area is unknown. Showing the source capture only; this is not the selected camera frame."}</span>`;
++ const captureW=Number(rt.wexp)*Number(rt.sampleSensorW), captureH=Number(rt.hexp)*Number(rt.sampleSensorH);
++ if(masterFrame && (frameW/2+Math.abs(Number(rt.pan))>captureW/2+0.001 || frameH/2+Math.abs(Number(rt.tilt))>captureH/2+0.001)){
++   $('#realInfo').innerHTML+='<br><span class="realWarn">Frame extends beyond the source capture. Areas outside the captured image are untested, not evidence of vignetting.</span>';
++ }
++ const img=$("#realTestImg");
++ loadRealImage(rt[state.iris]);
+  // Re-project the full legacy capture into the selected physical sensor window.
+  // This keeps the original PAN/TILT/WEXP/HEXP calibration intact while changing
+  // the frame reference from the capture sensor to the verified format geometry.
+@@ -614,8 +640,11 @@
+  img.style.height=(100*rt.hexp*rt.sampleSensorH/frameH)+'%';
+  img.style.left=(50-(rt.pan/frameW)*100)+'%';
+  img.style.top=(50-(rt.tilt/frameH)*100)+'%';
+- const layer=$("#realTestLayer"); layer.style.width='74.8%'; layer.style.aspectRatio=`${frameW}/${frameH}`;
+- $("#sensor").style.width='74.8%';
++ const layer=$("#realTestLayer");
++ const viz=$('.viz');
++ const frameWidth=Math.min(74.8,92*(viz.clientHeight/viz.clientWidth)*frameW/frameH);
++ layer.style.width=frameWidth+'%'; layer.style.aspectRatio=`${frameW}/${frameH}`;
++ $("#sensor").style.width=frameWidth+'%';
+  $("#sensor").style.aspectRatio=`${frameW}/${frameH}`;
+ 
+  // FIX15: anamorphic REAL TEST is automatically desqueezed for viewing.
+@@ -624,7 +653,7 @@
+  const anamReal=hasLensTag(l,"anamorphic") && Number(l.squeeze)>1;
+  if(anamReal){
+    const sq=Number(l.squeeze);
+-   const fit=Math.min(1,0.92/(0.748*sq));
++   const fit=Math.min(1,92/(frameWidth*sq));
+    const sx=fit*sq, sy=fit;
+    layer.style.transform=`scale(${sx},${sy})`;
+    $("#sensor").style.transform=`scale(${sx},${sy})`;
+@@ -638,6 +667,7 @@
+  }
+  if($("#realBadge")) $("#realBadge").textContent=`${l.name.toUpperCase()} · ${fl}mm · ${irisLabel}`;
+  $("#model").classList.add('estimateNote');
++ syncRealImageStatus();
+  return true;
+ }
+ 
+@@ -715,8 +745,32 @@
+  $('#formatEvidenceBody').innerHTML=`<b>Geometry</b> ${escHtml(dims)}<br><b>Raster</b> ${escHtml(raster)}<br><b>Evidence</b> ${escHtml(kind.replaceAll('_',' '))}<br><b>Source</b> ${escHtml(source)}${note?`<br><b>Note</b> ${escHtml(note)}`:''}`;
+ }
+ 
++// Normalize view state before any focal-dependent controls or metrics are drawn.
++function normalizeCoverageState(){
++ const {l,fl}=current();
++ if(state.viewMode!=='real') return;
++ const rs=realTestState(l,fl);
++ if(rs.kind==='none'||rs.kind==='issue'){state.viewMode='optical';return;}
++ if(hasLensTag(l,'zoom') && rs.tested.length){state.focal=nearestRealTestFocal(l,fl);}
++ else if(!rs.rt){state.viewMode='optical';}
++}
++// Fit all optical shapes together: clamping only the sensor corrupts the scale.
++function fitOpticalGeometry(){
++ const viz=$('.viz'), nodes=['#sensor','#circle','#rectCov'].map($).filter(el=>el.style.display!=='none');
++ const ratio=viz.clientHeight/viz.clientWidth;
++ let maxW=0,maxH=0;
++ for(const el of nodes){
++   const w=parseFloat(el.style.width), parts=(el.style.aspectRatio||'1/1').split('/').map(Number);
++   const aspect=parts[0]/(parts[1]||1);
++   maxW=Math.max(maxW,w);maxH=Math.max(maxH,w/aspect);
++ }
++ const fit=Math.min(1,92/maxW,92*ratio/maxH);
++ if(Number.isFinite(fit)&&fit>0) nodes.forEach(el=>el.style.width=(parseFloat(el.style.width)*fit)+'%');
++}
+ function render(){
++ normalizeCoverageState();
+  const {c,f,l,fl}=current();
++ $('#sensor').style.display=formatHasPhysicalDims(f)?'block':'none';
+  // FIX15: REAL TEST anamorphic desqueeze is display-only; always reset before rebuilding the view.
+  $("#realTestLayer").style.transform="none";
+  $("#sensor").style.transform="none";
+@@ -781,8 +835,24 @@
+    $("#sensor").style.width="70%"; $("#sensor").style.aspectRatio="16/9";
+    $("#model").textContent="SENSOR MODE VERIFIED · DIMENSIONS UNKNOWN";
+    $("#model").classList.add("estimateNote");
+-   $("#ic").textContent="Manufacturer does not publish active sensor W×H in mm for this mode.";
++   // Unknown camera dimensions do not erase independently known lens coverage.
++   const anam=hasLensTag(l,'anamorphic');
++   const qualified=focalFormatCoverage(l,fl);
++   const rect=Array.isArray(l.rect)?l.rect:qualified?pickQualifiedRect(qualified.rects,f):null;
++   if(anam && rect && Number(rect[0])>0 && Number(rect[1])>0){
++     $('#rectCov').style.display='block';$('#rectCov').style.width=coverageVisualScale()+'%';$('#rectCov').style.aspectRatio=`${rect[0]}/${rect[1]}`;
++     $('#ic').textContent=`${rect[0]}×${rect[1]} mm`;
++   }else if(focalIc){
++     const shape=$(anam?'#rectCov':'#circle');shape.style.display='block';shape.style.width=coverageVisualScale()+'%';shape.style.aspectRatio='1/1';
++     if(!focalIc.authoritative)shape.classList.add('estimated');
++     $('#ic').textContent=`${focalIc.authoritative?'':'≈ '}Ø ${focalIc.mm.toFixed(1)} mm`;
++   }else if(rect && Number(rect[0])>0 && Number(rect[1])>0){
++     $('#rectCov').style.display='block';$('#rectCov').style.width=coverageVisualScale()+'%';$('#rectCov').style.aspectRatio=`${rect[0]}/${rect[1]}`;
++     $('#ic').textContent=(qualified?.label||`${rect[0]}×${rect[1]} mm manufacturer reference`)+' · circular IC not published';
++   }else $('#ic').textContent=l.coverageText||'Numeric lens coverage not published';
++   fitOpticalGeometry();
+    $("#opticalType").textContent=hasLensTag(l,"anamorphic")?`${l.squeeze}× ANAMORPHIC`:"SPHERICAL";
++   $("#opticalType").className="v "+(hasLensTag(l,"anamorphic")?"warn":"");
+    $("#status").textContent="DIMENSIONS UNKNOWN"; $("#status").className="v warn";
+    $("#area").textContent="—"; $("#diag").textContent="—"; $("#hfov").textContent="—";
+    $("#vfov").textContent="—"; $("#dfov").textContent="—"; $("#outAspect").textContent="—";
+@@ -801,7 +871,7 @@
+    if(Array.isArray(l.rect) && Number(l.rect[0])>0 && Number(l.rect[1])>0){
+      ok=f.w<=l.rect[0] && f.h<=l.rect[1]; tight=ok && ((l.rect[0]-f.w)<1 || (l.rect[1]-f.h)<1);
+      $("#rectCov").style.aspectRatio=`${l.rect[0]}/${l.rect[1]}`;
+-     $("#sensor").style.width=Math.min(92,coverageScale*f.w/l.rect[0])+"%";
++     $("#sensor").style.width=(coverageScale*f.w/l.rect[0])+"%";
+      $("#ic").textContent=`${l.rect[0]}×${l.rect[1]} mm`;
+    }else if(focalIc && focalIc.authoritative){
+      const lensIC=focalIc.mm;
+@@ -809,7 +879,7 @@
+      // Keep the requested anamorphic horizontal-dashed graphic, but map its
+      // physical scale to the published numeric image diameter.
+      $("#rectCov").style.aspectRatio="1/1";
+-     $("#sensor").style.width=Math.min(92,coverageScale*f.w/lensIC)+"%";
++     $("#sensor").style.width=(coverageScale*f.w/lensIC)+"%";
+      $("#ic").textContent=`Published IC Ø ${lensIC.toFixed(1)} mm · anamorphic display`;
+    }else{
+      ok=null; tight=false;
+@@ -831,7 +901,7 @@
+    else if(focalIc.kind==="interpolated") $("#model").textContent="INTERPOLATED IMAGE CIRCLE";
+    else if(focalIc.kind==="format-estimate") $("#model").textContent="ESTIMATED IMAGE CIRCLE";
+    else $("#model").textContent="CIRCULAR IMAGE CIRCLE";
+-   $("#sensor").style.width=Math.min(92,coverageScale*f.w/lensIC)+"%";
++   $("#sensor").style.width=(coverageScale*f.w/lensIC)+"%";
+    $("#ic").innerHTML=focalIc.authoritative
+      ? `Ø ${lensIC.toFixed(1)} mm`
+      : `<span class="estimateNote">≈ Ø ${lensIC.toFixed(1)} mm</span>`;
+@@ -855,7 +925,7 @@
+        $("#rectCov").style.display="block";
+        $("#rectCov").style.width=coverageScale+"%";
+        $("#rectCov").style.aspectRatio=`${rr[0]}/${rr[1]}`;
+-       $("#sensor").style.width=Math.min(92,coverageScale*f.w/rr[0])+"%";
++       $("#sensor").style.width=(coverageScale*f.w/rr[0])+"%";
+      }else{
+        $("#rectCov").style.display="none";
+        $("#sensor").style.width="70%";
+@@ -869,7 +939,7 @@
+      $("#rectCov").style.display="block";
+      $("#rectCov").style.width=coverageScale+"%";
+      $("#rectCov").style.aspectRatio=`${rw}/${rh}`;
+-     $("#sensor").style.width=Math.min(92,coverageScale*f.w/rw)+"%";
++     $("#sensor").style.width=(coverageScale*f.w/rw)+"%";
+      $("#model").textContent="PUBLISHED REFERENCE FORMAT";
+      $("#ic").textContent=`${rw}×${rh} mm manufacturer reference · circular IC not published`;
+    }else if(c.ronin4d && l.ronin4dOnly && l.disableIcEstimate){
+@@ -895,6 +965,7 @@
+    }
+  }
+  $("#sensor").style.aspectRatio=`${f.w}/${f.h}`;
++ fitOpticalGeometry();
+  const anamLens=hasLensTag(l,"anamorphic");
+  const anamFormat=formatIsAnamorphic(f);
+  $("#opticalType").textContent=anamLens?`${l.squeeze}× ANAMORPHIC`:"SPHERICAL";
+@@ -1082,7 +1153,7 @@
+ 
+ 
+ $("#modeOptical").onclick=()=>{state.viewMode='optical';render()};
+-$("#modeReal").onclick=()=>{if(!$("#modeReal").disabled){const {l,fl}=current(); if(!realTestFor(l,fl)){const n=nearestRealTestFocal(l,fl); if(n!==null) state.focal=n;} state.viewMode='real';render()}};
++$("#modeReal").onclick=()=>{if(!$("#modeReal").disabled){if(realImageStatus==='error')realImageURL='';const {l,fl}=current(); if(!realTestFor(l,fl)){const n=nearestRealTestFocal(l,fl); if(n!==null) state.focal=n;} state.viewMode='real';render()}};
+ $("#irisOpen").onclick=()=>{if(!$("#irisOpen").disabled){state.iris='open';render()}};
+ $("#irisDown").onclick=()=>{if(!$("#irisDown").disabled){state.iris='down';render()}};
+ 
+@@ -1095,7 +1166,7 @@
+  window.visualViewport.addEventListener("resize",updateMobilePickerViewport);
+  window.visualViewport.addEventListener("scroll",updateMobilePickerViewport);
+ }
+-window.addEventListener("resize",updateMobilePickerViewport);
++window.addEventListener("resize",()=>{updateMobilePickerViewport();render();});
+ state.camera=5; state.format=0; state.lens=7; state.focal=25; state.viewMode="real";
+ state.sourceCamera=DATA.cameras.findIndex(c=>/^Nikon$/i.test(c.maker)&&/^ZR$/i.test(c.name));
+ if(state.sourceCamera<0) state.sourceCamera=state.camera; state.sourceFormat=0; state.sourceFocal=50;
